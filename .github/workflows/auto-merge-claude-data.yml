@@ -1,0 +1,166 @@
+name: Auto-merge Claude data updates
+
+# Validates and squash-merges data-only pull requests opened from `claude/*`
+# branches of this repository. Every other pull request is left untouched.
+#
+# Security notes:
+# - Uses `pull_request` (never `pull_request_target`), so fork PRs only ever get
+#   a read-only token and are additionally rejected by the eligibility checks.
+# - Untrusted values (branch name, SHAs, file paths) are passed through
+#   environment variables, never interpolated directly into shell scripts.
+# - The checkout does not persist credentials; only the merge step sees the token.
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: auto-merge-claude-data-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  auto-merge:
+    name: Validate and auto-merge
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PR_NUMBER: ${{ github.event.pull_request.number }}
+      REPO: ${{ github.repository }}
+      HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+      HEAD_REF: ${{ github.event.pull_request.head.ref }}
+      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+      BASE_SHA: ${{ github.event.pull_request.base.sha }}
+    steps:
+      - name: Check PR origin and branch
+        id: origin
+        shell: bash
+        run: |
+          echo "PR #${PR_NUMBER}: head ${HEAD_REPO}@${HEAD_SHA}, branch '${HEAD_REF}'"
+          reason=""
+          if [ "${HEAD_REPO}" != "${REPO}" ]; then
+            reason="head repository '${HEAD_REPO}' is not '${REPO}' (fork PRs are never auto-merged)"
+          elif [[ "${HEAD_REF}" != claude/* ]]; then
+            reason="head branch '${HEAD_REF}' does not start with 'claude/'"
+          fi
+          if [ -n "${reason}" ]; then
+            echo "::notice title=Not auto-merged::PR #${PR_NUMBER} is not eligible: ${reason}."
+            echo "eligible=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Origin check passed: same repository, branch starts with 'claude/'."
+            echo "eligible=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout exact PR head commit
+        if: steps.origin.outputs.eligible == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Check changed files
+        id: files
+        if: steps.origin.outputs.eligible == 'true'
+        shell: bash
+        run: |
+          # Diff between the merge base and the exact head commit; renames are
+          # reported as delete + add so they are caught by the deletion rule.
+          git diff --raw --no-renames -z "${BASE_SHA}...${HEAD_SHA}" > "$RUNNER_TEMP/diff.raw"
+          python3 - <<'PY'
+          import os
+          import sys
+
+          raw = open(os.path.join(os.environ["RUNNER_TEMP"], "diff.raw"), "rb").read()
+          parts = raw.split(b"\0")
+          if parts and parts[-1] == b"":
+              parts.pop()
+
+          # --raw -z format: ":<old mode> <new mode> <old sha> <new sha> <status>\0<path>\0"
+          entries = []
+          for meta, path in zip(parts[0::2], parts[1::2]):
+              fields = meta.decode().lstrip(":").split()
+              entries.append((fields[1], fields[4][0], path.decode("utf-8", "replace")))
+
+          problems = []
+          archive_json = []
+          print(f"Changed files ({len(entries)}):")
+          for new_mode, status, path in entries:
+              print(f"  {status} {path}")
+              if "\n" in path or "\r" in path:
+                  problems.append(f"file name contains a newline: {path!r}")
+                  continue
+              if not path.startswith("data/"):
+                  problems.append(f"file outside data/: {path}")
+              if status == "D":
+                  problems.append(f"file deleted: {path}")
+              elif new_mode not in ("100644", "100755"):
+                  problems.append(f"not a regular file (mode {new_mode}): {path}")
+              if path.startswith("data/archive/"):
+                  # Existing archive files are immutable; only new ones may be added.
+                  if status != "A":
+                      problems.append(f"existing archive file changed (only new archive files are allowed): {path}")
+                  elif path.endswith(".json"):
+                      archive_json.append(path)
+
+          if not entries:
+              problems.append("the PR has no changed files")
+          if not any(p == "data/latest.json" and s != "D" for _, s, p in entries):
+              problems.append("data/latest.json is not part of the changes")
+          if not archive_json:
+              problems.append("no new .json file under data/archive/ is added")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              if problems:
+                  for problem in problems:
+                      print(f"::notice title=Not auto-merged::{problem}")
+                  print(f"PR is not eligible for auto-merge ({len(problems)} problem(s)); leaving it untouched.")
+                  out.write("eligible=false\n")
+              else:
+                  with open(os.path.join(os.environ["RUNNER_TEMP"], "archive-files.txt"), "w") as f:
+                      f.write("\n".join(archive_json) + "\n")
+                  print("File check passed: only data/ files changed, latest.json and "
+                        f"{len(archive_json)} new archive file(s) added, nothing deleted or rewritten.")
+                  out.write("eligible=true\n")
+          PY
+
+      - name: Validate data files
+        if: steps.files.outputs.eligible == 'true'
+        shell: bash
+        run: |
+          echo "Validating data/latest.json"
+          python3 scripts/validate_data.py data/latest.json
+          while IFS= read -r file; do
+            [ -n "${file}" ] || continue
+            echo "Validating ${file}"
+            python3 scripts/validate_data.py "${file}"
+          done < "$RUNNER_TEMP/archive-files.txt"
+          echo "All data files are valid."
+
+      - name: Squash-merge and delete branch
+        if: steps.files.outputs.eligible == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "All checks passed; squash-merging PR #${PR_NUMBER} at ${HEAD_SHA}."
+          # `sha` makes GitHub refuse the merge if the branch moved after validation.
+          gh api --method PUT "repos/${REPO}/pulls/${PR_NUMBER}/merge" \
+            -f merge_method=squash \
+            -f sha="${HEAD_SHA}" \
+            --jq '"Merged: " + .message + " (" + .sha + ")"'
+          echo "Deleting branch '${HEAD_REF}'."
+          if gh api --method DELETE "repos/${REPO}/git/refs/heads/${HEAD_REF}" --silent; then
+            echo "Branch '${HEAD_REF}' deleted."
+          else
+            echo "::warning::PR #${PR_NUMBER} was merged, but branch '${HEAD_REF}' could not be deleted."
+          fi
+          echo "::notice title=Auto-merged::PR #${PR_NUMBER} was validated and squash-merged into main."
