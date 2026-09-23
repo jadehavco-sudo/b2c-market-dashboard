@@ -1,4 +1,3 @@
-\
 const byId = (id) => document.getElementById(id);
 const $ = (sel, root = document) => root.querySelector(sel);
 
