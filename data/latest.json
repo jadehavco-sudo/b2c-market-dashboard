@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-09-23T00:00:00Z",
+  "edition": {
+    "id": "placeholder",
+    "number": 0,
+    "title": "Bản tin mẫu (placeholder) – chưa có dữ liệu thật",
+    "status": "placeholder",
+    "language": "vi"
+  },
+  "executive_summary": {
+    "headline": "Chưa có bản tin. Đây là dữ liệu placeholder để kiểm tra cấu trúc.",
+    "summary": "File này chỉ minh họa cấu trúc dữ liệu. Không chứa số liệu hay nguồn thật. Automation sẽ thay thế nội dung khi có bản tin đầu tiên.",
+    "key_points": []
+  },
+  "market_metrics": [
+    {
+      "id": "example-metric",
+      "label": "Ví dụ chỉ số thị trường",
+      "value": null,
+      "unit": null,
+      "change": null,
+      "change_unit": null,
+      "period": null,
+      "source_ids": []
+    }
+  ],
+  "insights": [
+    {
+      "id": "example-insight",
+      "title": "Ví dụ insight",
+      "description": "Placeholder – chưa có insight thật.",
+      "category": null,
+      "impact": null,
+      "source_ids": []
+    }
+  ],
+  "b2c_signals": [
+    {
+      "id": "example-signal",
+      "signal": "Ví dụ tín hiệu B2C",
+      "description": "Placeholder – chưa có tín hiệu thật.",
+      "direction": null,
+      "strength": null,
+      "source_ids": []
+    }
+  ],
+  "sources": []
+}
