@@ -1,325 +1,204 @@
 {
-  "schema_version": "1.0",
-  "updated_at": "2026-09-23T09:00:00Z",
+  "schema_version": "2.0",
+  "updated_at": "2026-09-23T09:15:44Z",
   "edition": {
-    "id": "2026-09-23-afternoon",
-    "number": 2,
-    "title": "Bản tin thị trường 23/9/2026 (kỳ chiều)",
-    "status": "published",
+    "id": "schema-2.0-placeholder",
+    "number": 0,
+    "title": "Placeholder schema 2.0 — chờ bản tin đầu tiên",
+    "status": "placeholder",
     "language": "vi",
-    "session": "afternoon"
+    "session": null
   },
   "executive_summary": {
-    "headline": "Tỷ giá trung tâm hạ nhiệt nhẹ sau kỷ lục, vàng SJC hồi phục, VN-Index giữ sắc xanh phiên sáng nhưng chịu áp lực bán ròng khối ngoại về chiều",
-    "summary": "So với bản tin sáng 23/9, thị trường chiều nay ghi nhận ba thay đổi đáng chú ý. Thứ nhất, tỷ giá trung tâm USD/VND do NHNN công bố giảm 5 đồng xuống 25.635 đồng/USD sáng 23/9, tạm rời đỉnh kỷ lục 25.640 đồng/USD thiết lập ngày 22/9, dù giá bán USD tại Vietcombank/BIDV vẫn đi ngang ở mức cao 26.210 đồng/USD, gần đỉnh hai tháng. Thứ hai, giá vàng SJC bán ra hồi phục 600.000 đồng/lượng lên 145,5 triệu đồng/lượng sáng 23/9, sau khi đã giảm sâu khoảng 1,7 triệu đồng/lượng trong phiên 22/9. Thứ ba, VN-Index nối dài đà tăng trong phiên sáng 23/9, cộng thêm 2,21 điểm (+0,12%) lên 1.819,14 điểm nhờ dòng tiền tập trung nhóm ngân hàng (TCB, HDB), nhưng dữ liệu cập nhật giữa phiên chiều cho thấy khối ngoại quay lại bán ròng và cổ phiếu VIC đảo chiều giảm, kéo lùi đà tăng của chỉ số. Kết quả đóng cửa chính thức cả ngày 23/9 chưa được các nguồn công khai xác nhận đầy đủ tại thời điểm cập nhật nên tạm để mức chốt phiên sáng làm dữ liệu tham chiếu mới nhất, tránh suy đoán. Các số liệu vĩ mô, bán lẻ và thương mại điện tử theo kỳ 8 tháng/nửa đầu năm không có cập nhật mới trong ngày 23/9 nên được giữ nguyên như bản tin sáng.",
-    "key_points": [
-      "Tỷ giá trung tâm USD/VND giảm 5 đồng xuống 25.635 đồng/USD sáng 23/9, tạm rời đỉnh kỷ lục 25.640 đồng/USD của phiên 22/9; giá bán USD Vietcombank/BIDV đi ngang ở 26.210 đồng/USD, gần đỉnh hai tháng.",
-      "Giá vàng SJC bán ra tăng 600.000 đồng lên 145,5 triệu đồng/lượng sáng 23/9, đảo chiều một phần sau khi giảm khoảng 1,7 triệu đồng/lượng trong phiên 22/9.",
-      "VN-Index chốt phiên sáng 23/9 tăng 2,21 điểm (+0,12%) lên 1.819,14 điểm; thanh khoản HOSE tăng so với sáng 22/9, dòng tiền tập trung nhóm ngân hàng (TCB, HDB).",
-      "Dữ liệu cập nhật giữa phiên chiều 23/9 cho thấy khối ngoại quay lại bán ròng và VIC đảo chiều giảm (ước kéo chỉ số mất gần 4,5 điểm), khiến đà tăng thu hẹp; kết quả đóng cửa chính thức cả ngày chưa được xác nhận đầy đủ qua các nguồn tại thời điểm cập nhật bản tin.",
-      "Các số liệu vĩ mô (CPI, PMI, xuất nhập khẩu), bán lẻ và thương mại điện tử theo kỳ 8 tháng/nửa đầu năm không có cập nhật mới trong ngày 23/9, giữ nguyên như bản tin sáng."
+    "headline": "Chưa có bản tin theo schema 2.0",
+    "summary": "Đây là dữ liệu mẫu (placeholder) để minh họa cấu trúc schema 2.0 cho dashboard điều hành B2C và FPT Camera. Chưa có số liệu thật; mọi giá trị đang để null. Bản tin đầu tiên sẽ được routine cập nhật tự động điền theo docs/data-contract.md.",
+    "key_points": [],
+    "overall_sentiment": null,
+    "data_gaps": [
+      "Toàn bộ số liệu đang để null vì đây là placeholder, chưa có nghiên cứu thật."
     ]
   },
-  "market_metrics": [
-    {
-      "id": "vn-index-close",
-      "label": "VN-Index (chốt phiên sáng 23/9/2026)",
-      "value": 1819.14,
-      "unit": "điểm",
-      "change": 2.21,
-      "change_unit": "điểm",
-      "period": "2026-09-23 (phiên sáng)",
-      "source_ids": ["src-vnindex-pm"]
-    },
+  "market_dashboard": [
     {
       "id": "usd-vnd-central-rate",
       "label": "Tỷ giá trung tâm USD/VND (NHNN)",
-      "value": 25635,
+      "category": "fx",
+      "value": null,
       "unit": "VND/USD",
-      "change": -5,
+      "change": null,
       "change_unit": "VND",
-      "period": "2026-09-23",
-      "source_ids": ["src-fx-pm", "src-fx-pm2"]
-    },
-    {
-      "id": "usd-vnd-vietcombank-sell",
-      "label": "Giá bán USD tại Vietcombank/BIDV",
-      "value": 26210,
-      "unit": "VND/USD",
-      "change": 0,
-      "change_unit": "VND",
-      "period": "2026-09-23",
-      "source_ids": ["src-fx-bank-pm"]
+      "direction": null,
+      "period": null,
+      "note": "Chưa có dữ liệu (placeholder).",
+      "source_ids": []
     },
     {
       "id": "gold-sjc-sell",
-      "label": "Giá vàng SJC bán ra (sáng 23/9)",
-      "value": 145500000,
+      "label": "Giá vàng SJC bán ra",
+      "category": "gold",
+      "value": null,
       "unit": "VND/lượng",
-      "change": -1100000,
-      "change_unit": "VND/lượng (so với mức sáng 22/9 trong bản tin trước)",
-      "period": "2026-09-23",
-      "source_ids": ["src-gold-pm"]
-    },
-    {
-      "id": "cpi-avg-8m-2026",
-      "label": "CPI bình quân 8 tháng đầu năm 2026 (so cùng kỳ)",
-      "value": 4.45,
-      "unit": "%",
       "change": null,
-      "change_unit": null,
-      "period": "2026-01/2026-08",
-      "source_ids": ["src-cpi"]
+      "change_unit": "VND/lượng",
+      "direction": null,
+      "period": null,
+      "note": "Chưa có dữ liệu (placeholder).",
+      "source_ids": []
     },
     {
-      "id": "pmi-manufacturing-aug",
-      "label": "PMI ngành sản xuất Việt Nam (S&P Global)",
-      "value": 53.3,
+      "id": "vn-index-close",
+      "label": "VN-Index",
+      "category": "equity",
+      "value": null,
       "unit": "điểm",
-      "change": 0.4,
-      "change_unit": "điểm",
-      "period": "2026-08",
-      "source_ids": ["src-pmi"]
-    },
-    {
-      "id": "trade-total-8m-2026",
-      "label": "Tổng kim ngạch xuất nhập khẩu 8 tháng 2026",
-      "value": 770.14,
-      "unit": "tỷ USD",
-      "change": 28.7,
-      "change_unit": "% svck",
-      "period": "2026-01/2026-08",
-      "source_ids": ["src-trade"]
-    },
-    {
-      "id": "trade-balance-8m-2026",
-      "label": "Cán cân thương mại 8 tháng 2026 (nhập siêu)",
-      "value": -20.46,
-      "unit": "tỷ USD",
       "change": null,
-      "change_unit": null,
-      "period": "2026-01/2026-08",
-      "source_ids": ["src-trade"]
+      "change_unit": "điểm",
+      "direction": null,
+      "period": null,
+      "note": "Chưa có dữ liệu (placeholder).",
+      "source_ids": []
     },
     {
-      "id": "retail-sales-8m-2026",
-      "label": "Tổng mức bán lẻ hàng hóa & doanh thu dịch vụ tiêu dùng 8 tháng 2026",
-      "value": 5230,
+      "id": "retail-sales-ytd",
+      "label": "Tổng mức bán lẻ hàng hóa & doanh thu dịch vụ tiêu dùng (lũy kế)",
+      "category": "retail",
+      "value": null,
       "unit": "nghìn tỷ VND",
-      "change": 13.3,
+      "change": null,
       "change_unit": "% svck",
-      "period": "2026-01/2026-08",
-      "source_ids": ["src-retail"]
-    },
-    {
-      "id": "ecommerce-gmv-shopee-h1",
-      "label": "GMV Shopee (4 sàn TMĐT lớn nhất) nửa đầu 2026",
-      "value": 144.3,
-      "unit": "nghìn tỷ VND",
-      "change": 15,
-      "change_unit": "% svck",
-      "period": "2026-H1",
-      "source_ids": ["src-ecom"]
-    },
-    {
-      "id": "ecommerce-gmv-tiktokshop-h1",
-      "label": "GMV TikTok Shop nửa đầu 2026",
-      "value": 115,
-      "unit": "nghìn tỷ VND",
-      "change": 27,
-      "change_unit": "% svck",
-      "period": "2026-H1",
-      "source_ids": ["src-ecom"]
+      "direction": null,
+      "period": null,
+      "note": "Chưa có dữ liệu (placeholder).",
+      "source_ids": []
     }
   ],
-  "insights": [
+  "weekly_macro_watch": {
+    "period_start": null,
+    "period_end": null,
+    "summary": null,
+    "themes": [],
+    "key_metrics": [],
+    "outlook": null
+  },
+  "macro_24h": {
+    "summary": null,
+    "items": []
+  },
+  "financial_markets": {
+    "summary": null,
+    "metrics": [],
+    "highlights": []
+  },
+  "retail_consumer": {
+    "summary": null,
+    "metrics": [],
+    "trends": []
+  },
+  "b2c_traffic_lights": [
     {
-      "id": "fx-record-high",
-      "title": "Tỷ giá trung tâm tạm hạ nhiệt sau khi lập đỉnh, áp lực tỷ giá vẫn hiện hữu",
-      "description": "Sau khi lập đỉnh kỷ lục 25.640 đồng/USD ngày 22/9, tỷ giá trung tâm NHNN công bố sáng 23/9 giảm nhẹ 5 đồng xuống 25.635 đồng/USD. Tuy nhiên giá bán USD tại các ngân hàng thương mại lớn (Vietcombank, BIDV) vẫn đi ngang ở mức cao 26.210 đồng/USD, gần đỉnh hai tháng, cho thấy áp lực tỷ giá chưa thực sự hạ nhiệt mà chỉ tạm dừng đà tăng.",
-      "category": "fx",
-      "impact": "high",
-      "source_ids": ["src-fx-pm", "src-fx-pm2", "src-fx-bank-pm"]
+      "id": "consumer-demand",
+      "name": "Sức cầu tiêu dùng",
+      "status": null,
+      "trend": null,
+      "explanation": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "gold-rebound-after-drop",
-      "title": "Vàng SJC hồi phục nhẹ sau phiên giảm sâu 22/9",
-      "description": "Giá vàng SJC bán ra sáng 23/9 tăng 600.000 đồng/lượng lên 145,5 triệu đồng/lượng, đảo chiều một phần sau khi giảm khoảng 1,7 triệu đồng/lượng trong phiên 22/9 theo đà giảm của giá vàng thế giới. Mức giá hiện vẫn thấp hơn đáng kể so với đỉnh 146,6 triệu đồng/lượng ghi nhận sáng 22/9, cho thấy thị trường vàng trong nước vẫn đang dao động mạnh theo diễn biến giá thế giới.",
-      "category": "commodities",
-      "impact": "medium",
-      "source_ids": ["src-gold-pm"]
+      "id": "pricing-pressure",
+      "name": "Áp lực giá / tỷ giá lên giá vốn",
+      "status": null,
+      "trend": null,
+      "explanation": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "vnindex-morning-gain-afternoon-caution",
-      "title": "VN-Index nối dài đà tăng phiên sáng nhờ dòng ngân hàng, nhưng chịu áp lực bán ròng khối ngoại về chiều",
-      "description": "Phiên sáng 23/9, VN-Index tăng thêm 2,21 điểm (+0,12%) lên 1.819,14 điểm với thanh khoản HOSE cải thiện so với sáng 22/9, dòng tiền tập trung vào nhóm ngân hàng (TCB, HDB) - được hỗ trợ bởi thông tin HDBank được chấp thuận tăng vốn điều lệ. Tuy nhiên, dữ liệu cập nhật giữa phiên chiều cho thấy khối ngoại quay lại bán ròng và cổ phiếu VIC - động lực chính kéo tăng chỉ số phiên trước - đảo chiều giảm, ước làm chỉ số mất gần 4,5 điểm so với mức đỉnh trong phiên. Kết quả đóng cửa chính thức cả ngày 23/9 chưa được xác nhận đầy đủ qua các nguồn công khai tại thời điểm cập nhật bản tin, nên chưa đưa vào số liệu chính thức để tránh suy đoán.",
-      "category": "equity-market",
-      "impact": "medium",
-      "source_ids": ["src-vnindex-pm", "src-vnindex-intraday-pm"]
+      "id": "online-channel",
+      "name": "Kênh online / TMĐT",
+      "status": null,
+      "trend": null,
+      "explanation": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "trade-balance-reversal",
-      "title": "Cán cân thương mại đảo chiều sang nhập siêu",
-      "description": "8 tháng đầu năm 2026, Việt Nam nhập siêu 20,46 tỷ USD, trái ngược mức xuất siêu 14,02 tỷ USD cùng kỳ 2025, do nhập khẩu tăng 35,3% (đạt 395,3 tỷ USD) vượt xa tốc độ tăng xuất khẩu 22,4% (đạt 374,8 tỷ USD). Đây là thay đổi đáng chú ý trong cấu trúc thương mại, có thể gây thêm áp lực lên tỷ giá. Không có số liệu mới trong ngày 23/9.",
-      "category": "macro-trade",
-      "impact": "high",
-      "source_ids": ["src-trade"]
+      "id": "camera-demand",
+      "name": "Nhu cầu camera / smart home",
+      "status": null,
+      "trend": null,
+      "explanation": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "pmi-expansion-jobs-down",
-      "title": "Sản xuất mở rộng nhanh nhất hơn 2 năm nhưng việc làm giảm",
-      "description": "PMI ngành sản xuất tháng 8/2026 đạt 53,3 điểm, tăng từ 52,9 điểm tháng 7, với sản lượng và đơn hàng mới tăng nhanh nhất trong hơn hai năm và áp lực giá cả, nguồn cung giảm bớt. Tuy nhiên quy mô lao động ngành sản xuất giảm trở lại, cho thấy doanh nghiệp có thể đang tối ưu năng suất thay vì mở rộng nhân sự. Không có số liệu mới trong ngày 23/9.",
-      "category": "manufacturing",
-      "impact": "medium",
-      "source_ids": ["src-pmi"]
-    },
-    {
-      "id": "mid-autumn-cautious-spending",
-      "title": "Tiêu dùng mùa Trung thu 2026 thận trọng hơn",
-      "description": "Thị trường bánh Trung thu 2026 ghi nhận sức mua hạ nhiệt so với các năm trước; người tiêu dùng ưu tiên sản phẩm thiết yếu, ít ngọt, ít béo và thận trọng hơn với các sản phẩm quà biếu giá trị cao, phản ánh xu hướng chi tiêu dè dặt hơn ở phân khúc tiêu dùng không thiết yếu dù tổng bán lẻ vẫn tăng trưởng hai chữ số. Không có số liệu mới trong ngày 23/9.",
-      "category": "consumer-behavior",
-      "impact": "medium",
-      "source_ids": ["src-midautumn", "src-retail"]
+      "id": "competitive-pressure",
+      "name": "Áp lực cạnh tranh camera",
+      "status": null,
+      "trend": null,
+      "explanation": null,
+      "action": null,
+      "source_ids": []
     }
   ],
-  "b2c_signals": [
+  "recommendations": [],
+  "scenarios_7d": [
     {
-      "id": "tiktokshop-gains-share",
-      "signal": "TikTok Shop thu hẹp khoảng cách thị phần với Shopee",
-      "description": "Nửa đầu 2026, GMV TikTok Shop đạt 115 nghìn tỷ đồng (+27% svck, thị phần 43,4%), trong khi Shopee đạt 144,3 nghìn tỷ đồng (+15% svck, thị phần 54,5%). Hai nền tảng chiếm gần 98% thị trường TMĐT đo lường được, thị trường ngày càng mang tính lưỡng cực và mô hình \"shoppertainment\" (mua sắm kết hợp livestream) tiếp tục thúc đẩy tăng trưởng của TikTok Shop. Không có số liệu mới trong ngày 23/9.",
-      "direction": "up",
-      "strength": "strong",
-      "source_ids": ["src-ecom"]
+      "id": "base",
+      "type": "base",
+      "scenario": null,
+      "likelihood": null,
+      "conditions": null,
+      "consumer_impact": null,
+      "b2c_impact": null,
+      "fpt_camera_impact": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "cautious-gift-spending",
-      "signal": "Người tiêu dùng thận trọng hơn với hàng giá trị cao dịp Trung thu",
-      "description": "Sức mua bánh Trung thu 2026 hạ nhiệt, người tiêu dùng chuyển sang các lựa chọn thiết yếu, giá phải chăng hơn thay vì hộp quà cao cấp, cho thấy tâm lý chi tiêu dè dặt ở phân khúc quà biếu/tiêu dùng không thiết yếu. Không có số liệu mới trong ngày 23/9.",
-      "direction": "down",
-      "strength": "moderate",
-      "source_ids": ["src-midautumn"]
+      "id": "upside",
+      "type": "upside",
+      "scenario": null,
+      "likelihood": null,
+      "conditions": null,
+      "consumer_impact": null,
+      "b2c_impact": null,
+      "fpt_camera_impact": null,
+      "action": null,
+      "source_ids": []
     },
     {
-      "id": "retail-headline-growth-steady",
-      "signal": "Tổng bán lẻ vẫn duy trì đà tăng trưởng hai chữ số",
-      "description": "Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng 8 tháng 2026 đạt hơn 5,23 triệu tỷ đồng (~204,5 tỷ USD), tăng 13,3% so với cùng kỳ, cho thấy sức cầu tiêu dùng tổng thể vẫn tích cực dù có phân hóa giữa các ngành hàng. Không có số liệu mới trong ngày 23/9.",
-      "direction": "up",
-      "strength": "moderate",
-      "source_ids": ["src-retail"]
+      "id": "downside",
+      "type": "downside",
+      "scenario": null,
+      "likelihood": null,
+      "conditions": null,
+      "consumer_impact": null,
+      "b2c_impact": null,
+      "fpt_camera_impact": null,
+      "action": null,
+      "source_ids": []
     }
   ],
-  "sources": [
-    {
-      "id": "src-vnindex",
-      "title": "Tăng hơn 17 điểm, VN-Index lấy lại mốc 1.800",
-      "publisher": "CafeF",
-      "url": "https://cafef.vn/tang-hon-17-diem-vn-index-lay-lai-moc-1800-188260922165725996.chn",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-vnindex2",
-      "title": "[Infographic] Chứng khoán ngày 22/9: VN-Index tăng 17,26 điểm, thanh khoản thị trường giảm",
-      "publisher": "Báo Nhân Dân",
-      "url": "https://nhandan.vn/infographic-chung-khoan-ngay-229-vn-index-tang-1726-diem-thanh-khoan-thi-truong-giam-post990302.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-vnindex-pm",
-      "title": "Phiên giao dịch sáng 23/9: Nhóm ngân hàng giữ nhịp tăng cho VN-Index",
-      "publisher": "Tin nhanh chứng khoán (Đầu tư Chứng khoán)",
-      "url": "https://www.tinnhanhchungkhoan.vn/phien-giao-dich-sang-239-nhom-ngan-hang-giu-nhip-tang-cho-vn-index-post398125.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-vnindex-intraday-pm",
-      "title": "Nhịp đập Thị trường 23/09: Khối ngoại tiếp tục \"xả hàng\", VIC quay đầu \"đạp\" chỉ số mất gần 4.5 điểm",
-      "publisher": "Vietstock (qua Investing.com)",
-      "url": "https://vn.investing.com/news/stock-market-news/nhip-dap-thi-truong-2309-khoi-ngoai-tiep-tuc-xa-hang-vic-quay-dau-dap-chi-so-mat-gan-45-diem-2718437",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-fx",
-      "title": "Tỷ giá hôm nay 22/9: Giá USD nhích tăng",
-      "publisher": "BNEWS (TTXVN)",
-      "url": "https://bnews.vn/ty-gia-hom-nay-22-9-gia-usd-nhich-tang/437688.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-fx-pm",
-      "title": "Ngày 23/9: Tỷ giá trung tâm giảm 5 đồng",
-      "publisher": "Thị trường Tài chính Tiền tệ",
-      "url": "https://thitruongtaichinhtiente.vn/ngay-23-9-ty-gia-trung-tam-giam-5-dong-85754.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-fx-pm2",
-      "title": "Sáng 23/9: NHNN niêm yết tỷ giá trung tâm ở mức 25.635 đồng",
-      "publisher": "Thời báo Ngân hàng",
-      "url": "https://thoibaonganhang.vn/sang-239-nhnn-niem-yet-ty-gia-trung-tam-o-muc-25635-dong-187933.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-fx-bank-pm",
-      "title": "Tỷ giá USD hôm nay 23/9/2026: Đồng USD giữ đà tăng, áp sát đỉnh 2 tháng",
-      "publisher": "Doanh nghiệp Hội nhập",
-      "url": "https://doanhnghiephoinhap.vn/ty-gia-usd-hom-nay-2392026-dong-usd-giu-da-tang-ap-sat-dinh-2-thang-149638.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-gold",
-      "title": "Cập nhật 09:12 sáng 22/09/2026: Giá vàng đồng loạt đi ngang, SJC duy trì 146,6 triệu đồng",
-      "publisher": "Pháp luật & Sức khỏe Đời sống",
-      "url": "https://phapluat.suckhoedoisong.vn/cap-nhat-0912-sang-22092026-gia-vang-dong-loat-di-ngang-sjc-duy-tri-1466-trieu-dong-285618.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-gold-pm",
-      "title": "Giá vàng hôm nay 23/09/2026: SJC tăng lên 142,5 - 145,5 triệu đồng/lượng",
-      "publisher": "Pháp luật & Sức khỏe Đời sống",
-      "url": "https://phapluat.suckhoedoisong.vn/gia-vang-hom-nay-23092026-sjc-tang-len-1425-1455-trieu-dongluong-285685.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-cpi",
-      "title": "Lạm phát 8 tháng đầu năm 2026",
-      "publisher": "Vietstock",
-      "url": "https://vietstock.vn/2026/09/lam-phat-8-thang-dau-nam-2026-761-1494556.htm",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-pmi",
-      "title": "PMI tháng 8 đạt 53,3 điểm, sản xuất Việt Nam tăng mạnh nhất hai năm",
-      "publisher": "VnEconomy",
-      "url": "https://vneconomy.vn/pmi-thang-8-dat-533-diem-nganh-san-xuat-viet-nam-tang-nhanh-nhat-trong-hai-nam.htm",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-trade",
-      "title": "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD",
-      "publisher": "Báo Công Thương",
-      "url": "https://congthuong.vn/tong-kim-ngach-xuat-nhap-khau-8-thang-dat-770-14-ty-usd-471382.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-retail",
-      "title": "Vietnam's total retail sales, services up 13.3 pct in first 8 months of 2026",
-      "publisher": "Xinhua",
-      "url": "https://english.news.cn/20260904/8dff8ea923ce441c8a62064ec86a2e2d/c.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-ecom",
-      "title": "TikTok Shop narrows gap with Shopee as Vietnam e-commerce becomes duopoly",
-      "publisher": "The Investor",
-      "url": "https://theinvestor.vn/tiktok-shop-narrows-gap-with-shopee-as-vietnam-e-commerce-becomes-duopoly-d19240.html",
-      "accessed_at": "2026-09-23"
-    },
-    {
-      "id": "src-midautumn",
-      "title": "Thị trường bánh Trung thu 2026: Sức mua hạ nhiệt, khẩu vị đổi thay",
-      "publisher": "VTV",
-      "url": "https://vtv.vn/thi-truong-banh-trung-thu-2026-suc-mua-ha-nhiet-khau-vi-doi-thay-100260914112953722.htm",
-      "accessed_at": "2026-09-23"
+  "must_read": [],
+  "events_next_24h": [],
+  "decisions_today": [],
+  "camera_market_watch": {
+    "summary": null,
+    "market_status": null,
+    "key_metrics": [],
+    "signals": [],
+    "pricing_watch": [],
+    "channel_watch": [],
+    "demand_watch": [],
+    "fpt_camera_impact": {
+      "overall": null,
+      "summary": null,
+      "opportunities": [],
+      "risks": [],
+      "source_ids": []
     }
-  ]
+  },
+  "competitor_watch": [],
+  "sources": []
 }
