@@ -104,15 +104,19 @@ jobs:
                   problems.append(f"file deleted: {path}")
               elif new_mode not in ("100644", "100755"):
                   problems.append(f"not a regular file (mode {new_mode}): {path}")
-              if status != "D" and path.startswith("data/archive/") and path.endswith(".json"):
-                  archive_json.append(path)
+              if path.startswith("data/archive/"):
+                  # Existing archive files are immutable; only new ones may be added.
+                  if status != "A":
+                      problems.append(f"existing archive file changed (only new archive files are allowed): {path}")
+                  elif path.endswith(".json"):
+                      archive_json.append(path)
 
           if not entries:
               problems.append("the PR has no changed files")
           if not any(p == "data/latest.json" and s != "D" for _, s, p in entries):
               problems.append("data/latest.json is not part of the changes")
           if not archive_json:
-              problems.append("no .json file under data/archive/ is part of the changes")
+              problems.append("no new .json file under data/archive/ is added")
 
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               if problems:
@@ -124,7 +128,7 @@ jobs:
                   with open(os.path.join(os.environ["RUNNER_TEMP"], "archive-files.txt"), "w") as f:
                       f.write("\n".join(archive_json) + "\n")
                   print("File check passed: only data/ files changed, latest.json and "
-                        f"{len(archive_json)} archive file(s) included, nothing deleted.")
+                        f"{len(archive_json)} new archive file(s) added, nothing deleted or rewritten.")
                   out.write("eligible=true\n")
           PY
 
