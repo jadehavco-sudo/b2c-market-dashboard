@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#F5F9FF" />
+  <title>B2C Market Intelligence | FPT Camera</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="page-bg">
+    <div class="glow glow-blue"></div>
+    <div class="glow glow-orange"></div>
+  </div>
+
+  <header class="app-header">
+    <div class="brand-wrap">
+      <div class="brand-mark" aria-hidden="true">
+        <span class="lens-ring ring-1"></span>
+        <span class="lens-ring ring-2"></span>
+        <span class="lens-core"></span>
+      </div>
+      <div>
+        <div class="brand-kicker">B2C MARKET INTELLIGENCE</div>
+        <div class="brand-title">FPT Camera Command Center</div>
+      </div>
+    </div>
+
+    <div class="header-right">
+      <div class="live-chip">
+        <span class="live-dot"></span>
+        <span>Auto-updated</span>
+      </div>
+      <div class="header-time">
+        <strong id="edition-session">—</strong>
+        <span id="updated-at">—</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Dashboard sections">
+    <button class="nav-pill active" data-target="overview">Tổng quan</button>
+    <button class="nav-pill" data-target="market">Thị trường</button>
+    <button class="nav-pill" data-target="b2c">Điều hành B2C</button>
+    <button class="nav-pill camera-pill" data-target="camera">FPT Camera</button>
+    <button class="nav-pill" data-target="sources">Nguồn</button>
+  </nav>
+
+  <main class="shell">
+    <section id="overview" class="hero-grid">
+      <article class="hero-card">
+        <div class="hero-copy">
+          <div class="eyebrow-row">
+            <span class="eyebrow" id="edition-badge">—</span>
+            <span class="sentiment-badge" id="overall-sentiment">—</span>
+          </div>
+          <h1 id="edition-title">Đang tải bản tin...</h1>
+          <h2 id="headline">—</h2>
+          <p id="summary">—</p>
+          <div id="key-points" class="key-points"></div>
+        </div>
+
+        <aside class="hero-side">
+          <div class="camera-visual" aria-hidden="true">
+            <div class="camera-body">
+              <div class="camera-lens">
+                <span></span>
+              </div>
+              <div class="camera-led"></div>
+            </div>
+            <div class="signal-wave wave-1"></div>
+            <div class="signal-wave wave-2"></div>
+            <div class="signal-wave wave-3"></div>
+          </div>
+
+          <div class="hero-meta-card">
+            <span class="meta-label">Dữ liệu</span>
+            <strong id="source-count">— nguồn</strong>
+            <small id="freshness">—</small>
+          </div>
+        </aside>
+      </article>
+
+      <aside class="data-gap-card">
+        <div class="data-gap-icon">i</div>
+        <div>
+          <div class="section-kicker">DATA QUALITY</div>
+          <h3>Dữ liệu còn thiếu</h3>
+          <div id="data-gaps" class="data-gap-list"></div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="market" class="section-block">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">MARKET PULSE</span>
+          <h2>Dashboard thị trường</h2>
+        </div>
+        <span class="section-note">Tối đa 12 chỉ số quan trọng nhất</span>
+      </div>
+      <div id="market-dashboard" class="metric-grid"></div>
+    </section>
+
+    <section class="section-block split-grid">
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">7-DAY WATCH</span>
+            <h2>Vĩ mô trong tuần</h2>
+          </div>
+        </div>
+        <p id="weekly-summary" class="section-summary">—</p>
+        <div id="weekly-themes" class="stack-list"></div>
+        <div id="weekly-outlook" class="outlook-box"></div>
+      </article>
+
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">LAST 24H</span>
+            <h2>Vĩ mô 24 giờ</h2>
+          </div>
+        </div>
+        <p id="macro24-summary" class="section-summary">—</p>
+        <div id="macro24-items" class="stack-list"></div>
+      </article>
+    </section>
+
+    <section class="section-block split-grid">
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">FINANCIAL MARKETS</span>
+            <h2>Tài chính & hàng hóa</h2>
+          </div>
+        </div>
+        <p id="financial-summary" class="section-summary">—</p>
+        <div id="financial-metrics" class="mini-metric-grid"></div>
+        <div id="financial-highlights" class="stack-list"></div>
+      </article>
+
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">RETAIL & CONSUMER</span>
+            <h2>Bán lẻ & người tiêu dùng</h2>
+          </div>
+        </div>
+        <p id="retail-summary" class="section-summary">—</p>
+        <div id="retail-metrics" class="mini-metric-grid"></div>
+        <div id="retail-trends" class="stack-list"></div>
+      </article>
+    </section>
+
+    <section id="b2c" class="section-block">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">B2C CONTROL TOWER</span>
+          <h2>Đèn tín hiệu điều hành</h2>
+        </div>
+      </div>
+      <div id="traffic-lights" class="traffic-grid"></div>
+    </section>
+
+    <section class="section-block split-grid decision-grid">
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">ACTION NOW</span>
+            <h2>Đề xuất điều hành</h2>
+          </div>
+        </div>
+        <div id="recommendations" class="recommendation-list"></div>
+      </article>
+
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">TODAY</span>
+            <h2>Quyết định cần cân nhắc</h2>
+          </div>
+        </div>
+        <div id="decisions" class="decision-list"></div>
+      </article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">NEXT 7 DAYS</span>
+          <h2>Ba kịch bản</h2>
+        </div>
+      </div>
+      <div id="scenarios" class="scenario-grid"></div>
+    </section>
+
+    <section class="section-block split-grid">
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">WATCH NEXT</span>
+            <h2>Sự kiện 24 giờ tới</h2>
+          </div>
+        </div>
+        <div id="events" class="stack-list"></div>
+      </article>
+
+      <article class="panel-card">
+        <div class="section-heading compact">
+          <div>
+            <span class="section-kicker">MUST READ</span>
+            <h2>5 bài nên đọc</h2>
+          </div>
+        </div>
+        <div id="must-read" class="must-read-list"></div>
+      </article>
+    </section>
+
+    <section id="camera" class="section-block camera-zone">
+      <div class="camera-zone-head">
+        <div>
+          <span class="section-kicker orange">FPT CAMERA INTELLIGENCE</span>
+          <h2>Camera Market Watch</h2>
+          <p id="camera-summary">—</p>
+        </div>
+        <div class="camera-status-card">
+          <span>Market status</span>
+          <strong id="camera-status">—</strong>
+        </div>
+      </div>
+
+      <div id="camera-key-metrics" class="metric-grid camera-metrics"></div>
+
+      <div class="camera-impact-grid">
+        <article class="impact-card">
+          <div class="impact-label">Tác động tổng hợp tới FPT Camera</div>
+          <div class="impact-state" id="camera-impact-state">—</div>
+          <p id="camera-impact-summary">—</p>
+        </article>
+
+        <article class="impact-card positive">
+          <div class="impact-label">Cơ hội</div>
+          <div id="camera-opportunities" class="bullet-list"></div>
+        </article>
+
+        <article class="impact-card negative">
+          <div class="impact-label">Rủi ro</div>
+          <div id="camera-risks" class="bullet-list"></div>
+        </article>
+      </div>
+
+      <div class="camera-subgrid">
+        <article class="panel-card">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker orange">SIGNALS</span>
+              <h2>Xu hướng thị trường</h2>
+            </div>
+          </div>
+          <div id="camera-signals" class="stack-list"></div>
+        </article>
+
+        <article class="panel-card">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker orange">DEMAND</span>
+              <h2>Nhu cầu & hành vi</h2>
+            </div>
+          </div>
+          <div id="camera-demand" class="stack-list"></div>
+        </article>
+      </div>
+
+      <div class="camera-subgrid">
+        <article class="panel-card wide-table-card">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker orange">PRICE WATCH</span>
+              <h2>Giá & khuyến mãi</h2>
+            </div>
+          </div>
+          <div class="table-scroll">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Thương hiệu</th>
+                  <th>Sản phẩm</th>
+                  <th>Kênh</th>
+                  <th>Giá</th>
+                  <th>Biến động</th>
+                  <th>Khuyến mãi</th>
+                </tr>
+              </thead>
+              <tbody id="pricing-watch"></tbody>
+            </table>
+          </div>
+        </article>
+
+        <article class="panel-card">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker orange">CHANNEL WATCH</span>
+              <h2>Kênh bán</h2>
+            </div>
+          </div>
+          <div id="channel-watch" class="stack-list"></div>
+        </article>
+      </div>
+
+      <article class="panel-card competitor-panel">
+        <div class="section-heading">
+          <div>
+            <span class="section-kicker orange">COMPETITOR WATCH</span>
+            <h2>Đối thủ Camera</h2>
+          </div>
+          <div id="competitor-filters" class="filter-row"></div>
+        </div>
+        <div id="competitor-watch" class="competitor-grid"></div>
+      </article>
+    </section>
+
+    <section id="sources" class="section-block">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">EVIDENCE</span>
+          <h2>Nguồn tham khảo</h2>
+        </div>
+        <button id="toggle-sources" class="ghost-btn" type="button">Hiện tất cả nguồn</button>
+      </div>
+      <div id="source-list" class="source-grid collapsed"></div>
+    </section>
+
+    <footer>
+      <div>
+        Dashboard chỉ đọc <code>data/latest.json</code> · không gọi API khác.
+      </div>
+      <div id="schema-label">Schema —</div>
+    </footer>
+  </main>
+
+  <template id="metric-template">
+    <article class="metric-card">
+      <div class="metric-icon"></div>
+      <div class="metric-body">
+        <div class="metric-label"></div>
+        <div class="metric-value"></div>
+        <div class="metric-foot">
+          <span class="metric-change"></span>
+          <span class="metric-period"></span>
+        </div>
+        <div class="metric-note"></div>
+      </div>
+    </article>
+  </template>
+
+  <template id="stack-template">
+    <article class="stack-card">
+      <div class="stack-top">
+        <span class="stack-badge"></span>
+        <span class="stack-level"></span>
+      </div>
+      <h4 class="stack-title"></h4>
+      <p class="stack-detail"></p>
+      <div class="source-chips"></div>
+    </article>
+  </template>
+
+  <template id="traffic-template">
+    <article class="traffic-card">
+      <div class="traffic-light"><span></span></div>
+      <div class="traffic-content">
+        <div class="traffic-top">
+          <h4 class="traffic-name"></h4>
+          <span class="traffic-trend"></span>
+        </div>
+        <p class="traffic-explanation"></p>
+        <div class="traffic-action"></div>
+        <div class="source-chips"></div>
+      </div>
+    </article>
+  </template>
+
+  <template id="recommendation-template">
+    <article class="recommendation-card">
+      <div class="recommendation-top">
+        <span class="priority-pill"></span>
+        <span class="owner-pill"></span>
+      </div>
+      <h4 class="recommendation-issue"></h4>
+      <p class="recommendation-evidence"></p>
+      <div class="recommendation-action"></div>
+      <div class="recommendation-meta">
+        <span class="deadline"></span>
+        <span class="kpi"></span>
+      </div>
+      <div class="source-chips"></div>
+    </article>
+  </template>
+
+  <template id="scenario-template">
+    <article class="scenario-card">
+      <div class="scenario-top">
+        <span class="scenario-type"></span>
+        <span class="scenario-likelihood"></span>
+      </div>
+      <h4 class="scenario-title"></h4>
+      <div class="scenario-block">
+        <span>Điều kiện</span>
+        <p class="scenario-conditions"></p>
+      </div>
+      <div class="scenario-mini-grid">
+        <div><span>Người tiêu dùng</span><p class="scenario-consumer"></p></div>
+        <div><span>B2C</span><p class="scenario-b2c"></p></div>
+        <div><span>FPT Camera</span><p class="scenario-camera"></p></div>
+      </div>
+      <div class="scenario-action"></div>
+      <div class="source-chips"></div>
+    </article>
+  </template>
+
+  <template id="competitor-template">
+    <article class="competitor-card">
+      <div class="competitor-head">
+        <div>
+          <div class="competitor-name"></div>
+          <span class="development-type"></span>
+        </div>
+        <span class="threat-pill"></span>
+      </div>
+      <p class="competitor-development"></p>
+      <div class="competitor-facts">
+        <div><span>Kênh</span><strong class="competitor-channel"></strong></div>
+        <div><span>Giá/Promo</span><strong class="competitor-promo"></strong></div>
+      </div>
+      <div class="competitor-impact"></div>
+      <div class="competitor-response"></div>
+      <div class="source-chips"></div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
