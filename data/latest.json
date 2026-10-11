@@ -1,32 +1,31 @@
 {
   "schema_version": "2.0",
-  "updated_at": "2026-10-10T02:02:26Z",
+  "updated_at": "2026-10-11T02:05:00Z",
   "edition": {
-    "id": "2026-10-10-morning",
-    "number": 27,
-    "title": "Bản tin thị trường B2C & FPT Camera 10/10/2026 (kỳ sáng, Thứ Bảy)",
+    "id": "2026-10-11-morning",
+    "number": 28,
+    "title": "Bản tin thị trường B2C & FPT Camera 11/10/2026 (kỳ sáng, Chủ Nhật)",
     "status": "published",
     "language": "vi",
     "session": "morning"
   },
   "executive_summary": {
-    "headline": "10/10: Sale đôi bước vào cao điểm; Brent hạ còn ~103 USD nhưng xăng vẫn ở mặt bằng cao sau 6 kỳ tăng, VN-Index 1.735,09, vàng SJC tăng lên 144,8 triệu đồng/lượng.",
-    "summary": "(MỚI) VN-Index 9/10 đóng 1.735,09 (-3,88; -0,22%), thanh khoản ~27.543 tỷ đồng; khối ngoại bán ròng hơn 9.000 tỷ đồng chủ yếu do giao dịch thỏa thuận MCH. (MỚI) Phố Wall 9/10: Dow +0,83%, S&P 500 +0,59%, Nasdaq +0,64%, cả ba tăng theo tuần; Brent ~103,2 USD (-1,08%) sau phát biểu của ông Trump rằng Mỹ không tấn công Iran trước bầu cử giữa kỳ. (MỚI) Tỷ giá trung tâm 25.629 (-5), USD tự do tăng lên 26.080-26.180; vàng SJC bán 144,8 triệu đồng/lượng (+1,8), vàng thế giới ~4.200 USD/oz. Không đổi: xăng E10 28.254 đ/lít sau 6 kỳ tăng liên tiếp (kỳ kế tiếp dự kiến 15/10, chưa có thông báo), CPI tháng 9 +5,08%, bán lẻ 9 tháng +13,4% (thực +7,8%). Camera: sale 10.10 (thứ Bảy) là cao điểm; giá trang bán lẻ ở mặt bằng thấp (Tapo C200 369.000 đ, Imou 375.000 đ, EZVIZ C6N Pro 449.000 đ), FPT Shop niêm yết camera FPT 499.000-599.000 đ; chưa xác minh giá trên sàn và chưa có diễn biến mới đã xác minh của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam.",
+    "headline": "11/10 (Chủ Nhật): thị trường nghỉ cuối tuần — vàng SJC đi ngang 144,8 triệu đồng/lượng, chưa có số liệu mới về Brent/tỷ giá; trọng tâm là phiên thứ Hai 12/10 và kỳ giá xăng dự kiến 15/10.",
+    "summary": "(MỚI) Sáng 11/10 vàng SJC giữ 141,8-144,8 triệu đồng/lượng, vàng thế giới ~4.195 USD/oz; thị trường chờ CPI Mỹ. Do là Chủ Nhật, chứng khoán, tỷ giá trung tâm và dầu chưa có phiên mới nên các số liệu VN-Index 1.735,09 (9/10), tỷ giá trung tâm 25.629 (10/10), Brent ~103,2 USD (9/10), xăng E10 28.254 đ/lít (kỳ 8/10, sau 6 kỳ tăng; kỳ kế tiếp dự kiến 15/10, chưa có thông báo) được giữ nguyên từ bản tin trước. CPI tháng 9 +5,08% svck, bán lẻ 9 tháng +13,4% (thực +7,8%). Camera: sale đôi 10.10 đã kết thúc nhưng chưa tìm được số liệu kết quả hay giá thực trên Shopee/TikTok Shop/Lazada; giá trang bán lẻ vẫn ở mặt bằng thấp (Imou 375.000 đ, EZVIZ C6N Pro 449.000 đ, Tapo C200 369.000 đ), không rõ ngày cập nhật; chưa có diễn biến mới đã xác minh của Imou/EZVIZ/Dahua/Hikvision.",
     "key_points": [
-      "Chi phí vận hành: Brent hạ còn ~103 USD nhưng xăng vẫn ở mặt bằng cao (E10 28.254 đ/lít, E5 +5.220 đ/lít từ đầu tháng 9); đèn Áp lực giá giữ đỏ, chuyển sang ổn định vì không xấu thêm; kỳ giá 15/10 phụ thuộc Brent tuần tới.",
-      "Tâm lý thị trường: VN-Index chỉ -0,22%; số khối ngoại bán ròng >9.000 tỷ chủ yếu từ giao dịch thỏa thuận MCH, không nên đọc như dòng vốn rút diện rộng hay suy giảm sức mua.",
-      "Tỷ giá/vàng: tỷ giá trung tâm 25.629 nhưng USD tự do tăng lên 26.080-26.180 (một nguồn); vàng SJC +1,8 triệu đồng — theo dõi tác động lên giá vốn nhập khẩu và dòng tiền tích trữ.",
-      "Camera: cao điểm sale 10.10 với giá thiết bị Wifi thấp; lợi thế FPT nằm ở combo Internet + Cloud + lắp đặt nếu điều kiện được xác nhận, cần giá thực trên sàn lúc 12h và 20h.",
-      "Rủi ro hậu sale: phí logistics mới của TikTok Shop hiệu lực 12/10 có thể làm mỏng biên combo cồng kềnh; cần rà biên trước 11/10."
+      "Vàng: SJC đi ngang 144,8 triệu đồng/lượng sáng 11/10 sau phiên tăng 1,8 triệu hôm 10/10; chênh với giá quy đổi thế giới ~13 triệu đồng/lượng.",
+      "Chi phí vận hành: chưa có số liệu dầu/xăng mới; xăng E10 28.254 đ/lít sau 6 kỳ tăng, Brent ~103 USD (9/10); thị trường dầu mở lại 12/10 quyết định xu hướng kỳ 15/10.",
+      "Tâm lý thị trường: không có phiên chứng khoán mới; khối ngoại bán ròng 9/10 chủ yếu do giao dịch thỏa thuận MCH, chưa phải tín hiệu suy giảm sức mua.",
+      "Camera: sale 10.10 đã qua, thiếu dữ liệu giá/doanh số thực trên sàn; cần số liệu nội bộ 3 ngày sale trước khi kết luận cầu hoặc điều chỉnh giá.",
+      "Rủi ro hậu sale: phí logistics mới của TikTok Shop hiệu lực 12/10 có thể làm mỏng biên combo cồng kềnh; cần rà biên trước thứ Hai."
     ],
     "overall_sentiment": "mixed",
     "data_gaps": [
-      "Công cụ truy cập trực tiếp bị chặn với nhiều tên miền báo Việt Nam và Mỹ; số liệu dựa trên tiêu đề/tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
-      "Tỷ giá trung tâm 10/10 (25.629) và giá USD ngân hàng/tự do chỉ có một nguồn; DXY và lợi suất trái phiếu Mỹ không có số xác minh nên DXY để null.",
-      "Số khối ngoại bán ròng 9/10 chênh giữa các nguồn (9.272-9.736 tỷ đồng); vàng thế giới ~4.182-4.200 USD/oz tùy thời điểm; Brent 103,20-103,48 USD tùy nguồn.",
-      "Chưa có thông báo chính thức kỳ giá xăng dầu 15/10.",
-      "Giá camera Imou/EZVIZ/Tapo lấy từ trang danh mục chuỗi bán lẻ/đại lý (Phong Vũ, Song Phương, CellphoneS), giá camera FPT từ trang FPT Shop không rõ ngày cập nhật; chưa xác minh trên Shopee/TikTok Shop/Lazada; lịch sale 10.10 lấy từ trang tổng hợp bên thứ ba.",
-      "Chưa có chỉ báo nhu cầu camera định lượng (lượt tìm kiếm, GMV camera) và chưa có diễn biến mới đã xác minh về Imou/EZVIZ/Dahua/Hikvision tại Việt Nam trong 24 giờ qua; các mục đối thủ giữ nguyên ngày quan sát gốc.",
+      "Bản tin Chủ Nhật: không có phiên mới của chứng khoán, tỷ giá trung tâm, dầu; các số liệu này giữ nguyên từ bản tin 10/10 (xem period/as_of từng chỉ số).",
+      "Giá vàng 11/10 lấy từ tóm tắt kết quả tìm kiếm (công cụ không truy cập được toàn văn); vàng thế giới ~4.194-4.196 USD/oz tùy nguồn.",
+      "Không tìm được kết quả/doanh số sale 10.10 hay giá camera thực trên Shopee/TikTok Shop/Lazada; giá Imou/EZVIZ/Tapo từ trang danh mục bán lẻ không ghi ngày cập nhật, giá camera FPT từ FPT Shop không rõ ngày.",
+      "DXY và lợi suất trái phiếu Mỹ không có số xác minh nên DXY để null; chưa có thông báo chính thức kỳ giá xăng dầu 15/10; lịch CPI Mỹ chưa xác minh từ nguồn chính thức nên không đưa vào sự kiện.",
+      "Chưa có chỉ báo nhu cầu camera định lượng và chưa có diễn biến mới đã xác minh về Imou/EZVIZ/Dahua/Hikvision tại Việt Nam; các mục đối thủ giữ nguyên ngày quan sát gốc.",
       "Tin Apple/LG và lịch 13/10 chỉ là thông tin thứ cấp, chưa xác nhận từ Apple."
     ]
   },
@@ -66,20 +65,20 @@
     },
     {
       "id": "gold-sjc-sell",
-      "label": "Vàng miếng SJC (bán ra, sáng 10/10)",
+      "label": "Vàng miếng SJC (bán ra, sáng 11/10)",
       "category": "gold",
       "value": 144.8,
       "unit": "triệu đồng/lượng",
-      "change": 1.8,
-      "change_unit": "triệu đồng/lượng so với sáng 9/10",
-      "direction": "up",
-      "period": "2026-10-10",
-      "as_of": "2026-10-10",
-      "note": "SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng sáng 10/10, tăng 1,8 triệu đồng ở cả hai chiều; vàng nhẫn SJC/PNJ 141,3-144,3. Vàng thế giới khoảng 4.182-4.200 USD/oz (nguồn ghi mức cao nhất một tuần); SJC cao hơn giá quy đổi khoảng 13 triệu đồng/lượng. Mức thay đổi tính theo nội dung nguồn, số liệu có thể khác theo thời điểm.",
+      "change": 0,
+      "change_unit": "triệu đồng/lượng so với 10/10",
+      "direction": "flat",
+      "period": "2026-10-11",
+      "as_of": "2026-10-11",
+      "note": "Sáng 11/10 (Chủ Nhật) SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, không đổi so với 10/10 (sau phiên tăng 1,8 triệu đồng hôm 10/10); vàng nhẫn SJC 141,3-144,3; chênh mua-bán ~3 triệu đồng/lượng. Vàng thế giới ~4.194-4.196 USD/oz (Kitco ~4.194 lúc 4h30), SJC cao hơn giá quy đổi (~131,6 triệu đồng/lượng) khoảng 13 triệu đồng/lượng. Nguồn nhắc thị trường chờ dữ liệu CPI Mỹ. Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
       "source_ids": [
-        "v10-gold-vov",
-        "v10-gold-vietbao",
-        "v10-gold-kenh14"
+        "w11-gold-baovanhoa",
+        "w11-gold-qdnd",
+        "w11-gold-vov"
       ]
     },
     {
@@ -488,20 +487,20 @@
       },
       {
         "id": "gold-sjc-sell",
-        "label": "Vàng miếng SJC (bán ra, sáng 10/10)",
+        "label": "Vàng miếng SJC (bán ra, sáng 11/10)",
         "category": "gold",
         "value": 144.8,
         "unit": "triệu đồng/lượng",
-        "change": 1.8,
-        "change_unit": "triệu đồng/lượng so với sáng 9/10",
-        "direction": "up",
-        "period": "2026-10-10",
-        "as_of": "2026-10-10",
-        "note": "SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng sáng 10/10, tăng 1,8 triệu đồng ở cả hai chiều; vàng nhẫn SJC/PNJ 141,3-144,3. Vàng thế giới khoảng 4.182-4.200 USD/oz (nguồn ghi mức cao nhất một tuần); SJC cao hơn giá quy đổi khoảng 13 triệu đồng/lượng. Mức thay đổi tính theo nội dung nguồn, số liệu có thể khác theo thời điểm.",
+        "change": 0,
+        "change_unit": "triệu đồng/lượng so với 10/10",
+        "direction": "flat",
+        "period": "2026-10-11",
+        "as_of": "2026-10-11",
+        "note": "Sáng 11/10 (Chủ Nhật) SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, không đổi so với 10/10 (sau phiên tăng 1,8 triệu đồng hôm 10/10); vàng nhẫn SJC 141,3-144,3; chênh mua-bán ~3 triệu đồng/lượng. Vàng thế giới ~4.194-4.196 USD/oz (Kitco ~4.194 lúc 4h30), SJC cao hơn giá quy đổi (~131,6 triệu đồng/lượng) khoảng 13 triệu đồng/lượng. Nguồn nhắc thị trường chờ dữ liệu CPI Mỹ. Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
         "source_ids": [
-          "v10-gold-vov",
-          "v10-gold-vietbao",
-          "v10-gold-kenh14"
+          "w11-gold-baovanhoa",
+          "w11-gold-qdnd",
+          "w11-gold-vov"
         ]
       },
       {
@@ -907,9 +906,9 @@
       "priority": "high",
       "issue": "Chưa có giá thực trên sàn trong cao điểm sale 10.10",
       "evidence": "Trang bán lẻ ghi Tapo C200 369.000 đ (từ 599.000), EZVIZ C6N Pro 2K 449.000 đ (từ 990.000), Imou IPC-A22EP 375.000 đ (từ 699.000) — chưa xác minh trên Shopee/TikTok Shop/Lazada; lịch sale lấy từ trang tổng hợp bên thứ ba.",
-      "action": "Chụp giá, voucher, quà tặng của Imou/EZVIZ/Tapo/FPT trên Shopee, TikTok Shop, Lazada lúc 12h và 20h ngày 10/10 và nạp vào bản tin kế tiếp; chỉ quyết điều chỉnh khuyến mãi dựa trên giá đã xác minh.",
+      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Chụp giá, voucher, quà tặng của Imou/EZVIZ/Tapo/FPT trên Shopee, TikTok Shop, Lazada lúc 12h và 20h ngày 10/10 và nạp vào bản tin kế tiếp; chỉ quyết điều chỉnh khuyến mãi dựa trên giá đã xác minh.",
       "owner": "Kinh doanh online",
-      "deadline": "2026-10-10",
+      "deadline": "2026-10-12",
       "kpi": "Số SKU đối thủ có giá xác minh trên sàn; chênh lệch tổng chi phí 12 tháng FPT vs đối thủ",
       "source_ids": [
         "u9-cam-phongvu-wifi",
@@ -923,9 +922,9 @@
       "priority": "medium",
       "issue": "Phí logistics mới của TikTok Shop có hiệu lực 12/10 trùng sau cao điểm sale",
       "evidence": "Phí 3.000-65.000 đ/kiện, người bán chịu, hiệu lực 12/10 (nguồn Thanh Niên/Kênh14 đã dẫn ở bản tin trước).",
-      "action": "Tính lại biên gộp sau phí cho từng combo camera theo cân nặng thực đo, loại hoặc điều chỉnh combo âm biên trước 12/10.",
+      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Tính lại biên gộp sau phí cho từng combo camera theo cân nặng thực đo, loại hoặc điều chỉnh combo âm biên trước 12/10.",
       "owner": "Kinh doanh online",
-      "deadline": "2026-10-11",
+      "deadline": "2026-10-12",
       "kpi": "Biên gộp sau phí/combo; tỷ lệ combo âm biên bằng 0",
       "source_ids": [
         "src-tiktok-vecom-response-thanhnien",
@@ -937,9 +936,9 @@
       "priority": "medium",
       "issue": "Thông điệp combo Internet + camera + Cloud cần điều kiện đã xác nhận trước khi dùng trong sale",
       "evidence": "Trang đại lý/FPT ghi ưu đãi tặng camera + Cloud 12 tháng khi lắp Internet, lắp đặt miễn phí cho khách đang dùng FPT, phí lắp 110.000-165.000 đ/camera cho khách ngoài; điều kiện lấy từ trang đại lý (chưa xác nhận trên fpt.vn).",
-      "action": "Xác nhận điều kiện ưu đãi trên kênh chính thức, rồi dựng bảng tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) so với mức giá thiết bị 369.000-590.000 đ để dùng trong nội dung sale.",
+      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Xác nhận điều kiện ưu đãi trên kênh chính thức, rồi dựng bảng tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) so với mức giá thiết bị 369.000-590.000 đ để dùng trong nội dung sale.",
       "owner": "Marketing / Sản phẩm FPT Camera",
-      "deadline": "2026-10-10",
+      "deadline": "2026-10-12",
       "kpi": "Tỷ lệ nội dung sale có bảng tổng chi phí; tỷ lệ chuyển đổi combo Internet + camera",
       "source_ids": [
         "u9-cam-fpt-promo",
@@ -1068,17 +1067,16 @@
   ],
   "events_next_24h": [
     {
-      "id": "ev-sale-1010",
-      "event": "Ngày sale đôi 10.10 (thứ Bảy) trên Shopee, TikTok Shop, Lazada",
-      "scheduled_at": "2026-10-10",
-      "category": "Thương mại điện tử",
-      "importance": "high",
-      "why_it_matters": "Cao điểm cạnh tranh giá camera; trang bán lẻ đã ghi giá Wifi 2K ở 369.000-590.000 đ (chưa xác minh trên sàn).",
-      "watch_for": "Giá, voucher, quà tặng thực của Imou/EZVIZ/Tapo/FPT trên sàn lúc 12h và 20h; lịch sale lấy từ trang tổng hợp bên thứ ba.",
+      "id": "ev-monday-open-1210",
+      "event": "Phiên thứ Hai 12/10: NHNN công bố tỷ giá trung tâm, thị trường chứng khoán và dầu mở lại",
+      "scheduled_at": "2026-10-12",
+      "category": "Tỷ giá / Chứng khoán",
+      "importance": "medium",
+      "why_it_matters": "Là phiên đầu tiên có số liệu mới sau cuối tuần; tỷ giá trung tâm hiện 25.629 và USD tự do 26.080-26.180 (một nguồn), VN-Index 1.735,09.",
+      "watch_for": "Tỷ giá trung tâm so với 25.629; VN-Index so với 1.735,09; khối ngoại sau đợt thỏa thuận MCH.",
       "source_ids": [
-        "u9-sale-viettablet",
-        "u9-sale-shopee-cal",
-        "u9-cam-phongvu-wifi"
+        "v10-fx-dnhn",
+        "v10-vni-nhandan"
       ]
     },
     {
@@ -1112,16 +1110,16 @@
   "decisions_today": [
     {
       "id": "dec-1010-combo-1010",
-      "decision": "Chốt thông điệp và giá sàn combo camera cho cao điểm sale 10.10",
-      "context": "Giá trang bán lẻ cho camera Wifi 2K ở 369.000-590.000 đ nhưng chưa xác minh trên sàn; FPT có lợi thế combo Internet + Cloud nếu điều kiện được xác nhận.",
+      "decision": "Rà soát kết quả sale 10.10 và chốt giá sàn/thông điệp combo camera cho giai đoạn hậu sale",
+      "context": "Sale 10.10 đã kết thúc nhưng chưa có số liệu giá/doanh số thực trên sàn; giá trang bán lẻ camera Wifi 2K ở 369.000-590.000 đ (không rõ ngày cập nhật); FPT có lợi thế combo Internet + Cloud nếu điều kiện được xác nhận.",
       "options": [
         "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng (Cloud + lắp đặt)",
-        "Khuyến mãi sâu một số SKU Wifi cơ bản",
-        "Chờ giá thực trên sàn lúc 12h ngày 10/10 rồi điều chỉnh"
+        "Khuyến mãi có điều kiện cho một số SKU Wifi cơ bản",
+        "Chờ số liệu nội bộ 3 ngày sale rồi mới điều chỉnh"
       ],
-      "recommended_option": "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng; điều chỉnh sau khi có giá thực lúc 12h 10/10",
+      "recommended_option": "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng; chỉ điều chỉnh khi có số liệu nội bộ 3 ngày sale",
       "owner": "Giám đốc Kinh doanh online / Marketing",
-      "deadline": "2026-10-10",
+      "deadline": "2026-10-12",
       "urgency": "high",
       "source_ids": [
         "u9-cam-phongvu-wifi",
@@ -2799,6 +2797,30 @@
       "url": "https://vnexpress.net/apple-ra-loat-thiet-bi-nha-thong-minh-ngay-13-10-5130213.html",
       "published_at": null,
       "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "w11-gold-baovanhoa",
+      "title": "Giá vàng hôm nay 11/10: Vàng thế giới phục hồi mạnh, giá SJC không đổi",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/kinh-te/gia-vang-hom-nay-1110-vang-the-gioi-phuc-hoi-manh-gia-sjc-khong-doi-273463.html",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "w11-gold-qdnd",
+      "title": "Giá vàng hôm nay (11-10): Đồng loạt đi ngang",
+      "publisher": "Báo Quân đội nhân dân",
+      "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-vang-hom-nay-11-10-dong-loat-di-ngang-1060193",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "w11-gold-vov",
+      "title": "Giá vàng hôm nay 11/10: Chênh lệch mua bán vàng trong nước 3 triệu đồng/lượng",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-1110-chenh-lech-mua-ban-vang-trong-nuoc-3-trieu-dongluong-post1340142.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
     }
   ]
 }
