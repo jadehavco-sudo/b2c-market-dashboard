@@ -1,32 +1,31 @@
 {
   "schema_version": "2.0",
-  "updated_at": "2026-10-11T02:05:00Z",
+  "updated_at": "2026-10-12T02:05:17Z",
   "edition": {
-    "id": "2026-10-11-morning",
-    "number": 28,
-    "title": "Bản tin thị trường B2C & FPT Camera 11/10/2026 (kỳ sáng, Chủ Nhật)",
+    "id": "2026-10-12-morning",
+    "number": 29,
+    "title": "Bản tin thị trường B2C & FPT Camera 12/10/2026 (kỳ sáng, Thứ Hai)",
     "status": "published",
     "language": "vi",
     "session": "morning"
   },
   "executive_summary": {
-    "headline": "11/10 (Chủ Nhật): thị trường nghỉ cuối tuần — vàng SJC đi ngang 144,8 triệu đồng/lượng, chưa có số liệu mới về Brent/tỷ giá; trọng tâm là phiên thứ Hai 12/10 và kỳ giá xăng dự kiến 15/10.",
-    "summary": "(MỚI) Sáng 11/10 vàng SJC giữ 141,8-144,8 triệu đồng/lượng, vàng thế giới ~4.195 USD/oz; thị trường chờ CPI Mỹ. Do là Chủ Nhật, chứng khoán, tỷ giá trung tâm và dầu chưa có phiên mới nên các số liệu VN-Index 1.735,09 (9/10), tỷ giá trung tâm 25.629 (10/10), Brent ~103,2 USD (9/10), xăng E10 28.254 đ/lít (kỳ 8/10, sau 6 kỳ tăng; kỳ kế tiếp dự kiến 15/10, chưa có thông báo) được giữ nguyên từ bản tin trước. CPI tháng 9 +5,08% svck, bán lẻ 9 tháng +13,4% (thực +7,8%). Camera: sale đôi 10.10 đã kết thúc nhưng chưa tìm được số liệu kết quả hay giá thực trên Shopee/TikTok Shop/Lazada; giá trang bán lẻ vẫn ở mặt bằng thấp (Imou 375.000 đ, EZVIZ C6N Pro 449.000 đ, Tapo C200 369.000 đ), không rõ ngày cập nhật; chưa có diễn biến mới đã xác minh của Imou/EZVIZ/Dahua/Hikvision.",
+    "headline": "12/10 (Thứ Hai): tỷ giá trung tâm và vàng SJC đi ngang, Brent ~104 USD; phí logistics mới của TikTok Shop có hiệu lực hôm nay và VN-Index vào tuần mới sau ba tuần điều chỉnh.",
+    "summary": "Sáng 12/10 tỷ giá trung tâm giữ 25.629 đ/USD (một số báo ghi 25.621), USD tự do ~26.110-26.160; vàng SJC đi ngang ngày thứ ba ở 141,8-144,8 triệu đồng/lượng; Brent dao động 104-105 USD, giá xăng trong nước vẫn là mức kỳ 8/10 (E10 28.250 đ/lít) và kỳ kế tiếp dự kiến 15/10 chưa có thông báo. VN-Index chưa có phiên mới (1.735,09 ngày 9/10), tuần trước là tuần giảm thứ ba liên tiếp. Nền tiêu dùng vẫn vững (bán lẻ 9 tháng +13,4%, thực +7,8%; CPI tháng 9 +5,08% svck). Camera: phí logistics TikTok Shop cho kiện trên 10kg áp dụng cho đơn tạo từ 0h hôm nay (người bán chịu, 3.000-65.000 đ/kiện); giá Imou/EZVIZ tại chuỗi bán lẻ vẫn ở mặt bằng thấp (Imou IPC-A32EP 380.000 đ, EZVIZ H6C Pro 445.000 đ); báo cáo Metric cho thấy Shopee chiếm phần áp đảo doanh số camera không dây trên sàn (kỳ dữ liệu cần xác nhận). Chưa có diễn biến mới đã xác minh của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam.",
     "key_points": [
-      "Vàng: SJC đi ngang 144,8 triệu đồng/lượng sáng 11/10 sau phiên tăng 1,8 triệu hôm 10/10; chênh với giá quy đổi thế giới ~13 triệu đồng/lượng.",
-      "Chi phí vận hành: chưa có số liệu dầu/xăng mới; xăng E10 28.254 đ/lít sau 6 kỳ tăng, Brent ~103 USD (9/10); thị trường dầu mở lại 12/10 quyết định xu hướng kỳ 15/10.",
-      "Tâm lý thị trường: không có phiên chứng khoán mới; khối ngoại bán ròng 9/10 chủ yếu do giao dịch thỏa thuận MCH, chưa phải tín hiệu suy giảm sức mua.",
-      "Camera: sale 10.10 đã qua, thiếu dữ liệu giá/doanh số thực trên sàn; cần số liệu nội bộ 3 ngày sale trước khi kết luận cầu hoặc điều chỉnh giá.",
-      "Rủi ro hậu sale: phí logistics mới của TikTok Shop hiệu lực 12/10 có thể làm mỏng biên combo cồng kềnh; cần rà biên trước thứ Hai."
+      "Tỷ giá/vàng: tỷ giá trung tâm 25.629 đi ngang (một số báo ghi 25.621), vàng SJC 144,8 triệu đồng/lượng đi ngang 3 ngày; chưa có tín hiệu thay đổi sức mua từ hai chỉ báo này.",
+      "Chi phí vận hành: Brent ~104 USD (các nguồn lệch 103,8-105,6), xăng E10 28.250 đ/lít sau 6 kỳ tăng; kỳ giá dự kiến 15/10 là mốc quyết định giả định chi phí giao nhận/lắp đặt quý IV.",
+      "Tâm lý thị trường: VN-Index 1.735,09 (9/10), tuần điều chỉnh thứ 3; vùng 1.715-1.730 được theo dõi như hỗ trợ; CPI Mỹ 14/10 là điểm nhìn tiếp theo cho USD/lãi suất.",
+      "Kênh online: phí logistics TikTok Shop có hiệu lực hôm nay cho đơn từ 0h 12/10, người bán chịu và không hoàn khi đơn hoàn tiền; combo camera nặng trên 10kg cần rà biên ngay.",
+      "Camera: giá Wifi trong nhà vẫn thấp trên trang bán lẻ; chưa có số liệu doanh số sale 10.10 hay giá thực trên sàn; thiếu dữ liệu nhu cầu định lượng."
     ],
     "overall_sentiment": "mixed",
     "data_gaps": [
-      "Bản tin Chủ Nhật: không có phiên mới của chứng khoán, tỷ giá trung tâm, dầu; các số liệu này giữ nguyên từ bản tin 10/10 (xem period/as_of từng chỉ số).",
-      "Giá vàng 11/10 lấy từ tóm tắt kết quả tìm kiếm (công cụ không truy cập được toàn văn); vàng thế giới ~4.194-4.196 USD/oz tùy nguồn.",
-      "Không tìm được kết quả/doanh số sale 10.10 hay giá camera thực trên Shopee/TikTok Shop/Lazada; giá Imou/EZVIZ/Tapo từ trang danh mục bán lẻ không ghi ngày cập nhật, giá camera FPT từ FPT Shop không rõ ngày.",
-      "DXY và lợi suất trái phiếu Mỹ không có số xác minh nên DXY để null; chưa có thông báo chính thức kỳ giá xăng dầu 15/10; lịch CPI Mỹ chưa xác minh từ nguồn chính thức nên không đưa vào sự kiện.",
-      "Chưa có chỉ báo nhu cầu camera định lượng và chưa có diễn biến mới đã xác minh về Imou/EZVIZ/Dahua/Hikvision tại Việt Nam; các mục đối thủ giữ nguyên ngày quan sát gốc.",
-      "Tin Apple/LG và lịch 13/10 chỉ là thông tin thứ cấp, chưa xác nhận từ Apple."
+      "Sáng Thứ Hai: VN-Index, Nasdaq và lãi suất liên ngân hàng chưa có số mới nên giữ số liệu gần nhất (xem period/as_of từng chỉ số); lãi suất liên ngân hàng giữ số 6/10.",
+      "Tỷ giá trung tâm 12/10: các báo ghi 25.629 / 25.626 / 25.621, chưa đối chiếu được trang NHNN; giá vàng, dầu lấy từ tóm tắt kết quả tìm kiếm vì công cụ không truy cập được toàn văn các trang tin; Brent sáng 12/10 lệch giữa các nguồn (103,8-105,6 USD).",
+      "DXY chỉ có mô tả \"trên 102 điểm\" nên để null; CPI Mỹ ngày 14/10 và dự báo +0,58%/3,7% svck lấy từ nguồn thứ cấp (KuCoin flash), chưa xác nhận từ BLS; chưa có thông báo chính thức kỳ giá xăng dầu 15/10.",
+      "Không tìm được kết quả/doanh số sale 10.10 hay giá camera thực trên Shopee/TikTok Shop/Lazada; giá Imou/EZVIZ/Tapo từ trang bán lẻ không rõ ngày cập nhật; báo cáo Metric chỉ đọc qua tóm tắt tìm kiếm (kỳ dữ liệu 2025, tiêu đề ghi cập nhật 6/2026).",
+      "Chưa có chỉ báo nhu cầu camera định lượng và chưa có diễn biến mới đã xác minh về Imou/EZVIZ/Dahua/Hikvision tại Việt Nam; tin Apple/LG và lịch 13/10 chỉ là thông tin thứ cấp."
     ]
   },
   "market_dashboard": [
@@ -36,14 +35,17 @@
       "category": "fx",
       "value": 25629,
       "unit": "VND/USD",
-      "change": -5,
-      "change_unit": "VND so với 9/10 (25.634)",
-      "direction": "down",
-      "period": "2026-10-10",
-      "as_of": "2026-10-10",
-      "note": "Một nguồn (Doanh nghiệp & Hội nhập) ghi NHNN công bố 25.629 đ/USD sáng 10/10; nguồn tìm kiếm khác ghi mức giảm 5 hoặc 7 đồng so với phiên trước nên mức thay đổi tính từ 25.634 của bản tin trước. Giá USD tại Vietcombank 25.660-26.070, VietinBank 25.629-26.074, BIDV 25.680-26.060 (mua-bán); thị trường tự do tăng lên 26.080-26.180 theo cùng nguồn. Chưa đối chiếu được nguồn thứ hai cho ngày 10/10.",
+      "change": 0,
+      "change_unit": "VND so với phiên trước",
+      "direction": "flat",
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Phần lớn các báo ghi NHNN giữ nguyên tỷ giá trung tâm 25.629 đ/USD sáng 12/10; Thanh Niên và Thời báo Tài chính VN ghi 25.621 (-8), VOV ghi 25.626 nên các nguồn chênh nhẹ. Vietcombank 25.660-26.070 (mua-bán); thị trường tự do ~26.110-26.160 (một nguồn). Các báo nhận định USD quốc tế tăng tuần thứ tư liên tiếp, thị trường chờ dữ liệu lạm phát Mỹ.",
       "source_ids": [
-        "v10-fx-dnhn"
+        "x12-fx-dnhn",
+        "x12-fx-vov",
+        "x12-fx-thanhnien",
+        "x12-fx-tbtc"
       ]
     },
     {
@@ -57,45 +59,49 @@
       "direction": "down",
       "period": "2026-10-09",
       "as_of": "2026-10-09",
-      "note": "Phiên 9/10: VN-Index 1.735,09 (-3,88); giá trị giao dịch ~27.543 tỷ đồng (tăng mạnh do giao dịch thỏa thuận). Khối ngoại bán ròng 9.272-9.736 tỷ đồng tùy nguồn, phần lớn từ giao dịch thỏa thuận mã MCH; ngoài MCH có HDB ~227 tỷ, FPT ~121 tỷ. Các nguồn chênh số bán ròng.",
+      "note": "Chưa có phiên mới (số liệu 9/10). Phiên 9/10: VN-Index 1.735,09 (-3,88); thanh khoản ~27.543 tỷ đồng do giao dịch thỏa thuận; khối ngoại bán ròng >9.000 tỷ chủ yếu từ thỏa thuận MCH. Cả tuần 5-9/10 giảm ~2,62 điểm, tuần điều chỉnh thứ 3 liên tiếp; các nhận định tuần 12-16/10 xem vùng 1.715-1.730 điểm là vùng thử hỗ trợ, 1.750-1.760 là vùng hồi phục đầu tiên.",
       "source_ids": [
         "v10-vni-nhandan",
-        "v10-vni-baomoi"
+        "v10-vni-baomoi",
+        "x12-vni-vietstock",
+        "x12-vni-vov",
+        "x12-vni-index"
       ]
     },
     {
       "id": "gold-sjc-sell",
-      "label": "Vàng miếng SJC (bán ra, sáng 11/10)",
+      "label": "Vàng miếng SJC (bán ra, sáng 12/10)",
       "category": "gold",
       "value": 144.8,
       "unit": "triệu đồng/lượng",
       "change": 0,
-      "change_unit": "triệu đồng/lượng so với 10/10",
+      "change_unit": "triệu đồng/lượng so với 11/10",
       "direction": "flat",
-      "period": "2026-10-11",
-      "as_of": "2026-10-11",
-      "note": "Sáng 11/10 (Chủ Nhật) SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, không đổi so với 10/10 (sau phiên tăng 1,8 triệu đồng hôm 10/10); vàng nhẫn SJC 141,3-144,3; chênh mua-bán ~3 triệu đồng/lượng. Vàng thế giới ~4.194-4.196 USD/oz (Kitco ~4.194 lúc 4h30), SJC cao hơn giá quy đổi (~131,6 triệu đồng/lượng) khoảng 13 triệu đồng/lượng. Nguồn nhắc thị trường chờ dữ liệu CPI Mỹ. Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Sáng 12/10 SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, đi ngang ngày thứ 3 liên tiếp; vàng nhẫn SJC ~141,3-144,3; chênh mua-bán phổ biến ~3 triệu đồng/lượng. Vàng thế giới ~4.186-4.191 USD/oz (Kitco ~4.186). Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
       "source_ids": [
-        "w11-gold-baovanhoa",
-        "w11-gold-qdnd",
-        "w11-gold-vov"
+        "x12-gold-danviet",
+        "x12-gold-cafef",
+        "x12-gold-baoquocte"
       ]
     },
     {
       "id": "oil-brent",
-      "label": "Dầu Brent (phiên Mỹ 9/10)",
+      "label": "Dầu Brent (sáng 12/10, giờ Việt Nam)",
       "category": "commodity",
-      "value": 103.2,
+      "value": 104.3,
       "unit": "USD/thùng",
-      "change": -1.08,
-      "change_unit": "% phiên 9/10",
-      "direction": "down",
-      "period": "2026-10-09",
-      "as_of": "2026-10-09",
-      "note": "TheStreet ghi Brent giảm 1,08% còn 103,20 USD/thùng; Yahoo/CNBC ghi Brent tháng 12 giảm 0,77% còn 103,48 USD nên các nguồn chênh nhẹ do thời điểm. WTI ~90,90 USD. Giảm sau thông tin ông Trump nói Mỹ sẽ không tấn công Iran trước bầu cử giữa kỳ và ông Putin đồng ý cung cấp diesel.",
+      "change": null,
+      "change_unit": null,
+      "direction": null,
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Các nguồn sáng 12/10 ghi Brent từ 103,8 đến 105,6 USD/thùng và WTI ~91-92,6 USD tùy thời điểm nên giá trị 104,3 chỉ là mức giữa; một nguồn ghi Brent đóng cửa 9/10 là 104,72 trong khi bản tin trước ghi 103,2 nên không tính mức thay đổi. Tiêu đề các báo lệch hướng (một báo ghi vượt 105 USD, một báo ghi giảm hơn 1%).",
       "source_ids": [
-        "v10-us-thestreet",
-        "v10-us-yahoo"
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-oil-vietnamnet"
       ]
     },
     {
@@ -109,7 +115,7 @@
       "direction": "up",
       "period": "2026-10-08",
       "as_of": "2026-10-08",
-      "note": "Giá bán lẻ tối đa kỳ 8/10 từ 15h: E10 RON95-III 28.254 (+1.065), E5 RON92 27.703 (+1.134); dầu diesel giảm ~589-590 đ/lít xuống 29.120. Kỳ tăng thứ 6 liên tiếp; E5 đã tăng 5.220 đ/lít từ đầu tháng 9. Quỹ bình ổn chỉ trích 200 đ/lít cho diesel.",
+      "note": "Giá bán lẻ tối đa kỳ 8/10 từ 15h: E10 RON95-III 28.254 (+1.065), E5 RON92 27.703 (+1.134); dầu diesel giảm ~589-590 đ/lít xuống 29.120. Kỳ tăng thứ 6 liên tiếp; E5 đã tăng 5.220 đ/lít từ đầu tháng 9. Quỹ bình ổn chỉ trích 200 đ/lít cho diesel. Giá này vẫn áp dụng ngày 12/10; chưa có thông báo kỳ điều hành kế tiếp.",
       "source_ids": [
         "u9-fuel-baogialai",
         "u9-fuel-24h",
@@ -386,7 +392,7 @@
         ]
       }
     ],
-    "outlook": "Tuần 12-16/10: theo dõi Brent/Hormuz (quyết định kỳ giá xăng dự kiến 15/10, chưa có thông báo chính thức), tỷ giá và vàng sau nhịp tăng cuối tuần, mùa báo cáo lợi nhuận Mỹ bắt đầu bằng nhóm ngân hàng lớn, và dữ liệu bán hàng thực tế của sale 10.10.",
+    "outlook": "Tuần 12-16/10: (1) VN-Index vào tuần mới sau tuần điều chỉnh thứ 3; các nhận định xem 1.715-1.730 là vùng thử hỗ trợ; (2) Brent ~104 USD quyết định kỳ giá xăng dự kiến 15/10 (chưa có thông báo); (3) CPI Mỹ tháng 9 dự kiến 14/10 (dự báo của Barclays qua nguồn thứ cấp: +0,58% tháng, 3,7% svck, chưa xác nhận từ BLS) và mùa báo cáo lợi nhuận Mỹ; (4) phí logistics TikTok Shop có hiệu lực 12/10.",
     "source_ids": [
       "n5-week-giavang",
       "n5-week-tradingkey",
@@ -397,60 +403,79 @@
     ]
   },
   "macro_24h": {
-    "summary": "Đêm qua - sáng 10/10: VN-Index 9/10 giảm nhẹ 3,88 điểm với thanh khoản đột biến nhờ giao dịch thỏa thuận; Phố Wall tăng theo tuần, Brent hạ còn ~103 USD; tỷ giá trung tâm 25.629; vàng SJC tăng 1,8 triệu đồng. Giá xăng không đổi so với kỳ điều hành 8/10 (kỳ kế tiếp dự kiến 15/10, chưa có thông báo).",
+    "summary": "Đêm qua - sáng 12/10: tỷ giá trung tâm và vàng SJC đi ngang; Brent ~104 USD; giá xăng trong nước giữ mức kỳ 8/10; phí logistics mới của TikTok Shop có hiệu lực từ 0h; thị trường chứng khoán chưa có phiên mới, các nhận định tuần 12-16/10 thận trọng.",
     "items": [
       {
-        "id": "m1010-vni",
-        "title": "VN-Index 9/10 giảm 3,88 điểm còn 1.735,09; thanh khoản ~27.543 tỷ đồng",
-        "detail": "Khối ngoại bán ròng hơn 9.000 tỷ đồng chủ yếu do giao dịch thỏa thuận MCH; HNX-Index +5,38 điểm, UPCoM -0,97 điểm.",
+        "id": "m1210-fx",
+        "title": "Tỷ giá trung tâm giữ 25.629 đ/USD; DXY giữ trên 102 điểm",
+        "detail": "Một số báo ghi 25.621 (-8) hoặc 25.626. Vietcombank 25.660-26.070; thị trường tự do ~26.110-26.160. Thị trường chờ dữ liệu lạm phát Mỹ.",
+        "category": "Tỷ giá",
+        "impact": "medium",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-fx-dnhn",
+          "x12-fx-vov",
+          "x12-fx-thanhnien",
+          "x12-fx-tbtc"
+        ]
+      },
+      {
+        "id": "m1210-gold",
+        "title": "Vàng SJC đi ngang 141,8-144,8 triệu đồng/lượng ngày thứ 3; vàng thế giới ~4.186-4.191 USD/oz",
+        "detail": "Chênh mua-bán phổ biến ~3 triệu đồng/lượng; vàng nhẫn SJC ~141,3-144,3.",
+        "category": "Vàng",
+        "impact": "low",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-gold-danviet",
+          "x12-gold-cafef",
+          "x12-gold-baoquocte"
+        ]
+      },
+      {
+        "id": "m1210-oil",
+        "title": "Brent quanh 104-105 USD đầu tuần; giá xăng trong nước giữ mức kỳ 8/10",
+        "detail": "E10 RON95-III 28.250 đ/lít (+1.070), E5 RON92 27.700 (+1.140), diesel 29.120 (-590). Các nguồn chưa có dự báo cụ thể cho kỳ 15/10.",
+        "category": "Năng lượng",
+        "impact": "high",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-oil-baolaocai",
+          "x12-oil-thuongtruong",
+          "x12-oil-vietnamnet"
+        ]
+      },
+      {
+        "id": "m1210-vni-outlook",
+        "title": "VN-Index vào tuần 12-16/10 sau tuần điều chỉnh thứ 3 liên tiếp",
+        "detail": "Tuần 5-9/10 VN-Index -2,62 điểm về 1.735,09, thanh khoản HOSE +7,6% so với tuần trước; các nhận định xem 1.715-1.730 là vùng hỗ trợ, bán ròng khối ngoại ở nhóm ngân hàng và Vingroup; nhiều công ty chứng khoán khuyên không vội bắt đáy.",
         "category": "Chứng khoán",
         "impact": "medium",
         "occurred_at": "2026-10-09",
         "source_ids": [
-          "v10-vni-nhandan",
-          "v10-vni-baomoi"
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-baodautu",
+          "x12-vni-index"
         ]
       },
       {
-        "id": "m1010-us-oil",
-        "title": "Phố Wall đóng tuần tăng điểm; Brent ~103 USD sau phát biểu của ông Trump",
-        "detail": "Dow 51.654,95 (+0,83%), S&P 500 7.811,54 (+0,59%), Nasdaq 27.366,17 (+0,64%); Brent 103,20 USD (-1,08%), WTI 90,90 USD (-0,64%).",
-        "category": "Chứng khoán Mỹ / hàng hóa",
+        "id": "m1210-tiktok-fee",
+        "title": "TikTok Shop bắt đầu thu phí logistics cho kiện trên 10kg với đơn tạo từ 0h 12/10",
+        "detail": "Phí 3.000-65.000 đ/kiện, tối đa ở kiện từ 20,5kg; người bán chịu, trừ vào quyết toán, tạm tính theo kích thước khai báo và vẫn thu khi đơn hoàn tiền.",
+        "category": "Thương mại điện tử",
         "impact": "medium",
-        "occurred_at": "2026-10-09",
+        "occurred_at": "2026-10-12",
         "source_ids": [
-          "v10-us-thestreet",
-          "v10-us-yahoo"
-        ]
-      },
-      {
-        "id": "m1010-fx",
-        "title": "Tỷ giá trung tâm 25.629 (-5); USD tự do tăng lên 26.080-26.180",
-        "detail": "Giá USD tại Vietcombank 25.660-26.070, VietinBank 25.629-26.074, BIDV 25.680-26.060. Chỉ có một nguồn cho ngày 10/10.",
-        "category": "Tỷ giá",
-        "impact": "medium",
-        "occurred_at": "2026-10-10",
-        "source_ids": [
-          "v10-fx-dnhn"
-        ]
-      },
-      {
-        "id": "m1010-gold",
-        "title": "Vàng SJC 141,8-144,8 triệu đồng/lượng (+1,8); vàng thế giới ~4.200 USD/oz",
-        "detail": "Vàng thế giới tăng hơn 60 USD/oz trong 24 giờ theo một nguồn; SJC cao hơn giá quy đổi ~13 triệu đồng/lượng.",
-        "category": "Vàng",
-        "impact": "low",
-        "occurred_at": "2026-10-10",
-        "source_ids": [
-          "v10-gold-vov",
-          "v10-gold-vietbao",
-          "v10-gold-kenh14"
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
         ]
       }
     ]
   },
   "financial_markets": {
-    "summary": "Sáng 10/10: tỷ giá trung tâm 25.629 (-5), USD tự do tăng lên 26.080-26.180; VN-Index 9/10 đóng 1.735,09 (-0,22%) với thanh khoản ~27,5 nghìn tỷ nhờ giao dịch thỏa thuận MCH; Phố Wall tăng theo tuần (S&P 500 +0,59%, Nasdaq +0,64%); Brent ~103,2 USD (-1,08%); vàng SJC bán 144,8 triệu đồng/lượng (+1,8), vàng thế giới ~4.182-4.200 USD/oz.",
+    "summary": "Sáng 12/10: tỷ giá trung tâm 25.629 (đi ngang, nguồn lệch 25.621-25.629), DXY trên 102; vàng SJC 144,8 triệu đồng/lượng đi ngang, vàng thế giới ~4.186-4.191 USD/oz; Brent ~104 USD (nguồn lệch 103,8-105,6); VN-Index chưa có phiên mới (1.735,09 ngày 9/10) và các nhận định tuần 12-16/10 thận trọng quanh vùng hỗ trợ 1.715-1.730.",
     "metrics": [
       {
         "id": "usd-vnd-central-rate",
@@ -458,14 +483,17 @@
         "category": "fx",
         "value": 25629,
         "unit": "VND/USD",
-        "change": -5,
-        "change_unit": "VND so với 9/10 (25.634)",
-        "direction": "down",
-        "period": "2026-10-10",
-        "as_of": "2026-10-10",
-        "note": "Một nguồn (Doanh nghiệp & Hội nhập) ghi NHNN công bố 25.629 đ/USD sáng 10/10; nguồn tìm kiếm khác ghi mức giảm 5 hoặc 7 đồng so với phiên trước nên mức thay đổi tính từ 25.634 của bản tin trước. Giá USD tại Vietcombank 25.660-26.070, VietinBank 25.629-26.074, BIDV 25.680-26.060 (mua-bán); thị trường tự do tăng lên 26.080-26.180 theo cùng nguồn. Chưa đối chiếu được nguồn thứ hai cho ngày 10/10.",
+        "change": 0,
+        "change_unit": "VND so với phiên trước",
+        "direction": "flat",
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Phần lớn các báo ghi NHNN giữ nguyên tỷ giá trung tâm 25.629 đ/USD sáng 12/10; Thanh Niên và Thời báo Tài chính VN ghi 25.621 (-8), VOV ghi 25.626 nên các nguồn chênh nhẹ. Vietcombank 25.660-26.070 (mua-bán); thị trường tự do ~26.110-26.160 (một nguồn). Các báo nhận định USD quốc tế tăng tuần thứ tư liên tiếp, thị trường chờ dữ liệu lạm phát Mỹ.",
         "source_ids": [
-          "v10-fx-dnhn"
+          "x12-fx-dnhn",
+          "x12-fx-vov",
+          "x12-fx-thanhnien",
+          "x12-fx-tbtc"
         ]
       },
       {
@@ -479,45 +507,49 @@
         "direction": "down",
         "period": "2026-10-09",
         "as_of": "2026-10-09",
-        "note": "Phiên 9/10: VN-Index 1.735,09 (-3,88); giá trị giao dịch ~27.543 tỷ đồng (tăng mạnh do giao dịch thỏa thuận). Khối ngoại bán ròng 9.272-9.736 tỷ đồng tùy nguồn, phần lớn từ giao dịch thỏa thuận mã MCH; ngoài MCH có HDB ~227 tỷ, FPT ~121 tỷ. Các nguồn chênh số bán ròng.",
+        "note": "Chưa có phiên mới (số liệu 9/10). Phiên 9/10: VN-Index 1.735,09 (-3,88); thanh khoản ~27.543 tỷ đồng do giao dịch thỏa thuận; khối ngoại bán ròng >9.000 tỷ chủ yếu từ thỏa thuận MCH. Cả tuần 5-9/10 giảm ~2,62 điểm, tuần điều chỉnh thứ 3 liên tiếp; các nhận định tuần 12-16/10 xem vùng 1.715-1.730 điểm là vùng thử hỗ trợ, 1.750-1.760 là vùng hồi phục đầu tiên.",
         "source_ids": [
           "v10-vni-nhandan",
-          "v10-vni-baomoi"
+          "v10-vni-baomoi",
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-index"
         ]
       },
       {
         "id": "gold-sjc-sell",
-        "label": "Vàng miếng SJC (bán ra, sáng 11/10)",
+        "label": "Vàng miếng SJC (bán ra, sáng 12/10)",
         "category": "gold",
         "value": 144.8,
         "unit": "triệu đồng/lượng",
         "change": 0,
-        "change_unit": "triệu đồng/lượng so với 10/10",
+        "change_unit": "triệu đồng/lượng so với 11/10",
         "direction": "flat",
-        "period": "2026-10-11",
-        "as_of": "2026-10-11",
-        "note": "Sáng 11/10 (Chủ Nhật) SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, không đổi so với 10/10 (sau phiên tăng 1,8 triệu đồng hôm 10/10); vàng nhẫn SJC 141,3-144,3; chênh mua-bán ~3 triệu đồng/lượng. Vàng thế giới ~4.194-4.196 USD/oz (Kitco ~4.194 lúc 4h30), SJC cao hơn giá quy đổi (~131,6 triệu đồng/lượng) khoảng 13 triệu đồng/lượng. Nguồn nhắc thị trường chờ dữ liệu CPI Mỹ. Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Sáng 12/10 SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, đi ngang ngày thứ 3 liên tiếp; vàng nhẫn SJC ~141,3-144,3; chênh mua-bán phổ biến ~3 triệu đồng/lượng. Vàng thế giới ~4.186-4.191 USD/oz (Kitco ~4.186). Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
         "source_ids": [
-          "w11-gold-baovanhoa",
-          "w11-gold-qdnd",
-          "w11-gold-vov"
+          "x12-gold-danviet",
+          "x12-gold-cafef",
+          "x12-gold-baoquocte"
         ]
       },
       {
         "id": "oil-brent",
-        "label": "Dầu Brent (phiên Mỹ 9/10)",
+        "label": "Dầu Brent (sáng 12/10, giờ Việt Nam)",
         "category": "commodity",
-        "value": 103.2,
+        "value": 104.3,
         "unit": "USD/thùng",
-        "change": -1.08,
-        "change_unit": "% phiên 9/10",
-        "direction": "down",
-        "period": "2026-10-09",
-        "as_of": "2026-10-09",
-        "note": "TheStreet ghi Brent giảm 1,08% còn 103,20 USD/thùng; Yahoo/CNBC ghi Brent tháng 12 giảm 0,77% còn 103,48 USD nên các nguồn chênh nhẹ do thời điểm. WTI ~90,90 USD. Giảm sau thông tin ông Trump nói Mỹ sẽ không tấn công Iran trước bầu cử giữa kỳ và ông Putin đồng ý cung cấp diesel.",
+        "change": null,
+        "change_unit": null,
+        "direction": null,
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Các nguồn sáng 12/10 ghi Brent từ 103,8 đến 105,6 USD/thùng và WTI ~91-92,6 USD tùy thời điểm nên giá trị 104,3 chỉ là mức giữa; một nguồn ghi Brent đóng cửa 9/10 là 104,72 trong khi bản tin trước ghi 103,2 nên không tính mức thay đổi. Tiêu đề các báo lệch hướng (một báo ghi vượt 105 USD, một báo ghi giảm hơn 1%).",
         "source_ids": [
-          "v10-us-thestreet",
-          "v10-us-yahoo"
+          "x12-oil-baolaocai",
+          "x12-oil-thuongtruong",
+          "x12-oil-vietnamnet"
         ]
       },
       {
@@ -528,12 +560,12 @@
         "unit": "điểm",
         "change": null,
         "change_unit": null,
-        "direction": "down",
-        "period": "2026-10-10",
-        "as_of": "2026-10-10",
-        "note": "Một nguồn tìm kiếm nhắc DXY quanh 102,2 nhưng không thể đối chiếu bản gốc nên để trống thay vì dùng số chưa xác minh.",
+        "direction": null,
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Thời báo Tài chính VN ghi DXY \"giữ trên 102 điểm\" sáng 12/10; chưa có con số chính xác nên để null.",
         "source_ids": [
-          "u9-fx-qdnd"
+          "x12-fx-tbtc"
         ]
       },
       {
@@ -573,6 +605,29 @@
     ],
     "highlights": [
       {
+        "id": "fh1210-vni-week",
+        "title": "VN-Index vào tuần mới sau tuần điều chỉnh thứ 3; vùng 1.715-1.730 được theo dõi như hỗ trợ",
+        "detail": "Quan sát: tuần 5-9/10 VN-Index -2,62 điểm, thanh khoản HOSE +7,6%; áp lực bán tập trung ở ngân hàng và nhóm Vingroup, khối ngoại bán ròng. Diễn giải nguồn: nhiều công ty chứng khoán khuyên giải ngân từng phần, mùa báo cáo quý III là yếu tố theo dõi. Suy luận của bản tin: đây là chỉ báo tâm lý, chưa phải bằng chứng suy giảm sức mua.",
+        "impact": "medium",
+        "source_ids": [
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-baodautu",
+          "x12-vni-index"
+        ]
+      },
+      {
+        "id": "fh1210-fx-dxy",
+        "title": "USD quốc tế giữ đà tăng, DXY trên 102; tỷ giá trong nước đi ngang",
+        "detail": "Quan sát: các báo ghi đồng USD tăng tuần thứ tư liên tiếp trên thị trường quốc tế, trong nước tỷ giá trung tâm 25.629 và Vietcombank bán 26.070. Suy luận của bản tin: áp lực tỷ giá lên giá vốn hàng nhập khẩu chưa tăng thêm trong 24 giờ qua nhưng phụ thuộc CPI Mỹ.",
+        "impact": "medium",
+        "source_ids": [
+          "x12-fx-dnhn",
+          "x12-fx-tbtc",
+          "x12-fx-thanhnien"
+        ]
+      },
+      {
         "id": "fh1010-us-oil",
         "title": "Phố Wall tăng theo tuần, Brent hạ còn ~103 USD khi ông Trump nói Mỹ không tấn công Iran trước bầu cử giữa kỳ",
         "detail": "Dow +0,83%, S&P 500 +0,59%, Nasdaq +0,64% phiên 9/10; công nghệ phục hồi sau phiên bán tháo 8/10. Brent 103,20-103,48 USD, WTI ~90,90 USD. Mùa báo cáo lợi nhuận bắt đầu tuần tới với các ngân hàng lớn. Suy luận của bản tin: rủi ro dầu giảm nhẹ nhưng chưa dứt vì phụ thuộc phát biểu chính trị; kỳ giá xăng dự kiến 15/10 vẫn phụ thuộc Brent tuần tới.",
@@ -606,7 +661,7 @@
     ]
   },
   "retail_consumer": {
-    "summary": "Không có số bán lẻ mới từ bản trước (bán lẻ 9 tháng +13,4%, thực +7,8%; CPI tháng 9 +5,08%). Điểm mới: xăng tăng kỳ 8/10 làm chi phí đi lại/giao nhận tăng; 10/10 (thứ Bảy) là ngày sale đôi lớn — TikTok Shop mở chiến dịch từ 7/10 theo trang tổng hợp bên thứ ba, Shopee có Siêu Sale 10.10; chưa có thông báo chính thức của sàn trong nguồn tìm được.",
+    "summary": "Không có số bán lẻ mới (bán lẻ 9 tháng +13,4%, thực +7,8%; CPI tháng 9 +5,08% svck). Điểm mới: phí logistics TikTok Shop cho kiện trên 10kg có hiệu lực với đơn tạo từ 0h 12/10 (người bán chịu); sale đôi 10.10 đã kết thúc nhưng chưa có số liệu kết quả công khai; giá xăng vẫn ở mức kỳ 8/10 làm chi phí đi lại/giao nhận cao.",
     "metrics": [
       {
         "id": "retail-sales-9m",
@@ -695,6 +750,18 @@
       }
     ],
     "trends": [
+      {
+        "id": "tr-tiktok-fee-effective-1210",
+        "trend": "Chi phí bán hàng trên TikTok Shop tăng với hàng nặng/cồng kềnh từ 12/10",
+        "detail": "Quan sát: phí 3.000-65.000 đ/kiện cho kiện trên 10kg, đơn tạo từ 0h 12/10, người bán chịu và không được hoàn khi đơn hoàn tiền; tạm tính theo kích thước khai báo. Diễn giải nguồn: với sản phẩm biên thấp, một khoản phí 20.000 đ có thể xóa gần hết lãi/đơn. Suy luận của bản tin: tác động tập trung vào combo nặng; chưa có dữ liệu cho thấy người mua bị tính thêm.",
+        "direction": "down",
+        "strength": "moderate",
+        "source_ids": [
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
+        ]
+      },
       {
         "id": "tr-domestic-demand-9m",
         "trend": "Bán lẻ 9 tháng +13,4% (thực +7,8%), CPI tháng 9 +5,08%: cầu nội địa mạnh, một phần do giá",
@@ -815,8 +882,8 @@
       "name": "Áp lực giá / tỷ giá lên giá vốn",
       "status": "red",
       "trend": "stable",
-      "explanation": "Giữ đỏ: xăng tăng 6 kỳ liên tiếp (E10 28.254 đ/lít) chưa đảo chiều, CPI tháng 9 +5,08%. Không xấu thêm so với bản trước: Brent hạ còn ~103 USD (-1,08%) và tỷ giá trung tâm 25.629 (-5); nhưng USD tự do tăng lên 26.080-26.180 (một nguồn).",
-      "action": "Tính lại chi phí giao nhận/lắp đặt quý IV theo loại nhiên liệu của đội xe (xăng vs diesel) và 2 kịch bản Brent; chưa nâng giá bán khi chưa có số chính thức kỳ 15/10.",
+      "explanation": "Giữ đỏ: xăng tăng 6 kỳ liên tiếp (E10 28.250 đ/lít, vẫn áp dụng 12/10), CPI tháng 9 +5,08%, Brent ~104 USD sáng 12/10 (nguồn lệch 103,8-105,6). Tỷ giá trung tâm đi ngang 25.629 nên không xấu thêm so với bản trước, nhưng USD quốc tế tăng tuần thứ tư (DXY trên 102).",
+      "action": "Tính lại chi phí giao nhận/lắp đặt quý IV theo loại nhiên liệu của đội xe và 2 kịch bản Brent trước kỳ giá dự kiến 15/10; chưa nâng giá bán khi chưa có thông báo chính thức.",
       "source_ids": [
         "u9-fuel-baogialai",
         "u9-fuel-24h",
@@ -830,7 +897,11 @@
         "s-tax-baochinhphu-3009",
         "v10-us-thestreet",
         "v10-us-yahoo",
-        "v10-fx-dnhn"
+        "v10-fx-dnhn",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-fx-tbtc",
+        "x12-fx-dnhn"
       ]
     },
     {
@@ -838,15 +909,17 @@
       "name": "Kênh online / TMĐT",
       "status": "yellow",
       "trend": "stable",
-      "explanation": "Giữ vàng: TMĐT vẫn mạnh (+19,5% 9 tháng, số chưa đối chiếu); sale 10.10 cao điểm 10/10 với mặt bằng giá camera thấp, và phí logistics mới của TikTok Shop có hiệu lực 12/10 (người bán chịu) có thể ép biên combo cồng kềnh.",
-      "action": "Rà biên gộp sau phí cho từng combo camera theo cân nặng thực trước 11/10; loại combo âm biên khỏi TikTok Shop.",
+      "explanation": "Giữ vàng: TMĐT vẫn mạnh (+19,5% 9 tháng, số chưa đối chiếu); sale 10.10 đã kết thúc nhưng chưa có kết quả công khai; phí logistics TikTok Shop có hiệu lực hôm nay (đơn từ 0h 12/10) làm tăng chi phí combo nặng.",
+      "action": "Xác định ngay SKU/combo camera có trọng lượng tính phí trên 10kg và tính lại biên sau phí; chưa tăng giá toàn bộ khi chưa có dữ liệu đơn thực.",
       "source_ids": [
         "n-retail-congthuong-9m",
         "src-tiktok-vecom-response-thanhnien",
         "src-tiktok-fee-expert-kenh14",
         "t7-tiktok-1010",
         "t7-cam-phongvu",
-        "u9-sale-viettablet"
+        "u9-sale-viettablet",
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre"
       ]
     },
     {
@@ -854,14 +927,15 @@
       "name": "Nhu cầu camera / smart home",
       "status": "yellow",
       "trend": "stable",
-      "explanation": "Giữ vàng: không có chỉ báo nhu cầu camera định lượng (lượt tìm kiếm, GMV). Hỗ trợ: nền bán lẻ/TMĐT tốt, QCVN 11:2026/BCA (hiệu lực 1/7/2026) đưa an ninh dữ liệu thành tiêu chí chọn mua. Hạn chế: nhu cầu giai đoạn sale bị giá giảm sâu chi phối.",
-      "action": "Gắn chỉ báo nhu cầu nội bộ (lượt xem, thêm vào giỏ, đơn camera) cho 7-12/10 để thay nhận định định tính bằng số liệu.",
+      "explanation": "Giữ vàng: không có chỉ báo nhu cầu camera định lượng (lượt tìm kiếm, GMV sau sale 10.10). Hỗ trợ: nền bán lẻ/TMĐT tốt, QCVN 11:2026/BCA (hiệu lực 1/7/2026) đưa an ninh dữ liệu thành tiêu chí chọn mua. Báo cáo Metric (qua tóm tắt) cho thấy doanh số camera không dây trên sàn tập trung ở Shopee, nên chỉ báo nhu cầu cần lấy chủ yếu từ kênh này.",
+      "action": "Lấy số liệu nội bộ 7-12/10 (lượt xem, thêm vào giỏ, đơn camera) theo kênh và đọc báo cáo gốc Metric để xác nhận kỳ dữ liệu.",
       "source_ids": [
         "n-retail-congthuong-9m",
         "n5-cam-qcvn11",
         "n5-cam-dantri-privacy",
         "t7-tiktok-1010",
-        "u9-cam-phongvu-wifi"
+        "u9-cam-phongvu-wifi",
+        "x12-cam-metric"
       ]
     },
     {
@@ -869,8 +943,8 @@
       "name": "Áp lực cạnh tranh camera",
       "status": "yellow",
       "trend": "stable",
-      "explanation": "Giữ vàng: giá camera Wifi 2K trên trang bán lẻ ở mức 369.000-590.000 đ (Tapo, EZVIZ, Imou) trong cao điểm sale; không có sản phẩm/chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua. Nguồn thứ cấp cho rằng Hikvision/Dahua tăng giá (8-15% / 3-8%, chưa rõ ngày) — chưa đủ để kết luận về Việt Nam.",
-      "action": "Ghi nhận giá thực trên sàn lúc 12h và 20h ngày 10/10 làm cơ sở so sánh tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt).",
+      "explanation": "Giữ vàng: giá camera Wifi 2K trên trang bán lẻ ở mức 369.000-590.000 đ (Tapo, EZVIZ, Imou) trong cao điểm sale; không có sản phẩm/chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua. Nguồn thứ cấp cho rằng Hikvision/Dahua tăng giá (8-15% / 3-8%, chưa rõ ngày) — chưa đủ để kết luận về Việt Nam. Cập nhật 12/10: CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP 380.000 đ (-46% từ 700.000 đ), cùng mặt bằng giá.",
+      "action": "Chụp giá hằng ngày lúc 12h và 20h cho nhóm SKU đối chứng (Imou, EZVIZ, Tapo, FPT) trên Shopee, TikTok Shop, Lazada để có giá thực hậu sale; so sánh tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt).",
       "source_ids": [
         "t7-cam-phongvu",
         "t7-cam-phongvu-wifi",
@@ -878,7 +952,8 @@
         "n5-cam-ezviz-vuhoang",
         "n-cam-cellphones-imou",
         "u9-cam-hik-price",
-        "u9-cam-phongvu-wifi"
+        "u9-cam-phongvu-wifi",
+        "x12-cam-cellphones-imou"
       ]
     }
   ],
@@ -887,10 +962,10 @@
       "id": "rec-fuel-cost-1010",
       "priority": "high",
       "issue": "Chi phí giao nhận/lắp đặt chịu áp lực từ xăng tăng 6 kỳ liên tiếp",
-      "evidence": "Kỳ 8/10: E5 RON92 27.703 đ/lít (+1.134), E10 28.254 (+1.065), E5 +5.220 đ/lít từ đầu tháng 9; diesel giảm ~589 đ/lít; Brent 104,28 USD (+4,1%) phiên 8/10.",
+      "evidence": "Giá xăng kỳ 8/10 vẫn áp dụng 12/10: E10 RON95-III 28.250 đ/lít (+1.070), E5 RON92 27.700 (+1.140), diesel 29.120 (-590); Brent sáng 12/10 ~104 USD (nguồn lệch 103,8-105,6). Kỳ giá kế tiếp dự kiến 15/10, chưa có thông báo.",
       "action": "Tính lại chi phí/đơn lắp đặt và giao hàng quý IV theo cơ cấu nhiên liệu thực của đội xe, với 2 kịch bản giá xăng sau kỳ 15/10 (Brent giữ >100 USD và Brent hạ); chưa đổi giá bán trước khi có số chính thức.",
       "owner": "Vận hành / Tài chính",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-14",
       "kpi": "Chi phí giao nhận + lắp đặt bình quân/đơn so với baseline tháng 9; biên gộp combo lắp đặt",
       "source_ids": [
         "u9-fuel-baogialai",
@@ -898,47 +973,52 @@
         "u9-fuel-dantri",
         "u9-fuel-techz",
         "u9-brent-voh",
-        "u9-brent-dantri"
+        "u9-brent-dantri",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong"
       ]
     },
     {
-      "id": "rec-1010-price-verify-1010",
+      "id": "rec-tiktok-fee-1210",
       "priority": "high",
-      "issue": "Chưa có giá thực trên sàn trong cao điểm sale 10.10",
-      "evidence": "Trang bán lẻ ghi Tapo C200 369.000 đ (từ 599.000), EZVIZ C6N Pro 2K 449.000 đ (từ 990.000), Imou IPC-A22EP 375.000 đ (từ 699.000) — chưa xác minh trên Shopee/TikTok Shop/Lazada; lịch sale lấy từ trang tổng hợp bên thứ ba.",
-      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Chụp giá, voucher, quà tặng của Imou/EZVIZ/Tapo/FPT trên Shopee, TikTok Shop, Lazada lúc 12h và 20h ngày 10/10 và nạp vào bản tin kế tiếp; chỉ quyết điều chỉnh khuyến mãi dựa trên giá đã xác minh.",
+      "issue": "Phí logistics TikTok Shop có hiệu lực hôm nay (đơn tạo từ 0h 12/10)",
+      "evidence": "Phí 3.000-65.000 đ/kiện cho kiện trên 10kg, tối đa ở kiện từ 20,5kg; người bán chịu, trừ vào quyết toán theo kích thước khai báo và vẫn thu khi đơn hoàn tiền. Chuyên gia dẫn trong báo: sản phẩm lãi 25.000 đ/đơn mà chịu thêm 20.000 đ phí thì chỉ còn 5.000 đ.",
+      "action": "Trong hôm nay: lọc SKU/combo camera có trọng lượng tính phí trên 10kg, đối chiếu kích thước khai báo với số đo thực (khai thiếu có thể bị trừ cao hơn), tính biên sau phí và loại hoặc điều chỉnh combo âm biên; theo dõi mục Chờ quyết toán của các đơn từ 0h 12/10.",
       "owner": "Kinh doanh online",
       "deadline": "2026-10-12",
+      "kpi": "Số combo camera trên 10kg có biên âm sau phí = 0; chênh lệch phí tạm tính và phí thực khấu trừ",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd",
+        "src-tiktok-fee-expert-kenh14"
+      ]
+    },
+    {
+      "id": "rec-price-verify-1210",
+      "priority": "high",
+      "issue": "Chưa có giá thực trên sàn sau sale 10.10",
+      "evidence": "Trang bán lẻ ghi Imou IPC-A32EP 3MP 380.000 đ (-46% từ 700.000 đ, CellphoneS 10/2026), Imou IPC-A22EP 375.000 đ, EZVIZ C6N Pro 2K 449.000 đ, Tapo C212 590.000 đ; không rõ ngày cập nhật và chưa xác minh trên Shopee/TikTok Shop/Lazada.",
+      "action": "Thiết lập chụp giá hằng ngày lúc 12h và 20h cho nhóm SKU đối chứng (Imou A22EP/A32EP, EZVIZ C6N Pro/H6C Pro, Tapo C200/C212, FPT SE2/SE3) trên Shopee, TikTok Shop, Lazada, nạp vào bản tin kế tiếp; chỉ điều chỉnh khuyến mãi dựa trên giá đã xác minh.",
+      "owner": "Kinh doanh online",
+      "deadline": "2026-10-13",
       "kpi": "Số SKU đối thủ có giá xác minh trên sàn; chênh lệch tổng chi phí 12 tháng FPT vs đối thủ",
       "source_ids": [
         "u9-cam-phongvu-wifi",
         "u9-cam-songphuong",
         "u9-sale-viettablet",
-        "u9-sale-shopee-cal"
+        "u9-sale-shopee-cal",
+        "x12-cam-cellphones-imou"
       ]
     },
     {
-      "id": "rec-tiktok-fee-1010",
-      "priority": "medium",
-      "issue": "Phí logistics mới của TikTok Shop có hiệu lực 12/10 trùng sau cao điểm sale",
-      "evidence": "Phí 3.000-65.000 đ/kiện, người bán chịu, hiệu lực 12/10 (nguồn Thanh Niên/Kênh14 đã dẫn ở bản tin trước).",
-      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Tính lại biên gộp sau phí cho từng combo camera theo cân nặng thực đo, loại hoặc điều chỉnh combo âm biên trước 12/10.",
-      "owner": "Kinh doanh online",
-      "deadline": "2026-10-12",
-      "kpi": "Biên gộp sau phí/combo; tỷ lệ combo âm biên bằng 0",
-      "source_ids": [
-        "src-tiktok-vecom-response-thanhnien",
-        "src-tiktok-fee-expert-kenh14"
-      ]
-    },
-    {
-      "id": "rec-fpt-bundle-1010",
+      "id": "rec-fpt-bundle-1210",
       "priority": "medium",
       "issue": "Thông điệp combo Internet + camera + Cloud cần điều kiện đã xác nhận trước khi dùng trong sale",
       "evidence": "Trang đại lý/FPT ghi ưu đãi tặng camera + Cloud 12 tháng khi lắp Internet, lắp đặt miễn phí cho khách đang dùng FPT, phí lắp 110.000-165.000 đ/camera cho khách ngoài; điều kiện lấy từ trang đại lý (chưa xác nhận trên fpt.vn).",
-      "action": "Cập nhật 11/10: sale 10.10 đã kết thúc, chưa có dữ liệu giá thực trên sàn trong nguồn công khai. Xác nhận điều kiện ưu đãi trên kênh chính thức, rồi dựng bảng tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) so với mức giá thiết bị 369.000-590.000 đ để dùng trong nội dung sale.",
+      "action": "Xác nhận điều kiện ưu đãi tặng camera + Cloud 12 tháng và phí lắp đặt trên kênh chính thức (fpt.vn), rồi dựng bảng tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) so với giá thiết bị đối thủ 375.000-590.000 đ để dùng trong nội dung bán hàng.",
       "owner": "Marketing / Sản phẩm FPT Camera",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-14",
       "kpi": "Tỷ lệ nội dung sale có bảng tổng chi phí; tỷ lệ chuyển đổi combo Internet + camera",
       "source_ids": [
         "u9-cam-fpt-promo",
@@ -948,15 +1028,16 @@
       ]
     },
     {
-      "id": "rec-demand-data-1010",
-      "priority": "low",
+      "id": "rec-demand-data-1210",
+      "priority": "medium",
       "issue": "Thiếu chỉ báo nhu cầu camera định lượng",
-      "evidence": "Không tìm được dữ liệu lượt tìm kiếm hoặc GMV camera công khai; đèn Nhu cầu camera đang ở vàng chỉ dựa trên bối cảnh vĩ mô và quy chuẩn.",
-      "action": "Cần thêm dữ liệu: lấy số liệu nội bộ (truy cập trang sản phẩm, đơn hàng camera 3 ngày sale 10.10) và dữ liệu xu hướng tìm kiếm có nguồn để thay thế nhận định định tính.",
+      "evidence": "Không có dữ liệu lượt tìm kiếm hoặc GMV camera công khai sau sale 10.10. Tóm tắt báo cáo Metric: Shopee chiếm ~94,7% doanh số và 92,1% sản lượng camera an ninh không dây trên sàn, TikTok ~1,8% (kỳ dữ liệu theo tóm tắt là 2025, cần xác nhận).",
+      "action": "Cần thêm dữ liệu: (1) lấy đơn camera, lượt xem, thêm vào giỏ 7-12/10 theo kênh; (2) đọc báo cáo gốc Metric để xác nhận kỳ dữ liệu và định nghĩa nhóm hàng; chỉ sau đó mới cân nhắc phân bổ lại ngân sách giữa Shopee và TikTok Shop.",
       "owner": "Phân tích dữ liệu",
-      "deadline": "2026-10-13",
+      "deadline": "2026-10-14",
       "kpi": "Có ít nhất 1 chỉ báo nhu cầu camera định lượng trong bản tin kế tiếp",
       "source_ids": [
+        "x12-cam-metric",
         "u9-cam-phongvu-wifi",
         "u9-sale-shopee-cal"
       ]
@@ -966,13 +1047,13 @@
     {
       "id": "base",
       "type": "base",
-      "scenario": "Căng thẳng Trung Đông kéo dài nhưng không leo thang; Brent dao động quanh 100-105 USD (hiện ~103 USD)",
+      "scenario": "Căng thẳng Trung Đông kéo dài nhưng không leo thang; Brent dao động quanh 100-105 USD (sáng 12/10 ~104 USD)",
       "likelihood": "medium",
       "conditions": "Không có thêm sự cố tại Hormuz sau phát biểu của ông Trump rằng Mỹ sẽ không tấn công Iran trước 3/11; VN-Index giữ vùng 1.710-1.730.",
       "consumer_impact": "Giá xăng tiếp tục ở mặt bằng cao (E10 ~28.254 đ/lít), cầu tiêu dùng chưa suy yếu rõ.",
       "b2c_impact": "Chi phí giao nhận/lắp đặt giữ mức cao; sale 10.10 diễn ra với giá cạnh tranh sâu ở thiết bị đơn lẻ.",
       "fpt_camera_impact": "Ưu tiên combo Internet + Cloud + lắp đặt thay vì giảm giá thiết bị; theo dõi giá thực trên sàn.",
-      "action": "Thực hiện rec-fuel-cost-1010 và rec-1010-price-verify-1010; đánh giá lại sau kỳ giá xăng dự kiến 15/10.",
+      "action": "Thực hiện rec-fuel-cost-1010, rec-tiktok-fee-1210 và rec-price-verify-1210; đánh giá lại sau kỳ giá xăng dự kiến 15/10.",
       "source_ids": [
         "u9-brent-voh",
         "u9-brent-dantri",
@@ -980,7 +1061,9 @@
         "u9-fuel-24h",
         "u9-vni-dnse",
         "v10-us-thestreet",
-        "v10-us-yahoo"
+        "v10-us-yahoo",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong"
       ]
     },
     {
@@ -1004,7 +1087,7 @@
       "type": "downside",
       "scenario": "Leo thang tại Hormuz hoặc Fed phát tín hiệu tăng lãi suất; Brent và USD cùng tăng",
       "likelihood": "low",
-      "conditions": "Thêm sự cố tại Hormuz/thủy lôi hoặc Mỹ thay đổi lập trường với Iran; kỳ vọng Fed tăng lãi suất tháng 12 mạnh lên (theo tóm tắt biên bản FOMC, chưa xác nhận toàn văn).",
+      "conditions": "Thêm sự cố tại Hormuz/thủy lôi hoặc Mỹ thay đổi lập trường với Iran; kỳ vọng Fed tăng lãi suất tháng 12 mạnh lên (theo tóm tắt biên bản FOMC, chưa xác nhận toàn văn). CPI Mỹ tháng 9 (dự kiến 14/10) cao hơn kỳ vọng cũng có thể đẩy USD tăng (dự báo +0,58%/tháng theo Barclays qua nguồn thứ cấp, chưa xác nhận từ BLS).",
       "consumer_impact": "Xăng tăng thêm, CPI giao thông tăng, tâm lý chi tiêu thận trọng hơn; VN-Index có thể thủng vùng hỗ trợ 1.710-1.730.",
       "b2c_impact": "Chi phí giao nhận và vốn tăng; biên combo cồng kềnh càng mỏng khi phí TikTok Shop có hiệu lực 12/10.",
       "fpt_camera_impact": "Rủi ro đội chi phí lắp đặt và giá vốn thiết bị nhập khẩu; cần kiểm tra với nhà cung ứng.",
@@ -1014,11 +1097,22 @@
         "u9-brent-dantri",
         "u9-fuel-baogialai",
         "u9-fuel-24h",
-        "u9-us-yahoo"
+        "u9-us-yahoo",
+        "x12-uscpi-kucoin",
+        "x12-fx-tbtc"
       ]
     }
   ],
   "must_read": [
+    {
+      "id": "mr-vietstock-weekly-1210",
+      "title": "Vietstock Weekly 12-16/10/2026: Đà giảm chưa dừng?",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/vietstock-weekly-12-16102026-da-giam-chua-dung-1636-1501166.htm",
+      "published_at": null,
+      "summary": "Nhận định chứng khoán tuần 12-16/10 sau tuần điều chỉnh thứ 3 liên tiếp của VN-Index.",
+      "why_read": "Cho biết vùng hỗ trợ/cản để đọc tâm lý thị trường trước khi quyết định ngân sách khuyến mãi tuần này."
+    },
     {
       "id": "mr-fuel-dantri-0810",
       "title": "Nguyên nhân giá xăng tăng tới 5.220 đồng/lít chỉ sau hơn một tháng",
@@ -1029,13 +1123,13 @@
       "why_read": "Cơ sở để lãnh đạo chốt giả định chi phí giao nhận/lắp đặt quý IV."
     },
     {
-      "id": "mr-brent-voh-0910",
-      "title": "Hàng loạt vụ nổ lớn xảy ra ở eo biển Hormuz, giá dầu Brent vượt 104 USD/thùng",
-      "publisher": "VOH",
-      "url": "https://voh.com.vn/the-gioi/hang-loat-vu-no-lon-xay-ra-o-eo-bien-hormuz-gia-dau-brent-vuot-104-usd-thung-672500.html",
-      "published_at": "2026-10-09",
-      "summary": "Diễn biến Brent phiên 8/10 và bối cảnh căng thẳng Mỹ–Iran.",
-      "why_read": "Biến số rủi ro lớn nhất cho giá xăng và chi phí tuần tới."
+      "id": "mr-tiktok-fee-tuoitre",
+      "title": "TikTok Shop thu thêm phí vận hành logistics đến 65.000 đồng/kiện",
+      "publisher": "Tuổi Trẻ Online",
+      "url": "https://tuoitre.vn/tiktok-shop-sap-thu-them-phi-van-hanh-logistics-cao-nhat-den-65000-dong-kien-100260923172052795.htm",
+      "published_at": "2026-09-23",
+      "summary": "Mức phí, bậc cân nặng và cách tính phí logistics mới của TikTok Shop có hiệu lực từ 12/10.",
+      "why_read": "Căn cứ để rà biên combo camera nặng trên TikTok Shop ngay hôm nay."
     },
     {
       "id": "mr-qcvn11-luatvietnam",
@@ -1047,71 +1141,93 @@
       "why_read": "Căn cứ pháp lý cho định vị bảo mật/quyền riêng tư của FPT Camera so với đối thủ."
     },
     {
-      "id": "mr-vni-nhandan-0910",
-      "title": "Chứng khoán ngày 9/10: Khối ngoại bán ròng hơn 9.700 tỷ đồng, VN-Index mất gần 4 điểm",
-      "publisher": "Báo Nhân Dân",
-      "url": "https://nhandan.vn/chung-khoan-ngay-910-khoi-ngoai-ban-rong-hon-9700-ty-dong-vn-index-mat-gan-4-diem-post994070.html",
-      "published_at": "2026-10-09",
-      "summary": "Diễn biến phiên 9/10, thanh khoản đột biến và cơ cấu bán ròng khối ngoại.",
-      "why_read": "Giúp phân biệt bán ròng do giao dịch thỏa thuận với dòng vốn rút thực sự khi đọc tâm lý thị trường."
-    },
-    {
-      "id": "mr-us-thestreet-0910",
-      "title": "Stock Market Today (Oct. 9, 2026): Dow, S&P 500 end week higher as market rallies into earnings season",
-      "publisher": "TheStreet",
-      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
-      "published_at": "2026-10-09",
-      "summary": "Số đóng cửa Phố Wall, Brent và WTI phiên 9/10 cùng các động lực chính.",
-      "why_read": "Bối cảnh bên ngoài cho Brent, USD và tâm lý rủi ro trong tuần tới."
+      "id": "mr-metric-camera-share",
+      "title": "Phân tích thị phần cạnh tranh và Top thương hiệu ở nhóm hàng Camera an ninh không dây trên sàn TMĐT",
+      "publisher": "Metric.vn",
+      "url": "https://metric.vn/ereport/thi-phan-camera-an-ninh-khong-day",
+      "published_at": null,
+      "summary": "Báo cáo thị phần camera an ninh không dây trên sàn TMĐT; tóm tắt cho thấy Shopee chiếm phần áp đảo doanh số.",
+      "why_read": "Dữ liệu duy nhất về cơ cấu kênh camera trên sàn, cần đọc bản gốc để xác nhận kỳ dữ liệu trước khi phân bổ ngân sách kênh."
     }
   ],
   "events_next_24h": [
     {
+      "id": "ev-tiktok-fee-1210",
+      "event": "Phí logistics mới của TikTok Shop có hiệu lực với đơn tạo từ 0h 12/10",
+      "scheduled_at": "2026-10-12T00:00:00+07:00",
+      "category": "Thương mại điện tử",
+      "importance": "high",
+      "why_it_matters": "Người bán chịu 3.000-65.000 đ/kiện cho kiện trên 10kg, ảnh hưởng biên combo camera nặng.",
+      "watch_for": "Khoản khấu trừ trong mục Chờ quyết toán so với phí tạm tính; số combo âm biên.",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd"
+      ]
+    },
+    {
       "id": "ev-monday-open-1210",
-      "event": "Phiên thứ Hai 12/10: NHNN công bố tỷ giá trung tâm, thị trường chứng khoán và dầu mở lại",
+      "event": "Phiên thứ Hai 12/10: NHNN công bố tỷ giá trung tâm, chứng khoán và dầu giao dịch tuần mới",
       "scheduled_at": "2026-10-12",
       "category": "Tỷ giá / Chứng khoán",
       "importance": "medium",
-      "why_it_matters": "Là phiên đầu tiên có số liệu mới sau cuối tuần; tỷ giá trung tâm hiện 25.629 và USD tự do 26.080-26.180 (một nguồn), VN-Index 1.735,09.",
-      "watch_for": "Tỷ giá trung tâm so với 25.629; VN-Index so với 1.735,09; khối ngoại sau đợt thỏa thuận MCH.",
+      "why_it_matters": "Phiên đầu tuần cho biết VN-Index có giữ vùng hỗ trợ 1.715-1.730 sau tuần điều chỉnh thứ 3 hay không.",
+      "watch_for": "VN-Index so với 1.735,09 và 1.715; khối ngoại; tỷ giá trung tâm so với 25.629.",
       "source_ids": [
-        "v10-fx-dnhn",
-        "v10-vni-nhandan"
+        "x12-vni-vietstock",
+        "x12-vni-vov",
+        "x12-vni-index",
+        "x12-fx-dnhn"
       ]
     },
     {
-      "id": "ev-hormuz-weekend",
-      "event": "Diễn biến Mỹ–Iran / Hormuz cuối tuần; thị trường dầu mở lại thứ Hai 12/10",
-      "scheduled_at": "2026-10-12",
-      "category": "Địa chính trị / năng lượng",
+      "id": "ev-oil-fuel-1210",
+      "event": "Brent ~104 USD đầu tuần; kỳ giá xăng dầu dự kiến 15/10 (chưa có thông báo chính thức)",
+      "scheduled_at": "2026-10-15",
+      "category": "Năng lượng",
       "importance": "high",
-      "why_it_matters": "Brent ~103 USD đang phụ thuộc phát biểu chính trị (Mỹ không tấn công Iran trước bầu cử giữa kỳ); quyết định xu hướng kỳ giá xăng dự kiến 15/10.",
-      "watch_for": "Brent so với mốc 100 và 104 USD; thông tin mới về Hormuz.",
+      "why_it_matters": "Quyết định giả định chi phí giao nhận/lắp đặt quý IV sau 6 kỳ xăng tăng liên tiếp.",
+      "watch_for": "Brent so với mốc 100 và 105 USD; thông báo liên Bộ Công Thương - Tài chính.",
       "source_ids": [
-        "v10-us-thestreet",
-        "v10-us-yahoo",
-        "u9-brent-voh"
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-oil-vietnamnet"
       ]
     },
     {
-      "id": "ev-us-earnings",
-      "event": "Mùa báo cáo lợi nhuận Mỹ bắt đầu tuần tới với các ngân hàng lớn",
-      "scheduled_at": null,
-      "category": "Chứng khoán Mỹ",
+      "id": "ev-uscpi-1410",
+      "event": "CPI Mỹ tháng 9 (dự kiến 14/10, theo nguồn thứ cấp)",
+      "scheduled_at": "2026-10-14",
+      "category": "Vĩ mô quốc tế",
       "importance": "medium",
-      "why_it_matters": "Quyết định tâm lý rủi ro toàn cầu, ảnh hưởng USD và dòng vốn vào chứng khoán Việt Nam.",
-      "watch_for": "Phản ứng Nasdaq/S&P 500 sau báo cáo; lợi suất trái phiếu Mỹ.",
+      "why_it_matters": "Ảnh hưởng kỳ vọng lãi suất Fed và USD, từ đó ảnh hưởng tỷ giá và giá vốn hàng nhập khẩu.",
+      "watch_for": "CPI tháng so với dự báo +0,58% (Barclays qua nguồn thứ cấp); phản ứng của DXY quanh mức 102.",
       "source_ids": [
-        "v10-us-thestreet",
-        "v10-us-yahoo"
+        "x12-uscpi-kucoin",
+        "x12-fx-tbtc"
+      ]
+    },
+    {
+      "id": "ev-fcc-apple-1310",
+      "event": "Mốc 13/10: FCC Mỹ mở rộng hạn chế thiết bị Hikvision/Dahua; tin đồn Apple ra thiết bị nhà thông minh (chưa xác nhận từ Apple)",
+      "scheduled_at": "2026-10-13",
+      "category": "Camera / smart home",
+      "importance": "low",
+      "why_it_matters": "Chưa có bằng chứng tác động tới Việt Nam; chỉ theo dõi thông báo từ nhà phân phối và thông tin chính thức của Apple.",
+      "watch_for": "Thông báo điều chỉnh giá/nguồn cung của nhà phân phối Imou/EZVIZ/Hikvision/Dahua tại Việt Nam.",
+      "source_ids": [
+        "u9-cam-fcc-ictally",
+        "u9-cam-hik-fcc",
+        "v10-apple-vnexpress",
+        "v10-apple-baomoi"
       ]
     }
   ],
   "decisions_today": [
     {
-      "id": "dec-1010-combo-1010",
-      "decision": "Rà soát kết quả sale 10.10 và chốt giá sàn/thông điệp combo camera cho giai đoạn hậu sale",
-      "context": "Sale 10.10 đã kết thúc nhưng chưa có số liệu giá/doanh số thực trên sàn; giá trang bán lẻ camera Wifi 2K ở 369.000-590.000 đ (không rõ ngày cập nhật); FPT có lợi thế combo Internet + Cloud nếu điều kiện được xác nhận.",
+      "id": "dec-combo-1210",
+      "decision": "Chốt giá sàn và thông điệp combo camera giai đoạn hậu sale 10.10",
+      "context": "Sale 10.10 đã kết thúc; chưa có số liệu giá/doanh số thực trên sàn; giá trang bán lẻ camera Wifi 2K ở 375.000-590.000 đ (không rõ ngày cập nhật); FPT có lợi thế combo Internet + Cloud nếu điều kiện được xác nhận. Phí logistics TikTok Shop có hiệu lực hôm nay.",
       "options": [
         "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng (Cloud + lắp đặt)",
         "Khuyến mãi có điều kiện cho một số SKU Wifi cơ bản",
@@ -1131,9 +1247,28 @@
       ]
     },
     {
-      "id": "dec-cost-assumption-1010",
+      "id": "dec-tiktok-fee-1210",
+      "decision": "Chọn cách xử lý combo camera nặng trên TikTok Shop sau khi phí logistics có hiệu lực",
+      "context": "Phí 3.000-65.000 đ/kiện cho kiện trên 10kg áp dụng đơn tạo từ 0h 12/10, người bán chịu. Chưa có dữ liệu nội bộ về số combo thuộc ngưỡng và biên sau phí.",
+      "options": [
+        "Giữ giá, chấp nhận giảm biên ở combo nặng",
+        "Điều chỉnh giá hoặc quà tặng chỉ ở combo âm biên sau phí",
+        "Tách combo thành kiện nhỏ hơn hoặc chuyển combo nặng sang kênh khác"
+      ],
+      "recommended_option": "Rà biên theo trọng lượng tính phí rồi điều chỉnh chỉ ở combo âm biên; chưa chọn phương án nào khi chưa có số liệu SKU",
+      "owner": "Giám đốc Kinh doanh online",
+      "deadline": "2026-10-12",
+      "urgency": "high",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd"
+      ]
+    },
+    {
+      "id": "dec-cost-1210",
       "decision": "Chốt giả định chi phí giao nhận/lắp đặt quý IV theo kịch bản giá xăng",
-      "context": "Xăng tăng 6 kỳ liên tiếp (E10 28.254 đ/lít) trong khi diesel giảm ~589 đ/lít; Brent biến động mạnh do Hormuz.",
+      "context": "Xăng tăng 6 kỳ liên tiếp (E10 28.250 đ/lít) trong khi diesel giảm ~590 đ/lít; Brent ~104 USD sáng 12/10 và kỳ giá dự kiến 15/10 chưa có thông báo.",
       "options": [
         "Giữ giả định hiện tại",
         "Dùng kịch bản Brent giữ >100 USD làm cơ sở",
@@ -1141,7 +1276,7 @@
       ],
       "recommended_option": "Xây hai kịch bản và xem lại sau kỳ giá 15/10; chưa đổi giá bán",
       "owner": "Giám đốc Vận hành / Tài chính",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-14",
       "urgency": "medium",
       "source_ids": [
         "u9-fuel-baogialai",
@@ -1154,7 +1289,7 @@
     }
   ],
   "camera_market_watch": {
-    "summary": "Thị trường camera Việt Nam trong cao điểm sale 10.10: giá camera Wifi trong nhà trên các trang bán lẻ vẫn thấp (Tapo C200 369.000 đ, Imou IPC-A22EP 375.000 đ, EZVIZ C6N Pro 2K 449.000 đ) nhưng chưa xác minh được giá trên sàn. FPT Shop niêm yết camera mang thương hiệu FPT ở 499.000-599.000 đ (ngày cập nhật trang không rõ). Không có sản phẩm hay chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua. Bối cảnh ngoài thị trường: Bloomberg (qua báo Việt) cho biết Apple hợp tác LG làm camera/chuông cửa/khóa thông minh; FCC Mỹ siết hạn chế Hikvision/Dahua chưa có bằng chứng tác động tại Việt Nam.",
+    "summary": "Sáng 12/10, giá camera Wifi trong nhà tại chuỗi bán lẻ vẫn ở mặt bằng thấp (Imou IPC-A32EP 3MP 380.000 đ, Imou IPC-A22EP 375.000 đ, EZVIZ H6C Pro 2K 445.000 đ, Tapo C200 369.000 đ) nhưng chưa xác minh được giá thực trên sàn sau sale 10.10. FPT Shop niêm yết camera FPT ở 499.000-599.000 đ (ngày cập nhật trang không rõ). Phí logistics TikTok Shop cho kiện trên 10kg có hiệu lực hôm nay; báo cáo Metric (qua tóm tắt) cho thấy doanh số camera không dây trên sàn tập trung ở Shopee. Không có sản phẩm hay chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua; hạn chế của FCC Mỹ với Hikvision/Dahua và tin Apple/LG chưa có bằng chứng tác động tại Việt Nam.",
     "market_status": "mixed",
     "key_metrics": [
       {
@@ -1168,11 +1303,12 @@
         "direction": "flat",
         "period": "10/2026",
         "as_of": "2026-10-03",
-        "note": "Số từ tiêu đề trang danh mục CellphoneS ('từ 370k', 10/2026) quan sát 3/10, chưa xác minh trên sàn; ngày 7/10 Imou IPC-A22EP 2MP 1080p được ghi 375.000 đồng (-46%) trên trang bán lẻ trong kết quả tìm kiếm, cùng mặt bằng.",
+        "note": "Số từ tiêu đề trang danh mục CellphoneS ('từ 370k', 10/2026) quan sát 3/10, chưa xác minh trên sàn; ngày 7/10 Imou IPC-A22EP 2MP 1080p được ghi 375.000 đồng (-46%) trên trang bán lẻ trong kết quả tìm kiếm, cùng mặt bằng. Kiểm tra 12/10: CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP 380.000 đ, cùng mặt bằng giá.",
         "source_ids": [
           "n-cam-cellphones-an-ninh",
           "t7-cam-phongvu",
-          "t7-cam-songphuong"
+          "t7-cam-songphuong",
+          "x12-cam-cellphones-imou"
         ]
       }
     ],
@@ -1521,16 +1657,47 @@
         "source_ids": [
           "v10-cam-fptshop-mem"
         ]
+      },
+      {
+        "id": "pw-imou-a32ep-1210",
+        "brand": "Imou",
+        "product": "Camera Imou IPC-A32EP 3MP",
+        "segment": "home",
+        "channel": "CellphoneS (trang danh mục camera Imou, 10/2026)",
+        "price": 380000,
+        "previous_price": 700000,
+        "currency": "VND",
+        "change_pct": -46.0,
+        "promo": "Giảm 46% từ giá niêm yết 700.000 đ theo trang bán lẻ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-12",
+        "source_ids": [
+          "x12-cam-cellphones-imou"
+        ]
       }
     ],
     "channel_watch": [
       {
+        "id": "ch-tiktok-fee-1210",
+        "channel": "TikTok Shop",
+        "channel_type": "social_commerce",
+        "development": "Phí vận hành logistics cho kiện trên 10kg (3.000-65.000 đ/kiện, tối đa từ 20,5kg) áp dụng đơn tạo từ 0h 12/10; người bán chịu, trừ vào tiền quyết toán, không hoàn khi đơn hoàn tiền.",
+        "direction": "down",
+        "implication_for_fpt_camera": "Combo camera nặng bán trên TikTok Shop có thể giảm biên; mức độ phụ thuộc số SKU trên 10kg và kích thước khai báo, chưa có dữ liệu nội bộ để kết luận.",
+        "source_ids": [
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
+        ]
+      },
+      {
         "id": "ch-1010-sale-ecommerce-289",
-        "channel": "Shopee / TikTok Shop / Lazada (sale 10.10 đang chạy)",
+        "channel": "Shopee / TikTok Shop / Lazada (sau sale 10.10)",
         "channel_type": "ecommerce",
-        "development": "TikTok Shop 10.10 chạy 7-10/10 (cao điểm thứ Bảy 10/10) với voucher live và freeship theo trang tổng hợp bên thứ ba; Shopee quảng bá voucher sớm; các trang bán lẻ ghi Imou/EZVIZ/Tapo giảm 25-55% (chưa xác minh trên sàn). (Cập nhật 9/10: Shopee có Siêu Sale 10.10 và TikTok Shop mở chiến dịch từ 7/10 theo trang tổng hợp bên thứ ba; chưa có thông báo chính thức của sàn trong nguồn tìm được.)",
-        "direction": "up",
-        "implication_for_fpt_camera": "Mặt bằng giá trên sàn có thể thấp hơn combo FPT; cần giá thực trên sàn hôm nay và tính biên sau phí logistics TikTok Shop (12/10).",
+        "development": "Sale đôi 10.10 (cao điểm thứ Bảy 10/10) đã kết thúc; chưa có số liệu kết quả công khai. Theo trang tổng hợp bên thứ ba, TikTok Shop chạy chiến dịch từ 7/10 và Shopee có Siêu Sale 10.10; các trang bán lẻ ghi Imou/EZVIZ/Tapo giảm 25-55% (chưa xác minh trên sàn).",
+        "direction": "flat",
+        "implication_for_fpt_camera": "Chưa có giá thực hậu sale trên sàn; cần chụp giá hằng ngày và theo dõi biên sau phí logistics TikTok Shop (có hiệu lực 12/10) trước khi điều chỉnh khuyến mãi.",
         "source_ids": [
           "t7-tiktok-1010",
           "src-shopee-1010-promo",
@@ -1575,19 +1742,30 @@
           "v10-cam-fptshop-se2",
           "v10-cam-fptshop-mem"
         ]
+      },
+      {
+        "id": "ch-metric-shopee-share",
+        "channel": "Shopee (camera an ninh không dây trên sàn TMĐT)",
+        "channel_type": "ecommerce",
+        "development": "Quan sát: tóm tắt báo cáo Metric.vn ghi Shopee chiếm ~94,7% doanh số và ~92,1% sản lượng camera an ninh không dây, TikTok ~1,8%; kỳ dữ liệu theo tóm tắt là 1-12/2025 trong khi trang ghi cập nhật 6/2026, số tuyệt đối bị ẩn. Diễn giải: cơ cấu kênh camera khác xa cơ cấu TMĐT chung (Shopee ~55%, TikTok Shop ~41-44% theo các báo cáo khác).",
+        "direction": null,
+        "implication_for_fpt_camera": "Nếu số liệu còn đúng, phí mới của TikTok Shop ảnh hưởng ít tới camera hơn kỳ vọng, còn Shopee là kênh quyết định doanh số; cần đọc báo cáo gốc và đối chiếu số nội bộ trước khi phân bổ ngân sách.",
+        "source_ids": [
+          "x12-cam-metric"
+        ]
       }
     ],
     "demand_watch": [
       {
         "id": "dw-1010-sale-signal-289",
-        "indicator": "Sale 10.10 đang chạy (cao điểm 10/10)",
-        "detail": "Sale 10.10 là cơ hội thu thập chỉ báo nhu cầu camera thực tế (lượt xem, thêm vào giỏ, đơn) nếu FPT Camera tham gia với combo riêng; hiện chưa có chỉ báo định lượng công khai.",
+        "indicator": "Sale 10.10 đã kết thúc: chưa có chỉ báo nhu cầu camera định lượng",
+        "detail": "Chưa tìm được số liệu công khai về doanh số/lượt xem camera trong sale 10.10; cần dữ liệu nội bộ của FPT Camera trên từng kênh để thay nhận định định tính.",
         "segment": "all",
         "value": null,
         "unit": null,
         "period": "10/2026",
-        "direction": "up",
-        "strength": "moderate",
+        "direction": null,
+        "strength": null,
         "source_ids": [
           "t7-tiktok-1010",
           "src-shopee-1010-promo",
@@ -1612,16 +1790,17 @@
     ],
     "fpt_camera_impact": {
       "overall": "mixed",
-      "summary": "Nền vĩ mô thuận lợi cho cầu (bán lẻ thực +7,8%, xuất nhập khẩu 9 tháng +30,4%) nhưng chi phí giao nhận/lắp đặt chịu áp lực (xăng tăng 6 kỳ liên tiếp, Brent 104 USD) và giá thiết bị camera Wifi trên trang bán lẻ ở mức thấp (369.000-590.000 đ) trong cao điểm sale 10.10. Lợi thế của FPT nằm ở combo Internet + Cloud và định vị tuân thủ an ninh dữ liệu (QCVN 11:2026/BCA) nếu điều kiện được xác nhận; chưa có bằng chứng về động thái mới của Dahua/Hikvision/Imou/EZVIZ tại Việt Nam.",
+      "summary": "Nền vĩ mô thuận lợi cho cầu (bán lẻ thực +7,8%, xuất nhập khẩu 9 tháng +30,4%) nhưng chi phí giao nhận/lắp đặt chịu áp lực (xăng tăng 6 kỳ liên tiếp, Brent 104 USD) và giá thiết bị camera Wifi trên trang bán lẻ ở mức thấp (369.000-590.000 đ) sau cao điểm sale 10.10. Lợi thế của FPT nằm ở combo Internet + Cloud và định vị tuân thủ an ninh dữ liệu (QCVN 11:2026/BCA) nếu điều kiện được xác nhận; chưa có bằng chứng về động thái mới của Dahua/Hikvision/Imou/EZVIZ tại Việt Nam. Cập nhật 12/10: phí logistics TikTok Shop có hiệu lực hôm nay; thị phần camera trên sàn (theo tóm tắt Metric) tập trung ở Shopee.",
       "opportunities": [
         "Bảng so sánh tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) cho nội dung sale, dùng ưu đãi tặng camera + 12 tháng Cloud khi điều kiện đã xác nhận.",
         "Thu thập giá thực trên sàn ngày 7/10 để thiết kế combo 10.10 có cơ sở.",
         "Định vị tuân thủ QCVN 11:2026/BCA và lưu trữ dữ liệu tại Việt Nam trong nội dung bán hàng, sau khi pháp chế xác nhận.",
-        "Dùng sale 10.10 làm điểm đo nhu cầu camera nội bộ."
+        "Dùng sale 10.10 làm điểm đo nhu cầu camera nội bộ.",
+        "Đọc báo cáo gốc Metric để xác nhận vai trò chi phối của Shopee với camera không dây, từ đó ưu tiên đo lường và ngân sách theo kênh."
       ],
       "risks": [
+        "Phí logistics TikTok Shop (có hiệu lực 12/10) giảm biên combo camera nặng trên 10kg.",
         "Mặt bằng giá camera 2K 375.000-590.000 đ trên trang bán lẻ có thể kéo kỳ vọng giá khách xuống (chưa xác minh trên sàn).",
-        "Phí logistics TikTok Shop (12/10) giảm biên combo cồng kềnh.",
         "EZVIZ MIRA/AI on-device có thể đổi kỳ vọng về cloud nếu được phân phối tại Việt Nam (chưa có giá).",
         "Chi phí giao nhận/lắp đặt tăng do xăng tăng 6 kỳ liên tiếp (E10 28.254 đ/lít) nếu Brent giữ trên 100 USD.",
         "Tin đồn Apple/LG vào thị trường camera nhà thông minh chưa có giá hay kế hoạch Việt Nam, chỉ theo dõi."
@@ -1638,7 +1817,10 @@
         "u9-cam-fpt-promo",
         "v10-cam-fptshop-se3",
         "v10-cam-fptshop-se2",
-        "v10-apple-baomoi"
+        "v10-apple-baomoi",
+        "x12-tiktok-fee-thuonggia",
+        "x12-cam-metric",
+        "x12-cam-cellphones-imou"
       ]
     }
   },
@@ -1745,6 +1927,21 @@
         "u9-cam-fcc-ictally",
         "u9-cam-hik-fcc",
         "u9-cam-hik-price"
+      ]
+    },
+    {
+      "id": "cw-imou-a32ep-1210",
+      "competitor": "Imou",
+      "development": "CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP giá 380.000 đ, giảm 46% từ 700.000 đ (theo tóm tắt tìm kiếm trang danh mục, chưa xác minh trên sàn, không rõ thời hạn).",
+      "development_type": "promotion",
+      "channel": "CellphoneS (chuỗi bán lẻ)",
+      "pricing_or_promo": "IPC-A32EP 3MP 380.000 đ (từ 700.000 đ, -46%)",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Bổ sung bằng chứng rằng camera Imou 2-3MP ở phân khúc dưới 400.000 đ được bán rộng rãi tại chuỗi bán lẻ; chưa rõ mức giá này kéo dài hay chỉ trong sale, nên chưa kết luận về chiến lược của hãng.",
+      "suggested_response": "Đưa mẫu A32EP vào nhóm SKU chụp giá hằng ngày trên sàn.",
+      "observed_at": "2026-10-12",
+      "source_ids": [
+        "x12-cam-cellphones-imou"
       ]
     }
   ],
@@ -2821,6 +3018,166 @@
       "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-1110-chenh-lech-mua-ban-vang-trong-nuoc-3-trieu-dongluong-post1340142.vov",
       "published_at": null,
       "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "x12-fx-vov",
+      "title": "Tỷ giá USD hôm nay 12/10: Tỷ giá trung tâm vẫn giữ ổn định ở mức 25.626 đồng/USD",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/ty-gia-usd-hom-nay-1210-ty-gia-trung-tam-van-giu-on-dinh-o-muc-25626-dongusd-post1340134.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-thanhnien",
+      "title": "Giá USD hôm nay 12.10.2026: Đứng yên dù euro và yen Nhật tiếp tục đi lùi",
+      "publisher": "Thanh Niên",
+      "url": "https://thanhnien.vn/gia-usd-hom-nay-12102026-dung-yen-du-euro-va-yen-nhat-tiep-tuc-di-lui-185261012073737422.htm",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-dnhn",
+      "title": "Tỷ giá USD hôm nay 12/10/2026: Đồng USD chờ cú hích từ lạm phát Mỹ",
+      "publisher": "Doanh nghiệp & Hội nhập",
+      "url": "https://doanhnghiephoinhap.vn/ty-gia-usd-hom-nay-1210-2026-dong-usd-cho-cu-hich-tu-lam-phat-my-151308.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-tbtc",
+      "title": "Tỷ giá USD hôm nay (12/10): DXY giữ trên 102 điểm, thị trường chờ tín hiệu lãi suất Fed từ dữ liệu lạm phát Mỹ",
+      "publisher": "Thời báo Tài chính Việt Nam",
+      "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-12-10-dxy-giu-tren-102-diem-thi-truong-cho-tin-hieu-lai-suat-fed-tu-du-lieu-lam-phat-my-205193.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-danviet",
+      "title": "Giá vàng hôm nay (12/10): Tiếp tục bất động, nhà đầu tư có nên xuống tiền?",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/gia-vang-hom-nay-12-10-tiep-tuc-bat-dong-nha-dau-tu-co-nen-xuong-tien-d1466483.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-cafef",
+      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 12/10 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-12-10-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261012071152107.chn",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-baoquocte",
+      "title": "Giá vàng hôm nay 12/10/2026 còn dư địa tăng, lực bán suy yếu, nhà đầu tư chờ thêm tín hiệu từ lợi suất trái phiếu Mỹ",
+      "publisher": "Báo Quốc tế",
+      "url": "https://baoquocte.vn/gia-vang-hom-nay-12-10-2026-con-du-dia-tang-luc-ban-suy-yeu-nha-dau-tu-cho-them-tin-hieu-tu-loi-suat-trai-phieu-my-455013.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-baolaocai",
+      "title": "Giá xăng dầu hôm nay 12/10/2026: Dầu thế giới biến động nhẹ đầu tuần",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-12102026-dau-the-gioi-bien-dong-nhe-dau-tuan-post911693.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-thuongtruong",
+      "title": "Giá xăng dầu hôm nay 12/10: Dầu Brent vượt 105 USD/thùng, nguồn cung chịu sức ép",
+      "publisher": "Thương Trường",
+      "url": "https://thuongtruong.com.vn/news/gia-xang-dau-hom-nay-1210-dau-brent-vuot-105-usdthung-nguon-cung-chiu-suc-ep-170596.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-vietnamnet",
+      "title": "Giá xăng dầu hôm nay 12/10: Thế giới xu hướng giảm, xăng hơn 28.000 đồng/lít",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-12-10-the-gioi-xu-huong-giam-xang-trong-nuoc-tang-2563886.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-vietstock",
+      "title": "Vietstock Weekly 12-16/10/2026: Đà giảm chưa dừng?",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/vietstock-weekly-12-16102026-da-giam-chua-dung-1636-1501166.htm",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-vov",
+      "title": "Nhận định chứng khoán 12-16/10: VN-Index chưa thoát xu hướng điều chỉnh",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/nhan-dinh-chung-khoan-12-1610-vn-index-chua-thoat-xu-huong-dieu-chinh-post1339818.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-baodautu",
+      "title": "Góc nhìn TTCK tuần 12/10 - 16/10: Lực cầu dần quay lại",
+      "publisher": "Báo Đầu tư",
+      "url": "https://baodautu.vn/goc-nhin-ttck-tuan-1210---1610-luc-cau-dan-quay-lai-d719877.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-index",
+      "title": "VN-Index tuần 12–16/10: Vùng 1.700–1.730 điểm được kiểm định",
+      "publisher": "Index.vn",
+      "url": "https://index.vn/tin-tuc/vn-index-tuan-12-16-10-vung-1-700-1-730-diem-duoc-kiem-dinh",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-uscpi-kucoin",
+      "title": "Dự báo lạm phát của Mỹ sẽ tăng lên 3,7% trước quyết định của Fed ngày 28 tháng 10",
+      "publisher": "KuCoin News (flash)",
+      "url": "https://kucoin.com/vi/news/flash/u-s-inflation-forecast-to-rise-to-3-7-before-october-28-fed-decision",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-thuonggia",
+      "title": "TikTok Shop áp dụng phí vận hành logistics mới cho kiện hàng trên 10kg từ 12/10",
+      "publisher": "Thương gia Online",
+      "url": "https://thuonggiaonline.vn/tiktok-shop-sap-thu-them-phi-len-den-65000-dongkien-hang-post573088.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-tuoitre",
+      "title": "TikTok Shop thu thêm phí vận hành logistics đến 65.000 đồng/kiện",
+      "publisher": "Tuổi Trẻ Online",
+      "url": "https://tuoitre.vn/tiktok-shop-sap-thu-them-phi-van-hanh-logistics-cao-nhat-den-65000-dong-kien-100260923172052795.htm",
+      "published_at": "2026-09-23",
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-sksd",
+      "title": "TikTok Shop áp dụng phí logistics từ 3.000 đến 65.000 đồng cho kiện hàng nặng trên 10 kg",
+      "publisher": "Pháp luật - Sức khỏe & Đời sống",
+      "url": "https://phapluat.suckhoedoisong.vn/tiktok-shop-ap-dung-phi-logistics-tu-3000-den-65000-dong-cho-kien-hang-nang-tren-10-kg-285784.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-cam-metric",
+      "title": "Phân tích thị phần cạnh tranh và Top thương hiệu ở nhóm hàng Camera an ninh không dây trên sàn TMĐT",
+      "publisher": "Metric.vn",
+      "url": "https://metric.vn/ereport/thi-phan-camera-an-ninh-khong-day",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-cam-cellphones-imou",
+      "title": "Camera Imou Wifi chính hãng bao test giao nhanh 2H - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/imou.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
     }
   ]
 }

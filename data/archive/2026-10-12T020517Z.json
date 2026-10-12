@@ -1,0 +1,3183 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-10-12T02:05:17Z",
+  "edition": {
+    "id": "2026-10-12-morning",
+    "number": 29,
+    "title": "Bản tin thị trường B2C & FPT Camera 12/10/2026 (kỳ sáng, Thứ Hai)",
+    "status": "published",
+    "language": "vi",
+    "session": "morning"
+  },
+  "executive_summary": {
+    "headline": "12/10 (Thứ Hai): tỷ giá trung tâm và vàng SJC đi ngang, Brent ~104 USD; phí logistics mới của TikTok Shop có hiệu lực hôm nay và VN-Index vào tuần mới sau ba tuần điều chỉnh.",
+    "summary": "Sáng 12/10 tỷ giá trung tâm giữ 25.629 đ/USD (một số báo ghi 25.621), USD tự do ~26.110-26.160; vàng SJC đi ngang ngày thứ ba ở 141,8-144,8 triệu đồng/lượng; Brent dao động 104-105 USD, giá xăng trong nước vẫn là mức kỳ 8/10 (E10 28.250 đ/lít) và kỳ kế tiếp dự kiến 15/10 chưa có thông báo. VN-Index chưa có phiên mới (1.735,09 ngày 9/10), tuần trước là tuần giảm thứ ba liên tiếp. Nền tiêu dùng vẫn vững (bán lẻ 9 tháng +13,4%, thực +7,8%; CPI tháng 9 +5,08% svck). Camera: phí logistics TikTok Shop cho kiện trên 10kg áp dụng cho đơn tạo từ 0h hôm nay (người bán chịu, 3.000-65.000 đ/kiện); giá Imou/EZVIZ tại chuỗi bán lẻ vẫn ở mặt bằng thấp (Imou IPC-A32EP 380.000 đ, EZVIZ H6C Pro 445.000 đ); báo cáo Metric cho thấy Shopee chiếm phần áp đảo doanh số camera không dây trên sàn (kỳ dữ liệu cần xác nhận). Chưa có diễn biến mới đã xác minh của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam.",
+    "key_points": [
+      "Tỷ giá/vàng: tỷ giá trung tâm 25.629 đi ngang (một số báo ghi 25.621), vàng SJC 144,8 triệu đồng/lượng đi ngang 3 ngày; chưa có tín hiệu thay đổi sức mua từ hai chỉ báo này.",
+      "Chi phí vận hành: Brent ~104 USD (các nguồn lệch 103,8-105,6), xăng E10 28.250 đ/lít sau 6 kỳ tăng; kỳ giá dự kiến 15/10 là mốc quyết định giả định chi phí giao nhận/lắp đặt quý IV.",
+      "Tâm lý thị trường: VN-Index 1.735,09 (9/10), tuần điều chỉnh thứ 3; vùng 1.715-1.730 được theo dõi như hỗ trợ; CPI Mỹ 14/10 là điểm nhìn tiếp theo cho USD/lãi suất.",
+      "Kênh online: phí logistics TikTok Shop có hiệu lực hôm nay cho đơn từ 0h 12/10, người bán chịu và không hoàn khi đơn hoàn tiền; combo camera nặng trên 10kg cần rà biên ngay.",
+      "Camera: giá Wifi trong nhà vẫn thấp trên trang bán lẻ; chưa có số liệu doanh số sale 10.10 hay giá thực trên sàn; thiếu dữ liệu nhu cầu định lượng."
+    ],
+    "overall_sentiment": "mixed",
+    "data_gaps": [
+      "Sáng Thứ Hai: VN-Index, Nasdaq và lãi suất liên ngân hàng chưa có số mới nên giữ số liệu gần nhất (xem period/as_of từng chỉ số); lãi suất liên ngân hàng giữ số 6/10.",
+      "Tỷ giá trung tâm 12/10: các báo ghi 25.629 / 25.626 / 25.621, chưa đối chiếu được trang NHNN; giá vàng, dầu lấy từ tóm tắt kết quả tìm kiếm vì công cụ không truy cập được toàn văn các trang tin; Brent sáng 12/10 lệch giữa các nguồn (103,8-105,6 USD).",
+      "DXY chỉ có mô tả \"trên 102 điểm\" nên để null; CPI Mỹ ngày 14/10 và dự báo +0,58%/3,7% svck lấy từ nguồn thứ cấp (KuCoin flash), chưa xác nhận từ BLS; chưa có thông báo chính thức kỳ giá xăng dầu 15/10.",
+      "Không tìm được kết quả/doanh số sale 10.10 hay giá camera thực trên Shopee/TikTok Shop/Lazada; giá Imou/EZVIZ/Tapo từ trang bán lẻ không rõ ngày cập nhật; báo cáo Metric chỉ đọc qua tóm tắt tìm kiếm (kỳ dữ liệu 2025, tiêu đề ghi cập nhật 6/2026).",
+      "Chưa có chỉ báo nhu cầu camera định lượng và chưa có diễn biến mới đã xác minh về Imou/EZVIZ/Dahua/Hikvision tại Việt Nam; tin Apple/LG và lịch 13/10 chỉ là thông tin thứ cấp."
+    ]
+  },
+  "market_dashboard": [
+    {
+      "id": "usd-vnd-central-rate",
+      "label": "Tỷ giá trung tâm USD/VND",
+      "category": "fx",
+      "value": 25629,
+      "unit": "VND/USD",
+      "change": 0,
+      "change_unit": "VND so với phiên trước",
+      "direction": "flat",
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Phần lớn các báo ghi NHNN giữ nguyên tỷ giá trung tâm 25.629 đ/USD sáng 12/10; Thanh Niên và Thời báo Tài chính VN ghi 25.621 (-8), VOV ghi 25.626 nên các nguồn chênh nhẹ. Vietcombank 25.660-26.070 (mua-bán); thị trường tự do ~26.110-26.160 (một nguồn). Các báo nhận định USD quốc tế tăng tuần thứ tư liên tiếp, thị trường chờ dữ liệu lạm phát Mỹ.",
+      "source_ids": [
+        "x12-fx-dnhn",
+        "x12-fx-vov",
+        "x12-fx-thanhnien",
+        "x12-fx-tbtc"
+      ]
+    },
+    {
+      "id": "vn-index-close",
+      "label": "VN-Index (đóng cửa 9/10)",
+      "category": "equity",
+      "value": 1735.09,
+      "unit": "điểm",
+      "change": -3.88,
+      "change_unit": "điểm (-0,22%) so với 8/10",
+      "direction": "down",
+      "period": "2026-10-09",
+      "as_of": "2026-10-09",
+      "note": "Chưa có phiên mới (số liệu 9/10). Phiên 9/10: VN-Index 1.735,09 (-3,88); thanh khoản ~27.543 tỷ đồng do giao dịch thỏa thuận; khối ngoại bán ròng >9.000 tỷ chủ yếu từ thỏa thuận MCH. Cả tuần 5-9/10 giảm ~2,62 điểm, tuần điều chỉnh thứ 3 liên tiếp; các nhận định tuần 12-16/10 xem vùng 1.715-1.730 điểm là vùng thử hỗ trợ, 1.750-1.760 là vùng hồi phục đầu tiên.",
+      "source_ids": [
+        "v10-vni-nhandan",
+        "v10-vni-baomoi",
+        "x12-vni-vietstock",
+        "x12-vni-vov",
+        "x12-vni-index"
+      ]
+    },
+    {
+      "id": "gold-sjc-sell",
+      "label": "Vàng miếng SJC (bán ra, sáng 12/10)",
+      "category": "gold",
+      "value": 144.8,
+      "unit": "triệu đồng/lượng",
+      "change": 0,
+      "change_unit": "triệu đồng/lượng so với 11/10",
+      "direction": "flat",
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Sáng 12/10 SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, đi ngang ngày thứ 3 liên tiếp; vàng nhẫn SJC ~141,3-144,3; chênh mua-bán phổ biến ~3 triệu đồng/lượng. Vàng thế giới ~4.186-4.191 USD/oz (Kitco ~4.186). Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
+      "source_ids": [
+        "x12-gold-danviet",
+        "x12-gold-cafef",
+        "x12-gold-baoquocte"
+      ]
+    },
+    {
+      "id": "oil-brent",
+      "label": "Dầu Brent (sáng 12/10, giờ Việt Nam)",
+      "category": "commodity",
+      "value": 104.3,
+      "unit": "USD/thùng",
+      "change": null,
+      "change_unit": null,
+      "direction": null,
+      "period": "2026-10-12",
+      "as_of": "2026-10-12",
+      "note": "Các nguồn sáng 12/10 ghi Brent từ 103,8 đến 105,6 USD/thùng và WTI ~91-92,6 USD tùy thời điểm nên giá trị 104,3 chỉ là mức giữa; một nguồn ghi Brent đóng cửa 9/10 là 104,72 trong khi bản tin trước ghi 103,2 nên không tính mức thay đổi. Tiêu đề các báo lệch hướng (một báo ghi vượt 105 USD, một báo ghi giảm hơn 1%).",
+      "source_ids": [
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-oil-vietnamnet"
+      ]
+    },
+    {
+      "id": "fuel-e10-ron95",
+      "label": "Giá bán lẻ xăng E10 RON95-III (kỳ điều hành từ 15h 1/10)",
+      "category": "commodity",
+      "value": 28254,
+      "unit": "VND/lít",
+      "change": 1065,
+      "change_unit": "VND/lít so với kỳ 1/10",
+      "direction": "up",
+      "period": "2026-10-08",
+      "as_of": "2026-10-08",
+      "note": "Giá bán lẻ tối đa kỳ 8/10 từ 15h: E10 RON95-III 28.254 (+1.065), E5 RON92 27.703 (+1.134); dầu diesel giảm ~589-590 đ/lít xuống 29.120. Kỳ tăng thứ 6 liên tiếp; E5 đã tăng 5.220 đ/lít từ đầu tháng 9. Quỹ bình ổn chỉ trích 200 đ/lít cho diesel. Giá này vẫn áp dụng ngày 12/10; chưa có thông báo kỳ điều hành kế tiếp.",
+      "source_ids": [
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-fuel-dantri",
+        "u9-fuel-techz"
+      ]
+    },
+    {
+      "id": "interbank-overnight-rate",
+      "label": "Lãi suất liên ngân hàng qua đêm (VND)",
+      "category": "rates",
+      "value": 2.0,
+      "unit": "%/năm",
+      "change": null,
+      "change_unit": null,
+      "direction": "flat",
+      "period": "2026-10-06",
+      "as_of": "2026-10-06",
+      "note": "Phiên 5-6/10 qua đêm quanh 2%/năm (5/10: 1 tuần 3,1%; 2 tuần 4,15%; 1 tháng 5,8%); NHNN hút ròng 11.555 tỷ đồng phiên 6/10. Tuần 28/9-2/10 lãi suất qua đêm biến động rất mạnh (xuống dưới 0,5% rồi lên gần 7%, về 2,8% cuối tuần) và NHNN hút ròng 53.475 tỷ đồng qua OMO. Suy luận của bản tin: thanh khoản đã hạ nhiệt nhưng biến động cao, chưa ổn định.",
+      "source_ids": [
+        "t6-interbank-nguoiquansat",
+        "t5-interbank-investing"
+      ]
+    },
+    {
+      "id": "gdp-q3",
+      "label": "GDP quý III/2026 (ước tính)",
+      "category": "macro",
+      "value": 9.95,
+      "unit": "% svck",
+      "change": null,
+      "change_unit": null,
+      "direction": "up",
+      "period": "Q3/2026",
+      "as_of": "2026-10-03",
+      "note": "XÁC NHẬN: số ước tính do cơ quan thống kê công bố tại họp báo 3/10, được ít nhất ba báo đăng tải: quý III +9,95% svck (Q1 8,15%, Q2 8,81%), 9 tháng +9,01%. Cao hơn khoảng dự báo 8,7-9,3% ở bản trước. Chưa đọc toàn văn báo cáo gốc của GSO/NSO.",
+      "source_ids": [
+        "a-gdp-hanoimoi",
+        "a-gdp-baoquocte",
+        "a-gdp-sggp",
+        "n-gdp-dnhn-0310"
+      ]
+    },
+    {
+      "id": "cpi-national-sep",
+      "label": "CPI cả nước tháng 9/2026 (so cùng kỳ)",
+      "category": "macro",
+      "value": 5.08,
+      "unit": "% svck",
+      "change": 0.62,
+      "change_unit": "% so với tháng trước",
+      "direction": "up",
+      "period": "9/2026",
+      "as_of": "2026-10-03",
+      "note": "MỚI: CPI tháng 9 +0,62% so với tháng trước, +5,08% so với cùng kỳ, +4,2% so với tháng 12/2025. Nhóm giao thông +3,97% so với tháng trước (đóng góp khoảng 0,40 điểm %; xăng +9,39%, dầu diesel +4,53%); giá vàng trong nước tháng 9 +2,38% so với tháng trước. Thay thế CPI Hà Nội ở bản sáng. Chưa đọc toàn văn báo cáo gốc.",
+      "source_ids": [
+        "a-cpi-nguoiquansat",
+        "a-cpi-vietnamplus",
+        "a-cpi-vietstock",
+        "a-cpi-vov"
+      ]
+    },
+    {
+      "id": "retail-sales-9m",
+      "label": "Tổng mức bán lẻ hàng hóa & doanh thu dịch vụ tiêu dùng (9 tháng 2026)",
+      "category": "retail",
+      "value": 5925.7,
+      "unit": "nghìn tỷ VND",
+      "change": 13.4,
+      "change_unit": "% svck (danh nghĩa); +7,8% svck nếu loại trừ yếu tố giá",
+      "direction": "up",
+      "period": "9 tháng 2026",
+      "as_of": "2026-10-03",
+      "note": "MỚI (thay dải ước 13,1-13,6% của bản sáng): tổng mức 5.925,7 nghìn tỷ đồng, +13,4% svck, +7,8% loại trừ giá (8 tháng: +13,3% và +7,6%). Bán lẻ hàng hóa 4.463,6 nghìn tỷ (+12,8%); lưu trú-ăn uống +16,7%; lữ hành +17,9%; riêng tháng 9 ước +14,1% svck. Chưa đọc toàn văn báo cáo gốc.",
+      "source_ids": [
+        "a-retail-vietnamplus",
+        "a-retail-congthuong",
+        "a-retail-thuongtruong"
+      ]
+    },
+    {
+      "id": "ecommerce-retail-9m",
+      "label": "TMĐT bán lẻ (lũy kế 9 tháng 2026)",
+      "category": "ecommerce",
+      "value": 19.5,
+      "unit": "% svck",
+      "change": null,
+      "change_unit": null,
+      "direction": "up",
+      "period": "9 tháng 2026",
+      "as_of": "2026-10-03",
+      "note": "Theo tổng hợp tìm kiếm từ infographic Báo Công Thương; chưa đọc toàn văn nên chưa đối chiếu được nguồn gốc số liệu.",
+      "source_ids": [
+        "n-retail-congthuong-9m"
+      ]
+    },
+    {
+      "id": "camera-wifi-price-floor",
+      "label": "Giá camera Wifi trong nhà thấp nhất quan sát được trên chuỗi/đại lý",
+      "category": "camera",
+      "value": 370000,
+      "unit": "VND",
+      "change": null,
+      "change_unit": null,
+      "direction": "flat",
+      "period": "10/2026",
+      "as_of": "2026-10-03",
+      "note": "Số từ tiêu đề trang danh mục CellphoneS ('từ 370k', 10/2026) quan sát 3/10, chưa xác minh trên sàn; ngày 7/10 Imou IPC-A22EP 2MP 1080p được ghi 375.000 đồng (-46%) trên trang bán lẻ trong kết quả tìm kiếm, cùng mặt bằng.",
+      "source_ids": [
+        "n-cam-cellphones-an-ninh",
+        "t7-cam-phongvu",
+        "t7-cam-songphuong"
+      ]
+    }
+  ],
+  "weekly_macro_watch": {
+    "period_start": "2026-10-05",
+    "period_end": "2026-10-09",
+    "summary": "Tuần 5-9/10: nền vĩ mô trong nước vẫn mạnh (GDP quý III +9,95%, xuất nhập khẩu 9 tháng +30,4%, FDI thực hiện 21,07 tỷ USD, bán lẻ 9 tháng +13,4% — thực +7,8%) nhưng chi phí đang nhích lên: xăng tăng kỳ thứ 6 liên tiếp, Brent vượt 104 USD phiên 8/10, CPI tháng 9 +5,08% svck. Bên ngoài, biên bản FOMC (theo tóm tắt tìm kiếm) nghiêng về khả năng tăng lãi suất thêm, Nasdaq/S&P 500 giảm hai phiên liên tiếp, VN-Index lùi về 1.738,97. Phiên cuối tuần 9/10: Phố Wall phục hồi và đóng tuần tăng điểm, Brent hạ còn ~103 USD, VN-Index 1.735,09.",
+    "themes": [
+      {
+        "id": "th-gdp-q3-beat",
+        "theme": "GDP quý III ước +9,95% svck, vượt khoảng dự báo 8,7-9,3%",
+        "detail": "XÁC NHẬN: quý III +9,95% svck (Q1 8,15%, Q2 8,81%), 9 tháng +9,01% được công bố 3/10 và đăng trên ít nhất ba báo; công nghiệp-xây dựng +12,50%, dịch vụ +9,54% (số từ bản sáng). Suy luận của bản tin: nền cầu vĩ mô tốt; số bán lẻ và CPI cả nước đã có (xem các chủ đề dưới).",
+        "direction": "up",
+        "impact": "medium",
+        "source_ids": [
+          "a-gdp-hanoimoi",
+          "a-gdp-baoquocte",
+          "a-gdp-sggp",
+          "n-gdp-dnhn-0310",
+          "s-gdp-stanchart-vietstock"
+        ]
+      },
+      {
+        "id": "th-cpi-retail-sep",
+        "theme": "CPI tháng 9 +5,08% svck; bán lẻ 9 tháng +13,4% (thực +7,8%)",
+        "detail": "MỚI: CPI +0,62% so với tháng trước, bình quân 9 tháng +4,52%, lạm phát cơ bản +4,26%; nhóm giao thông +3,97% so với tháng trước (xăng +9,39%). Bán lẻ 9 tháng 5.925,7 nghìn tỷ đồng, +13,4% danh nghĩa, +7,8% loại trừ giá. Suy luận của bản tin: sức mua thực còn tăng nhưng giá nhiên liệu đang kéo CPI, giữ áp lực giá vốn/vận hành cao.",
+        "direction": "up",
+        "impact": "high",
+        "source_ids": [
+          "a-cpi-nguoiquansat",
+          "a-cpi-vietnamplus",
+          "a-cpi-vietstock",
+          "a-cpi-vov",
+          "a-retail-vietnamplus",
+          "a-retail-congthuong",
+          "a-retail-thuongtruong"
+        ]
+      },
+      {
+        "id": "th-interbank-volatility",
+        "theme": "Lãi suất liên ngân hàng biến động mạnh rồi hạ nhiệt về ~2% qua đêm",
+        "detail": "Tuần 28/9-2/10 qua đêm từ dưới 0,5% lên gần 7% rồi về 2,8%; NHNN hút ròng 53.475 tỷ đồng; phiên 6/10 hút ròng 11.555 tỷ, qua đêm ~2%. Một số ngân hàng có lãi suất huy động thực nhận trên 8%/năm khi cộng chương trình kèm theo (Bnews). Suy luận của bản tin: mặt bằng lãi suất huy động tăng làm tiết kiệm hấp dẫn hơn, có thể cản chi tiêu mua sắm giá trị lớn nếu kéo dài (chưa có dữ liệu xác nhận).",
+        "direction": "up",
+        "impact": "medium",
+        "source_ids": [
+          "t5-interbank-investing",
+          "t6-interbank-nguoiquansat",
+          "t6-bnews-diemtin"
+        ]
+      },
+      {
+        "id": "th-fuel-tax-extended-1001",
+        "theme": "Gia hạn ưu đãi thuế xăng dầu đến hết 2026",
+        "detail": "Ưu đãi thuế nhập khẩu/BVMT/VAT đối với xăng dầu kéo dài đến 31/12/2026, giảm rủi ro chi phí giao nhận quý IV (không đổi so với bản trước).",
+        "direction": "flat",
+        "impact": "medium",
+        "source_ids": [
+          "s-tax-baochinhphu-3009",
+          "s-tax-congthuong-3009",
+          "s-tax-vtv-3009"
+        ]
+      },
+      {
+        "id": "th-fuel-6th-hike-0810",
+        "theme": "Xăng tăng kỳ thứ 6 liên tiếp: E5 RON92 27.703 đ/lít, E10 28.254 đ/lít; diesel giảm",
+        "detail": "Kỳ 8/10 xăng tăng 1.134 (E5) và 1.065 đ/lít (E10), tổng E5 +5.220 đ/lít từ đầu tháng 9 nhờ giá dầu thế giới tăng do căng thẳng Trung Đông; diesel giảm ~589 đ/lít. Cơ quan quản lý đã thống nhất chuyển sang điều hành giá theo cơ chế thị trường khi nghị định mới có hiệu lực (chưa rõ thời điểm).",
+        "direction": "up",
+        "impact": "high",
+        "source_ids": [
+          "u9-fuel-baogialai",
+          "u9-fuel-24h",
+          "u9-fuel-dantri",
+          "u9-fuel-techz"
+        ]
+      },
+      {
+        "id": "th-brent-hormuz-0810",
+        "theme": "Brent +4,1% lên 104,28 USD phiên 8/10 vì Hormuz, hạ nhiệt sáng 9/10",
+        "detail": "Vụ nổ gần eo biển Hormuz và thông tin Nhà Trắng yêu cầu Lầu Năm Góc xây dựng phương án đối với Iran đẩy giá dầu; sáng 9/10 Brent giảm khi ông Trump nói Mỹ sẽ không tấn công Iran trước bầu cử giữa kỳ 3/11. Rủi ro nguồn cung vẫn còn.",
+        "direction": "up",
+        "impact": "high",
+        "source_ids": [
+          "u9-brent-voh",
+          "u9-brent-dantri"
+        ]
+      },
+      {
+        "id": "th-trade-fdi-9m",
+        "theme": "Xuất nhập khẩu 9 tháng +30,4% (nhập siêu ~19,42 tỷ USD); FDI thực hiện 21,07 tỷ USD",
+        "detail": "Tổng kim ngạch 9 tháng 888,02 tỷ USD, xuất khẩu +24,5%, nhập khẩu +36,7% (nguồn Bộ Công Thương ghi số hơi khác); FDI thực hiện cao nhất 5 năm, vốn đăng ký tăng 76,4%. Nhập khẩu tăng mạnh hơn xuất khẩu hàm ý nhu cầu hàng nhập (gồm thiết bị điện tử) vẫn lớn nhưng cũng nhạy cảm với tỷ giá.",
+        "direction": "up",
+        "impact": "medium",
+        "source_ids": [
+          "u9-trade-vietnamplus",
+          "u9-trade-investing",
+          "u9-fdi-ttctt"
+        ]
+      },
+      {
+        "id": "th-fed-minutes-0710",
+        "theme": "Biên bản FOMC nghiêng về khả năng tăng lãi suất thêm; Nasdaq/S&P giảm hai phiên",
+        "detail": "Theo tóm tắt tìm kiếm, đa số thành viên coi một lần tăng lãi suất nữa là phù hợp trước cuối năm; Phó Thống đốc NHNN cũng nhắc khả năng Fed tăng lãi suất tháng 12. Phiên 8/10 lợi suất và giá dầu tăng, Nasdaq -1,25%. Chưa đọc toàn văn biên bản.",
+        "direction": "up",
+        "impact": "medium",
+        "source_ids": [
+          "u9-us-yahoo",
+          "u9-us-thestreet",
+          "u9-us-cnbc",
+          "u9-rate-kenh14"
+        ]
+      },
+      {
+        "id": "th-week-end-1010",
+        "theme": "Cuối tuần: Phố Wall tăng, Brent hạ nhẹ, vàng tăng, USD tự do tăng",
+        "detail": "Phiên Mỹ 9/10 cả ba chỉ số tăng; Brent ~103 USD; vàng SJC +1,8 triệu đồng; USD thị trường tự do 26.080-26.180 theo một nguồn. Suy luận của bản tin: tín hiệu trái chiều (rủi ro dầu giảm nhẹ, nhưng USD/vàng tăng), chưa đủ để đổi nhận định chi phí quý IV.",
+        "direction": "flat",
+        "impact": "medium",
+        "source_ids": [
+          "v10-us-thestreet",
+          "v10-us-yahoo",
+          "v10-fx-dnhn",
+          "v10-gold-vov",
+          "v10-gold-vietbao",
+          "v10-gold-kenh14"
+        ]
+      }
+    ],
+    "key_metrics": [
+      {
+        "id": "interbank-overnight-rate",
+        "label": "Lãi suất liên ngân hàng qua đêm (VND)",
+        "category": "rates",
+        "value": 2.0,
+        "unit": "%/năm",
+        "change": null,
+        "change_unit": null,
+        "direction": "flat",
+        "period": "2026-10-06",
+        "as_of": "2026-10-06",
+        "note": "Phiên 5-6/10 qua đêm quanh 2%/năm (5/10: 1 tuần 3,1%; 2 tuần 4,15%; 1 tháng 5,8%); NHNN hút ròng 11.555 tỷ đồng phiên 6/10. Tuần 28/9-2/10 lãi suất qua đêm biến động rất mạnh (xuống dưới 0,5% rồi lên gần 7%, về 2,8% cuối tuần) và NHNN hút ròng 53.475 tỷ đồng qua OMO. Suy luận của bản tin: thanh khoản đã hạ nhiệt nhưng biến động cao, chưa ổn định.",
+        "source_ids": [
+          "t6-interbank-nguoiquansat",
+          "t5-interbank-investing"
+        ]
+      },
+      {
+        "id": "deposit-rate-big4",
+        "label": "Lãi suất huy động cao nhất nhóm Big4",
+        "category": "rates",
+        "value": 6.8,
+        "unit": "%/năm",
+        "change": null,
+        "change_unit": null,
+        "direction": "up",
+        "period": "9/2026",
+        "as_of": null,
+        "note": "Chỉ 4 ngân hàng (VPBank, Sacombank, UOB, SeABank) tăng lãi suất niêm yết trong tháng 9, chủ yếu kỳ hạn từ 6 tháng qua kênh online; một số ngân hàng có lãi suất thỏa thuận 12 tháng lên tới 8,8-9,5%/năm cho khách gửi lớn. Cập nhật 6/10 (Bnews): một số ngân hàng tiếp tục tăng lãi suất huy động, lãi suất thực nhận khi cộng chương trình kèm theo trên 8%/năm, có nơi gần 10%/năm.",
+        "source_ids": [
+          "src-deposit-rate-vietnamnet",
+          "src-deposit-rate-vnexpress",
+          "t6-bnews-diemtin"
+        ]
+      }
+    ],
+    "outlook": "Tuần 12-16/10: (1) VN-Index vào tuần mới sau tuần điều chỉnh thứ 3; các nhận định xem 1.715-1.730 là vùng thử hỗ trợ; (2) Brent ~104 USD quyết định kỳ giá xăng dự kiến 15/10 (chưa có thông báo); (3) CPI Mỹ tháng 9 dự kiến 14/10 (dự báo của Barclays qua nguồn thứ cấp: +0,58% tháng, 3,7% svck, chưa xác nhận từ BLS) và mùa báo cáo lợi nhuận Mỹ; (4) phí logistics TikTok Shop có hiệu lực 12/10.",
+    "source_ids": [
+      "n5-week-giavang",
+      "n5-week-tradingkey",
+      "n4-week-fxstreet",
+      "u9-fuel-baogialai",
+      "u9-fuel-24h",
+      "u9-brent-voh"
+    ]
+  },
+  "macro_24h": {
+    "summary": "Đêm qua - sáng 12/10: tỷ giá trung tâm và vàng SJC đi ngang; Brent ~104 USD; giá xăng trong nước giữ mức kỳ 8/10; phí logistics mới của TikTok Shop có hiệu lực từ 0h; thị trường chứng khoán chưa có phiên mới, các nhận định tuần 12-16/10 thận trọng.",
+    "items": [
+      {
+        "id": "m1210-fx",
+        "title": "Tỷ giá trung tâm giữ 25.629 đ/USD; DXY giữ trên 102 điểm",
+        "detail": "Một số báo ghi 25.621 (-8) hoặc 25.626. Vietcombank 25.660-26.070; thị trường tự do ~26.110-26.160. Thị trường chờ dữ liệu lạm phát Mỹ.",
+        "category": "Tỷ giá",
+        "impact": "medium",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-fx-dnhn",
+          "x12-fx-vov",
+          "x12-fx-thanhnien",
+          "x12-fx-tbtc"
+        ]
+      },
+      {
+        "id": "m1210-gold",
+        "title": "Vàng SJC đi ngang 141,8-144,8 triệu đồng/lượng ngày thứ 3; vàng thế giới ~4.186-4.191 USD/oz",
+        "detail": "Chênh mua-bán phổ biến ~3 triệu đồng/lượng; vàng nhẫn SJC ~141,3-144,3.",
+        "category": "Vàng",
+        "impact": "low",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-gold-danviet",
+          "x12-gold-cafef",
+          "x12-gold-baoquocte"
+        ]
+      },
+      {
+        "id": "m1210-oil",
+        "title": "Brent quanh 104-105 USD đầu tuần; giá xăng trong nước giữ mức kỳ 8/10",
+        "detail": "E10 RON95-III 28.250 đ/lít (+1.070), E5 RON92 27.700 (+1.140), diesel 29.120 (-590). Các nguồn chưa có dự báo cụ thể cho kỳ 15/10.",
+        "category": "Năng lượng",
+        "impact": "high",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-oil-baolaocai",
+          "x12-oil-thuongtruong",
+          "x12-oil-vietnamnet"
+        ]
+      },
+      {
+        "id": "m1210-vni-outlook",
+        "title": "VN-Index vào tuần 12-16/10 sau tuần điều chỉnh thứ 3 liên tiếp",
+        "detail": "Tuần 5-9/10 VN-Index -2,62 điểm về 1.735,09, thanh khoản HOSE +7,6% so với tuần trước; các nhận định xem 1.715-1.730 là vùng hỗ trợ, bán ròng khối ngoại ở nhóm ngân hàng và Vingroup; nhiều công ty chứng khoán khuyên không vội bắt đáy.",
+        "category": "Chứng khoán",
+        "impact": "medium",
+        "occurred_at": "2026-10-09",
+        "source_ids": [
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-baodautu",
+          "x12-vni-index"
+        ]
+      },
+      {
+        "id": "m1210-tiktok-fee",
+        "title": "TikTok Shop bắt đầu thu phí logistics cho kiện trên 10kg với đơn tạo từ 0h 12/10",
+        "detail": "Phí 3.000-65.000 đ/kiện, tối đa ở kiện từ 20,5kg; người bán chịu, trừ vào quyết toán, tạm tính theo kích thước khai báo và vẫn thu khi đơn hoàn tiền.",
+        "category": "Thương mại điện tử",
+        "impact": "medium",
+        "occurred_at": "2026-10-12",
+        "source_ids": [
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
+        ]
+      }
+    ]
+  },
+  "financial_markets": {
+    "summary": "Sáng 12/10: tỷ giá trung tâm 25.629 (đi ngang, nguồn lệch 25.621-25.629), DXY trên 102; vàng SJC 144,8 triệu đồng/lượng đi ngang, vàng thế giới ~4.186-4.191 USD/oz; Brent ~104 USD (nguồn lệch 103,8-105,6); VN-Index chưa có phiên mới (1.735,09 ngày 9/10) và các nhận định tuần 12-16/10 thận trọng quanh vùng hỗ trợ 1.715-1.730.",
+    "metrics": [
+      {
+        "id": "usd-vnd-central-rate",
+        "label": "Tỷ giá trung tâm USD/VND",
+        "category": "fx",
+        "value": 25629,
+        "unit": "VND/USD",
+        "change": 0,
+        "change_unit": "VND so với phiên trước",
+        "direction": "flat",
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Phần lớn các báo ghi NHNN giữ nguyên tỷ giá trung tâm 25.629 đ/USD sáng 12/10; Thanh Niên và Thời báo Tài chính VN ghi 25.621 (-8), VOV ghi 25.626 nên các nguồn chênh nhẹ. Vietcombank 25.660-26.070 (mua-bán); thị trường tự do ~26.110-26.160 (một nguồn). Các báo nhận định USD quốc tế tăng tuần thứ tư liên tiếp, thị trường chờ dữ liệu lạm phát Mỹ.",
+        "source_ids": [
+          "x12-fx-dnhn",
+          "x12-fx-vov",
+          "x12-fx-thanhnien",
+          "x12-fx-tbtc"
+        ]
+      },
+      {
+        "id": "vn-index-close",
+        "label": "VN-Index (đóng cửa 9/10)",
+        "category": "equity",
+        "value": 1735.09,
+        "unit": "điểm",
+        "change": -3.88,
+        "change_unit": "điểm (-0,22%) so với 8/10",
+        "direction": "down",
+        "period": "2026-10-09",
+        "as_of": "2026-10-09",
+        "note": "Chưa có phiên mới (số liệu 9/10). Phiên 9/10: VN-Index 1.735,09 (-3,88); thanh khoản ~27.543 tỷ đồng do giao dịch thỏa thuận; khối ngoại bán ròng >9.000 tỷ chủ yếu từ thỏa thuận MCH. Cả tuần 5-9/10 giảm ~2,62 điểm, tuần điều chỉnh thứ 3 liên tiếp; các nhận định tuần 12-16/10 xem vùng 1.715-1.730 điểm là vùng thử hỗ trợ, 1.750-1.760 là vùng hồi phục đầu tiên.",
+        "source_ids": [
+          "v10-vni-nhandan",
+          "v10-vni-baomoi",
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-index"
+        ]
+      },
+      {
+        "id": "gold-sjc-sell",
+        "label": "Vàng miếng SJC (bán ra, sáng 12/10)",
+        "category": "gold",
+        "value": 144.8,
+        "unit": "triệu đồng/lượng",
+        "change": 0,
+        "change_unit": "triệu đồng/lượng so với 11/10",
+        "direction": "flat",
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Sáng 12/10 SJC niêm yết mua 141,8 - bán 144,8 triệu đồng/lượng, đi ngang ngày thứ 3 liên tiếp; vàng nhẫn SJC ~141,3-144,3; chênh mua-bán phổ biến ~3 triệu đồng/lượng. Vàng thế giới ~4.186-4.191 USD/oz (Kitco ~4.186). Số từ tóm tắt kết quả tìm kiếm, chưa đọc toàn văn.",
+        "source_ids": [
+          "x12-gold-danviet",
+          "x12-gold-cafef",
+          "x12-gold-baoquocte"
+        ]
+      },
+      {
+        "id": "oil-brent",
+        "label": "Dầu Brent (sáng 12/10, giờ Việt Nam)",
+        "category": "commodity",
+        "value": 104.3,
+        "unit": "USD/thùng",
+        "change": null,
+        "change_unit": null,
+        "direction": null,
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Các nguồn sáng 12/10 ghi Brent từ 103,8 đến 105,6 USD/thùng và WTI ~91-92,6 USD tùy thời điểm nên giá trị 104,3 chỉ là mức giữa; một nguồn ghi Brent đóng cửa 9/10 là 104,72 trong khi bản tin trước ghi 103,2 nên không tính mức thay đổi. Tiêu đề các báo lệch hướng (một báo ghi vượt 105 USD, một báo ghi giảm hơn 1%).",
+        "source_ids": [
+          "x12-oil-baolaocai",
+          "x12-oil-thuongtruong",
+          "x12-oil-vietnamnet"
+        ]
+      },
+      {
+        "id": "dxy-index",
+        "label": "Chỉ số USD (DXY)",
+        "category": "fx",
+        "value": null,
+        "unit": "điểm",
+        "change": null,
+        "change_unit": null,
+        "direction": null,
+        "period": "2026-10-12",
+        "as_of": "2026-10-12",
+        "note": "Thời báo Tài chính VN ghi DXY \"giữ trên 102 điểm\" sáng 12/10; chưa có con số chính xác nên để null.",
+        "source_ids": [
+          "x12-fx-tbtc"
+        ]
+      },
+      {
+        "id": "interbank-overnight-rate",
+        "label": "Lãi suất liên ngân hàng qua đêm (VND)",
+        "category": "rates",
+        "value": 2.0,
+        "unit": "%/năm",
+        "change": null,
+        "change_unit": null,
+        "direction": "flat",
+        "period": "2026-10-06",
+        "as_of": "2026-10-06",
+        "note": "Phiên 5-6/10 qua đêm quanh 2%/năm (5/10: 1 tuần 3,1%; 2 tuần 4,15%; 1 tháng 5,8%); NHNN hút ròng 11.555 tỷ đồng phiên 6/10. Tuần 28/9-2/10 lãi suất qua đêm biến động rất mạnh (xuống dưới 0,5% rồi lên gần 7%, về 2,8% cuối tuần) và NHNN hút ròng 53.475 tỷ đồng qua OMO. Suy luận của bản tin: thanh khoản đã hạ nhiệt nhưng biến động cao, chưa ổn định.",
+        "source_ids": [
+          "t6-interbank-nguoiquansat",
+          "t5-interbank-investing"
+        ]
+      },
+      {
+        "id": "nasdaq-close",
+        "label": "Nasdaq Composite (phiên Mỹ 9/10)",
+        "category": "equity",
+        "value": 27366.17,
+        "unit": "điểm",
+        "change": 0.64,
+        "change_unit": "%",
+        "direction": "up",
+        "period": "2026-10-09",
+        "as_of": "2026-10-09",
+        "note": "Nasdaq +0,64%; S&P 500 +0,59% lên 7.811,54; Dow +0,83% (+423,31 điểm) lên 51.654,95; cả ba chỉ số tăng theo tuần sau phiên bán tháo 8/10 liên quan thông tin doanh thu OpenAI.",
+        "source_ids": [
+          "v10-us-thestreet",
+          "v10-us-yahoo"
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "id": "fh1210-vni-week",
+        "title": "VN-Index vào tuần mới sau tuần điều chỉnh thứ 3; vùng 1.715-1.730 được theo dõi như hỗ trợ",
+        "detail": "Quan sát: tuần 5-9/10 VN-Index -2,62 điểm, thanh khoản HOSE +7,6%; áp lực bán tập trung ở ngân hàng và nhóm Vingroup, khối ngoại bán ròng. Diễn giải nguồn: nhiều công ty chứng khoán khuyên giải ngân từng phần, mùa báo cáo quý III là yếu tố theo dõi. Suy luận của bản tin: đây là chỉ báo tâm lý, chưa phải bằng chứng suy giảm sức mua.",
+        "impact": "medium",
+        "source_ids": [
+          "x12-vni-vietstock",
+          "x12-vni-vov",
+          "x12-vni-baodautu",
+          "x12-vni-index"
+        ]
+      },
+      {
+        "id": "fh1210-fx-dxy",
+        "title": "USD quốc tế giữ đà tăng, DXY trên 102; tỷ giá trong nước đi ngang",
+        "detail": "Quan sát: các báo ghi đồng USD tăng tuần thứ tư liên tiếp trên thị trường quốc tế, trong nước tỷ giá trung tâm 25.629 và Vietcombank bán 26.070. Suy luận của bản tin: áp lực tỷ giá lên giá vốn hàng nhập khẩu chưa tăng thêm trong 24 giờ qua nhưng phụ thuộc CPI Mỹ.",
+        "impact": "medium",
+        "source_ids": [
+          "x12-fx-dnhn",
+          "x12-fx-tbtc",
+          "x12-fx-thanhnien"
+        ]
+      },
+      {
+        "id": "fh1010-us-oil",
+        "title": "Phố Wall tăng theo tuần, Brent hạ còn ~103 USD khi ông Trump nói Mỹ không tấn công Iran trước bầu cử giữa kỳ",
+        "detail": "Dow +0,83%, S&P 500 +0,59%, Nasdaq +0,64% phiên 9/10; công nghệ phục hồi sau phiên bán tháo 8/10. Brent 103,20-103,48 USD, WTI ~90,90 USD. Mùa báo cáo lợi nhuận bắt đầu tuần tới với các ngân hàng lớn. Suy luận của bản tin: rủi ro dầu giảm nhẹ nhưng chưa dứt vì phụ thuộc phát biểu chính trị; kỳ giá xăng dự kiến 15/10 vẫn phụ thuộc Brent tuần tới.",
+        "impact": "medium",
+        "source_ids": [
+          "v10-us-thestreet",
+          "v10-us-yahoo"
+        ]
+      },
+      {
+        "id": "fh1010-vni-mch",
+        "title": "VN-Index lùi 3,88 điểm; khối ngoại 'bán ròng' hơn 9.000 tỷ chủ yếu do giao dịch thỏa thuận MCH",
+        "detail": "VN-Index 1.735,09 (-0,22%), thanh khoản ~27.543 tỷ đồng (+73% giá trị so với phiên trước). Ngoài MCH, bán ròng nổi bật: HDB ~227 tỷ, FPT ~121 tỷ, ACB ~70 tỷ. VIC, BSR, GVR, GAS kéo chỉ số xuống; PNJ tăng trần. Suy luận của bản tin: số bán ròng bị khuếch đại bởi một giao dịch thỏa thuận, không nên đọc là dòng vốn rút ra diện rộng.",
+        "impact": "medium",
+        "source_ids": [
+          "v10-vni-nhandan",
+          "v10-vni-baomoi"
+        ]
+      },
+      {
+        "id": "fh1010-gold",
+        "title": "Vàng SJC tăng 1,8 triệu đồng lên 144,8 triệu đồng/lượng; vàng thế giới ~4.200 USD/oz",
+        "detail": "Vàng thế giới bật tăng từ vùng 4.100 USD/oz, chạm mức cao nhất một tuần; chênh lệch SJC so với giá quy đổi ~13 triệu đồng/lượng. Một số trang cảnh báo rủi ro mua đuổi. Suy luận của bản tin: vàng tăng cạnh tranh dòng tiền tích trữ với chi tiêu hàng bền, chưa có số liệu xác nhận tác động lên camera.",
+        "impact": "low",
+        "source_ids": [
+          "v10-gold-vov",
+          "v10-gold-vietbao",
+          "v10-gold-kenh14"
+        ]
+      }
+    ]
+  },
+  "retail_consumer": {
+    "summary": "Không có số bán lẻ mới (bán lẻ 9 tháng +13,4%, thực +7,8%; CPI tháng 9 +5,08% svck). Điểm mới: phí logistics TikTok Shop cho kiện trên 10kg có hiệu lực với đơn tạo từ 0h 12/10 (người bán chịu); sale đôi 10.10 đã kết thúc nhưng chưa có số liệu kết quả công khai; giá xăng vẫn ở mức kỳ 8/10 làm chi phí đi lại/giao nhận cao.",
+    "metrics": [
+      {
+        "id": "retail-sales-9m",
+        "label": "Tổng mức bán lẻ hàng hóa & doanh thu dịch vụ tiêu dùng (9 tháng 2026)",
+        "category": "retail",
+        "value": 5925.7,
+        "unit": "nghìn tỷ VND",
+        "change": 13.4,
+        "change_unit": "% svck (danh nghĩa); +7,8% svck nếu loại trừ yếu tố giá",
+        "direction": "up",
+        "period": "9 tháng 2026",
+        "as_of": "2026-10-03",
+        "note": "MỚI (thay dải ước 13,1-13,6% của bản sáng): tổng mức 5.925,7 nghìn tỷ đồng, +13,4% svck, +7,8% loại trừ giá (8 tháng: +13,3% và +7,6%). Bán lẻ hàng hóa 4.463,6 nghìn tỷ (+12,8%); lưu trú-ăn uống +16,7%; lữ hành +17,9%; riêng tháng 9 ước +14,1% svck. Chưa đọc toàn văn báo cáo gốc.",
+        "source_ids": [
+          "a-retail-vietnamplus",
+          "a-retail-congthuong",
+          "a-retail-thuongtruong"
+        ]
+      },
+      {
+        "id": "ecommerce-retail-9m",
+        "label": "TMĐT bán lẻ (lũy kế 9 tháng 2026)",
+        "category": "ecommerce",
+        "value": 19.5,
+        "unit": "% svck",
+        "change": null,
+        "change_unit": null,
+        "direction": "up",
+        "period": "9 tháng 2026",
+        "as_of": "2026-10-03",
+        "note": "Theo tổng hợp tìm kiếm từ infographic Báo Công Thương; chưa đọc toàn văn nên chưa đối chiếu được nguồn gốc số liệu.",
+        "source_ids": [
+          "n-retail-congthuong-9m"
+        ]
+      },
+      {
+        "id": "ecommerce-tiktokshop-share",
+        "label": "Thị phần GMV TikTok Shop trong 4 sàn TMĐT lớn (H1/2026)",
+        "category": "ecommerce",
+        "value": 43.4,
+        "unit": "%",
+        "change": 27,
+        "change_unit": "% svck (tăng trưởng GMV)",
+        "direction": "up",
+        "period": "H1/2026",
+        "as_of": null,
+        "note": "Q&Me x Asia Plus: tổng GMV 4 sàn đạt 13,6 tỷ USD (+37% svck), Shopee 53%/TikTok Shop 44%. VOV nêu số liệu khác chưa đối chiếu trực tiếp - giữ nguyên số liệu Q&Me x Asia Plus.",
+        "source_ids": [
+          "src-ecommerce-theinvestor",
+          "src-vov-marketshare-98pct"
+        ]
+      },
+      {
+        "id": "cashless-transactions-h1",
+        "label": "Thanh toán không dùng tiền mặt (lũy kế 6 tháng 2026, khối lượng giao dịch)",
+        "category": "consumer",
+        "value": 34.2,
+        "unit": "% svck",
+        "change": null,
+        "change_unit": null,
+        "direction": "up",
+        "period": "H1/2026",
+        "as_of": null,
+        "note": "Chưa có số liệu 8 tháng/9 tháng mới hơn được xác minh độc lập trong kỳ này.",
+        "source_ids": [
+          "src-cashless-h1-taichinh",
+          "src-cashless-h1-baoxaydung"
+        ]
+      },
+      {
+        "id": "china-tourist-qr-growth",
+        "label": "Tăng trưởng giao dịch thanh toán QR của khách Trung Quốc tại Việt Nam (VietQRGlobal)",
+        "category": "consumer",
+        "value": null,
+        "unit": "lần (ước tính)",
+        "change": null,
+        "change_unit": null,
+        "direction": "up",
+        "period": "4/2026-8/2026",
+        "as_of": "2026-08-31",
+        "note": "Số lượng giao dịch tăng khoảng 3 lần, giá trị tăng khoảng 4 lần trong 4 tháng kể từ khi liên kết thanh toán QR NAPAS - Ant International - Vietcombank ra mắt 3/4/2026. Không có số liệu tuyệt đối chính xác được xác nhận qua fetch trực tiếp nên để value=null.",
+        "source_ids": [
+          "src-china-tourist-qr-cafef",
+          "src-china-tourist-qr-dantri"
+        ]
+      }
+    ],
+    "trends": [
+      {
+        "id": "tr-tiktok-fee-effective-1210",
+        "trend": "Chi phí bán hàng trên TikTok Shop tăng với hàng nặng/cồng kềnh từ 12/10",
+        "detail": "Quan sát: phí 3.000-65.000 đ/kiện cho kiện trên 10kg, đơn tạo từ 0h 12/10, người bán chịu và không được hoàn khi đơn hoàn tiền; tạm tính theo kích thước khai báo. Diễn giải nguồn: với sản phẩm biên thấp, một khoản phí 20.000 đ có thể xóa gần hết lãi/đơn. Suy luận của bản tin: tác động tập trung vào combo nặng; chưa có dữ liệu cho thấy người mua bị tính thêm.",
+        "direction": "down",
+        "strength": "moderate",
+        "source_ids": [
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
+        ]
+      },
+      {
+        "id": "tr-domestic-demand-9m",
+        "trend": "Bán lẻ 9 tháng +13,4% (thực +7,8%), CPI tháng 9 +5,08%: cầu nội địa mạnh, một phần do giá",
+        "detail": "Số chính thức: tổng mức bán lẻ 9 tháng 5.925,7 nghìn tỷ đồng, +13,4% svck, +7,8% loại trừ giá; GDP quý III +9,95%; CPI tháng 9 +5,08% svck. Suy luận của bản tin: xác nhận nền cầu tốt hơn nhận định thận trọng buổi sáng, nhưng chênh lệch giữa mức tăng danh nghĩa và thực (khoảng 5,6 điểm %) cho thấy giá đóng góp lớn.",
+        "direction": "up",
+        "strength": "strong",
+        "source_ids": [
+          "a-retail-vietnamplus",
+          "a-retail-congthuong",
+          "a-retail-thuongtruong",
+          "a-cpi-nguoiquansat",
+          "a-cpi-vietnamplus",
+          "a-cpi-vietstock",
+          "a-cpi-vov",
+          "a-gdp-hanoimoi",
+          "a-gdp-baoquocte",
+          "a-gdp-sggp"
+        ]
+      },
+      {
+        "id": "tr-saving-rates-0710",
+        "trend": "Lãi suất huy động thực nhận trên 8%/năm ở một số ngân hàng",
+        "detail": "Bnews 6/10: một số ngân hàng tiếp tục tăng lãi suất huy động, lãi suất thực nhận khi cộng chương trình kèm theo trên 8%/năm, có nơi gần 10%/năm. Suy luận của bản tin: tiết kiệm hấp dẫn có thể làm chậm mua sắm giá trị lớn nếu kéo dài; chưa có dữ liệu tiêu dùng xác nhận tác động.",
+        "direction": "up",
+        "strength": "weak",
+        "source_ids": [
+          "t6-bnews-diemtin",
+          "src-deposit-rate-vnexpress"
+        ]
+      },
+      {
+        "id": "tr-tiktok-logistics-fee-pending-289",
+        "trend": "Phí logistics mới của TikTok Shop có hiệu lực 12/10 (còn 5 ngày); VECOM và chuyên gia cảnh báo người bán khó chuyển hết chi phí sang người mua",
+        "detail": "Không có diễn biến mới: phí 3.000-65.000đ/kiện cho đơn từ 10kg (hiệu lực 00:00 12/10/2026, do người bán chịu) tiếp tục là chủ đề cảnh báo về rủi ro biên lợi nhuận hàng cồng kềnh (VECOM, Kenh14).",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "src-tiktok-vecom-response-thanhnien",
+          "src-tiktok-fee-expert-kenh14"
+        ]
+      },
+      {
+        "id": "tr-national-sale-second-edition-289",
+        "trend": "Chương trình khuyến mại tập trung quốc gia lần 2/2026 tiếp tục được chuẩn bị cho tháng 12",
+        "detail": "Bộ Công Thương đã ký Quyết định số 2210/QĐ-BCT (10/9/2026), diễn ra từ 1/12/2026 đến 5/1/2027, mức giảm giá tối đa 100%. Kết hợp với sale 10.10 và Black Friday, tạo thành chuỗi cao điểm mua sắm cuối năm kéo dài gần 3 tháng - không có cập nhật mới trong kỳ này.",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "src-nationalsale-baochinhphu",
+          "src-nationalsale-congthuong-2210"
+        ]
+      },
+      {
+        "id": "tr-fuel-tax-extended-1001",
+        "trend": "Gia hạn thuế xăng dầu giúp ổn định chi phí giao nhận đầu quý IV",
+        "detail": "Kéo dài ưu đãi thuế nhập khẩu/BVMT/VAT xăng dầu đến 31/12/2026 giảm rủi ro chi phí vận chuyển tăng đột ngột cho bán hàng online và lắp đặt; thuế tiêu thụ đặc biệt xăng vẫn được khôi phục. Đây là suy luận của bản tin, chưa có số liệu chi phí logistics thực tế.",
+        "direction": "flat",
+        "strength": "moderate",
+        "source_ids": [
+          "s-tax-baochinhphu-3009",
+          "s-tax-congthuong-3009",
+          "s-tax-vtv-3009"
+        ]
+      },
+      {
+        "id": "tr-fuel-up-0910",
+        "trend": "Xăng tăng kỳ 8/10 (E10 28.254 đ/lít) tiếp tục đẩy chi phí đi lại và giao hàng",
+        "detail": "Xăng tăng 6 kỳ liên tiếp; diesel giảm ~589 đ/lít nên tác động lên chi phí logistics phụ thuộc loại nhiên liệu đội xe. Suy luận của bản tin: áp lực lên CPI giao thông và biên dịch vụ lắp đặt/giao nhận.",
+        "direction": "up",
+        "strength": "strong",
+        "source_ids": [
+          "u9-fuel-baogialai",
+          "u9-fuel-24h",
+          "u9-fuel-dantri",
+          "u9-fuel-techz"
+        ]
+      },
+      {
+        "id": "tr-1010-sale-0910",
+        "trend": "Sale đôi 10.10 (thứ Bảy 10/10) bước vào cao điểm; giá camera Wifi trên các trang bán lẻ thấp",
+        "detail": "Trang tổng hợp ghi Shopee có Siêu Sale 10.10 và TikTok Shop mở chiến dịch từ 7/10 với voucher trong livestream; trang bán lẻ ghi Tapo C200 369.000 đ (-38%), EZVIZ C6N Pro 2K 449.000 đ, Imou IPC-A22EP 375.000 đ. Đây không phải số từ sàn chính thức.",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "u9-sale-viettablet",
+          "u9-sale-shopee-cal",
+          "u9-cam-phongvu-wifi",
+          "u9-cam-songphuong"
+        ]
+      }
+    ]
+  },
+  "b2c_traffic_lights": [
+    {
+      "id": "consumer-demand",
+      "name": "Sức cầu tiêu dùng",
+      "status": "green",
+      "trend": "stable",
+      "explanation": "Giữ xanh: bán lẻ 9 tháng +13,4% (thực +7,8%), GDP quý III +9,95%, xuất nhập khẩu 9 tháng +30,4%. Thận trọng: CPI tháng 9 +5,08% svck, xăng tăng 6 kỳ liên tiếp; VN-Index giảm và khối ngoại bán ròng là chỉ báo tâm lý, chưa phải sức mua. VN-Index 9/10 chỉ -0,22%; số khối ngoại bán ròng >9.000 tỷ chủ yếu do giao dịch thỏa thuận MCH nên không phải bằng chứng rút vốn diện rộng.",
+      "action": "Giữ kế hoạch tồn kho mùa cao điểm, chỉ nâng mức khi doanh số nội bộ 3 ngày sale 10.10 xác nhận.",
+      "source_ids": [
+        "a-retail-vietnamplus",
+        "a-retail-congthuong",
+        "a-retail-thuongtruong",
+        "a-gdp-hanoimoi",
+        "a-cpi-nguoiquansat",
+        "t6-bnews-diemtin",
+        "t7-oil-danviet",
+        "u9-trade-vietnamplus",
+        "u9-fuel-baogialai",
+        "u9-vni-dnse",
+        "v10-vni-nhandan",
+        "v10-vni-baomoi"
+      ]
+    },
+    {
+      "id": "pricing-pressure",
+      "name": "Áp lực giá / tỷ giá lên giá vốn",
+      "status": "red",
+      "trend": "stable",
+      "explanation": "Giữ đỏ: xăng tăng 6 kỳ liên tiếp (E10 28.250 đ/lít, vẫn áp dụng 12/10), CPI tháng 9 +5,08%, Brent ~104 USD sáng 12/10 (nguồn lệch 103,8-105,6). Tỷ giá trung tâm đi ngang 25.629 nên không xấu thêm so với bản trước, nhưng USD quốc tế tăng tuần thứ tư (DXY trên 102).",
+      "action": "Tính lại chi phí giao nhận/lắp đặt quý IV theo loại nhiên liệu của đội xe và 2 kịch bản Brent trước kỳ giá dự kiến 15/10; chưa nâng giá bán khi chưa có thông báo chính thức.",
+      "source_ids": [
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-fuel-dantri",
+        "u9-fuel-techz",
+        "u9-brent-voh",
+        "u9-brent-dantri",
+        "u9-fx-qdnd",
+        "u9-fx-vietbao",
+        "a-cpi-nguoiquansat",
+        "s-tax-baochinhphu-3009",
+        "v10-us-thestreet",
+        "v10-us-yahoo",
+        "v10-fx-dnhn",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-fx-tbtc",
+        "x12-fx-dnhn"
+      ]
+    },
+    {
+      "id": "online-channel",
+      "name": "Kênh online / TMĐT",
+      "status": "yellow",
+      "trend": "stable",
+      "explanation": "Giữ vàng: TMĐT vẫn mạnh (+19,5% 9 tháng, số chưa đối chiếu); sale 10.10 đã kết thúc nhưng chưa có kết quả công khai; phí logistics TikTok Shop có hiệu lực hôm nay (đơn từ 0h 12/10) làm tăng chi phí combo nặng.",
+      "action": "Xác định ngay SKU/combo camera có trọng lượng tính phí trên 10kg và tính lại biên sau phí; chưa tăng giá toàn bộ khi chưa có dữ liệu đơn thực.",
+      "source_ids": [
+        "n-retail-congthuong-9m",
+        "src-tiktok-vecom-response-thanhnien",
+        "src-tiktok-fee-expert-kenh14",
+        "t7-tiktok-1010",
+        "t7-cam-phongvu",
+        "u9-sale-viettablet",
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre"
+      ]
+    },
+    {
+      "id": "camera-demand",
+      "name": "Nhu cầu camera / smart home",
+      "status": "yellow",
+      "trend": "stable",
+      "explanation": "Giữ vàng: không có chỉ báo nhu cầu camera định lượng (lượt tìm kiếm, GMV sau sale 10.10). Hỗ trợ: nền bán lẻ/TMĐT tốt, QCVN 11:2026/BCA (hiệu lực 1/7/2026) đưa an ninh dữ liệu thành tiêu chí chọn mua. Báo cáo Metric (qua tóm tắt) cho thấy doanh số camera không dây trên sàn tập trung ở Shopee, nên chỉ báo nhu cầu cần lấy chủ yếu từ kênh này.",
+      "action": "Lấy số liệu nội bộ 7-12/10 (lượt xem, thêm vào giỏ, đơn camera) theo kênh và đọc báo cáo gốc Metric để xác nhận kỳ dữ liệu.",
+      "source_ids": [
+        "n-retail-congthuong-9m",
+        "n5-cam-qcvn11",
+        "n5-cam-dantri-privacy",
+        "t7-tiktok-1010",
+        "u9-cam-phongvu-wifi",
+        "x12-cam-metric"
+      ]
+    },
+    {
+      "id": "competitive-pressure",
+      "name": "Áp lực cạnh tranh camera",
+      "status": "yellow",
+      "trend": "stable",
+      "explanation": "Giữ vàng: giá camera Wifi 2K trên trang bán lẻ ở mức 369.000-590.000 đ (Tapo, EZVIZ, Imou) trong cao điểm sale; không có sản phẩm/chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua. Nguồn thứ cấp cho rằng Hikvision/Dahua tăng giá (8-15% / 3-8%, chưa rõ ngày) — chưa đủ để kết luận về Việt Nam. Cập nhật 12/10: CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP 380.000 đ (-46% từ 700.000 đ), cùng mặt bằng giá.",
+      "action": "Chụp giá hằng ngày lúc 12h và 20h cho nhóm SKU đối chứng (Imou, EZVIZ, Tapo, FPT) trên Shopee, TikTok Shop, Lazada để có giá thực hậu sale; so sánh tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt).",
+      "source_ids": [
+        "t7-cam-phongvu",
+        "t7-cam-phongvu-wifi",
+        "t7-cam-songphuong",
+        "n5-cam-ezviz-vuhoang",
+        "n-cam-cellphones-imou",
+        "u9-cam-hik-price",
+        "u9-cam-phongvu-wifi",
+        "x12-cam-cellphones-imou"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-fuel-cost-1010",
+      "priority": "high",
+      "issue": "Chi phí giao nhận/lắp đặt chịu áp lực từ xăng tăng 6 kỳ liên tiếp",
+      "evidence": "Giá xăng kỳ 8/10 vẫn áp dụng 12/10: E10 RON95-III 28.250 đ/lít (+1.070), E5 RON92 27.700 (+1.140), diesel 29.120 (-590); Brent sáng 12/10 ~104 USD (nguồn lệch 103,8-105,6). Kỳ giá kế tiếp dự kiến 15/10, chưa có thông báo.",
+      "action": "Tính lại chi phí/đơn lắp đặt và giao hàng quý IV theo cơ cấu nhiên liệu thực của đội xe, với 2 kịch bản giá xăng sau kỳ 15/10 (Brent giữ >100 USD và Brent hạ); chưa đổi giá bán trước khi có số chính thức.",
+      "owner": "Vận hành / Tài chính",
+      "deadline": "2026-10-14",
+      "kpi": "Chi phí giao nhận + lắp đặt bình quân/đơn so với baseline tháng 9; biên gộp combo lắp đặt",
+      "source_ids": [
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-fuel-dantri",
+        "u9-fuel-techz",
+        "u9-brent-voh",
+        "u9-brent-dantri",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong"
+      ]
+    },
+    {
+      "id": "rec-tiktok-fee-1210",
+      "priority": "high",
+      "issue": "Phí logistics TikTok Shop có hiệu lực hôm nay (đơn tạo từ 0h 12/10)",
+      "evidence": "Phí 3.000-65.000 đ/kiện cho kiện trên 10kg, tối đa ở kiện từ 20,5kg; người bán chịu, trừ vào quyết toán theo kích thước khai báo và vẫn thu khi đơn hoàn tiền. Chuyên gia dẫn trong báo: sản phẩm lãi 25.000 đ/đơn mà chịu thêm 20.000 đ phí thì chỉ còn 5.000 đ.",
+      "action": "Trong hôm nay: lọc SKU/combo camera có trọng lượng tính phí trên 10kg, đối chiếu kích thước khai báo với số đo thực (khai thiếu có thể bị trừ cao hơn), tính biên sau phí và loại hoặc điều chỉnh combo âm biên; theo dõi mục Chờ quyết toán của các đơn từ 0h 12/10.",
+      "owner": "Kinh doanh online",
+      "deadline": "2026-10-12",
+      "kpi": "Số combo camera trên 10kg có biên âm sau phí = 0; chênh lệch phí tạm tính và phí thực khấu trừ",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd",
+        "src-tiktok-fee-expert-kenh14"
+      ]
+    },
+    {
+      "id": "rec-price-verify-1210",
+      "priority": "high",
+      "issue": "Chưa có giá thực trên sàn sau sale 10.10",
+      "evidence": "Trang bán lẻ ghi Imou IPC-A32EP 3MP 380.000 đ (-46% từ 700.000 đ, CellphoneS 10/2026), Imou IPC-A22EP 375.000 đ, EZVIZ C6N Pro 2K 449.000 đ, Tapo C212 590.000 đ; không rõ ngày cập nhật và chưa xác minh trên Shopee/TikTok Shop/Lazada.",
+      "action": "Thiết lập chụp giá hằng ngày lúc 12h và 20h cho nhóm SKU đối chứng (Imou A22EP/A32EP, EZVIZ C6N Pro/H6C Pro, Tapo C200/C212, FPT SE2/SE3) trên Shopee, TikTok Shop, Lazada, nạp vào bản tin kế tiếp; chỉ điều chỉnh khuyến mãi dựa trên giá đã xác minh.",
+      "owner": "Kinh doanh online",
+      "deadline": "2026-10-13",
+      "kpi": "Số SKU đối thủ có giá xác minh trên sàn; chênh lệch tổng chi phí 12 tháng FPT vs đối thủ",
+      "source_ids": [
+        "u9-cam-phongvu-wifi",
+        "u9-cam-songphuong",
+        "u9-sale-viettablet",
+        "u9-sale-shopee-cal",
+        "x12-cam-cellphones-imou"
+      ]
+    },
+    {
+      "id": "rec-fpt-bundle-1210",
+      "priority": "medium",
+      "issue": "Thông điệp combo Internet + camera + Cloud cần điều kiện đã xác nhận trước khi dùng trong sale",
+      "evidence": "Trang đại lý/FPT ghi ưu đãi tặng camera + Cloud 12 tháng khi lắp Internet, lắp đặt miễn phí cho khách đang dùng FPT, phí lắp 110.000-165.000 đ/camera cho khách ngoài; điều kiện lấy từ trang đại lý (chưa xác nhận trên fpt.vn).",
+      "action": "Xác nhận điều kiện ưu đãi tặng camera + Cloud 12 tháng và phí lắp đặt trên kênh chính thức (fpt.vn), rồi dựng bảng tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) so với giá thiết bị đối thủ 375.000-590.000 đ để dùng trong nội dung bán hàng.",
+      "owner": "Marketing / Sản phẩm FPT Camera",
+      "deadline": "2026-10-14",
+      "kpi": "Tỷ lệ nội dung sale có bảng tổng chi phí; tỷ lệ chuyển đổi combo Internet + camera",
+      "source_ids": [
+        "u9-cam-fpt-promo",
+        "u9-cam-fpt-mangfpt",
+        "n5-cam-fpt-price",
+        "n5-cam-fpt-combo"
+      ]
+    },
+    {
+      "id": "rec-demand-data-1210",
+      "priority": "medium",
+      "issue": "Thiếu chỉ báo nhu cầu camera định lượng",
+      "evidence": "Không có dữ liệu lượt tìm kiếm hoặc GMV camera công khai sau sale 10.10. Tóm tắt báo cáo Metric: Shopee chiếm ~94,7% doanh số và 92,1% sản lượng camera an ninh không dây trên sàn, TikTok ~1,8% (kỳ dữ liệu theo tóm tắt là 2025, cần xác nhận).",
+      "action": "Cần thêm dữ liệu: (1) lấy đơn camera, lượt xem, thêm vào giỏ 7-12/10 theo kênh; (2) đọc báo cáo gốc Metric để xác nhận kỳ dữ liệu và định nghĩa nhóm hàng; chỉ sau đó mới cân nhắc phân bổ lại ngân sách giữa Shopee và TikTok Shop.",
+      "owner": "Phân tích dữ liệu",
+      "deadline": "2026-10-14",
+      "kpi": "Có ít nhất 1 chỉ báo nhu cầu camera định lượng trong bản tin kế tiếp",
+      "source_ids": [
+        "x12-cam-metric",
+        "u9-cam-phongvu-wifi",
+        "u9-sale-shopee-cal"
+      ]
+    }
+  ],
+  "scenarios_7d": [
+    {
+      "id": "base",
+      "type": "base",
+      "scenario": "Căng thẳng Trung Đông kéo dài nhưng không leo thang; Brent dao động quanh 100-105 USD (sáng 12/10 ~104 USD)",
+      "likelihood": "medium",
+      "conditions": "Không có thêm sự cố tại Hormuz sau phát biểu của ông Trump rằng Mỹ sẽ không tấn công Iran trước 3/11; VN-Index giữ vùng 1.710-1.730.",
+      "consumer_impact": "Giá xăng tiếp tục ở mặt bằng cao (E10 ~28.254 đ/lít), cầu tiêu dùng chưa suy yếu rõ.",
+      "b2c_impact": "Chi phí giao nhận/lắp đặt giữ mức cao; sale 10.10 diễn ra với giá cạnh tranh sâu ở thiết bị đơn lẻ.",
+      "fpt_camera_impact": "Ưu tiên combo Internet + Cloud + lắp đặt thay vì giảm giá thiết bị; theo dõi giá thực trên sàn.",
+      "action": "Thực hiện rec-fuel-cost-1010, rec-tiktok-fee-1210 và rec-price-verify-1210; đánh giá lại sau kỳ giá xăng dự kiến 15/10.",
+      "source_ids": [
+        "u9-brent-voh",
+        "u9-brent-dantri",
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-vni-dnse",
+        "v10-us-thestreet",
+        "v10-us-yahoo",
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong"
+      ]
+    },
+    {
+      "id": "upside",
+      "type": "upside",
+      "scenario": "Căng thẳng hạ nhiệt rõ rệt; Brent giảm đáng kể so với 104 USD",
+      "likelihood": "low",
+      "conditions": "Không có thêm sự cố tại Hormuz và Mỹ–Iran có tín hiệu hạ nhiệt kéo dài; lợi suất Mỹ không tăng thêm.",
+      "consumer_impact": "Kỳ giá xăng tiếp theo có thể giảm hoặc đi ngang, nhẹ áp lực lên CPI giao thông.",
+      "b2c_impact": "Áp lực chi phí giao nhận giảm; dư địa cho khuyến mãi giữ nguyên biên.",
+      "fpt_camera_impact": "Có thể giữ ưu đãi lắp đặt mà không cần tăng phí; vẫn cần xác minh giá đối thủ.",
+      "action": "Chưa nới ngân sách khuyến mãi cho đến khi có thông báo chính thức kỳ giá xăng; giữ kịch bản chi phí dự phòng.",
+      "source_ids": [
+        "u9-brent-voh",
+        "u9-brent-dantri",
+        "u9-fuel-baogialai"
+      ]
+    },
+    {
+      "id": "downside",
+      "type": "downside",
+      "scenario": "Leo thang tại Hormuz hoặc Fed phát tín hiệu tăng lãi suất; Brent và USD cùng tăng",
+      "likelihood": "low",
+      "conditions": "Thêm sự cố tại Hormuz/thủy lôi hoặc Mỹ thay đổi lập trường với Iran; kỳ vọng Fed tăng lãi suất tháng 12 mạnh lên (theo tóm tắt biên bản FOMC, chưa xác nhận toàn văn). CPI Mỹ tháng 9 (dự kiến 14/10) cao hơn kỳ vọng cũng có thể đẩy USD tăng (dự báo +0,58%/tháng theo Barclays qua nguồn thứ cấp, chưa xác nhận từ BLS).",
+      "consumer_impact": "Xăng tăng thêm, CPI giao thông tăng, tâm lý chi tiêu thận trọng hơn; VN-Index có thể thủng vùng hỗ trợ 1.710-1.730.",
+      "b2c_impact": "Chi phí giao nhận và vốn tăng; biên combo cồng kềnh càng mỏng khi phí TikTok Shop có hiệu lực 12/10.",
+      "fpt_camera_impact": "Rủi ro đội chi phí lắp đặt và giá vốn thiết bị nhập khẩu; cần kiểm tra với nhà cung ứng.",
+      "action": "Kích hoạt phương án chi phí xấu nhất trong rec-fuel-cost-1010; xem lại giá combo trước khi gia hạn khuyến mãi.",
+      "source_ids": [
+        "u9-brent-voh",
+        "u9-brent-dantri",
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-us-yahoo",
+        "x12-uscpi-kucoin",
+        "x12-fx-tbtc"
+      ]
+    }
+  ],
+  "must_read": [
+    {
+      "id": "mr-vietstock-weekly-1210",
+      "title": "Vietstock Weekly 12-16/10/2026: Đà giảm chưa dừng?",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/vietstock-weekly-12-16102026-da-giam-chua-dung-1636-1501166.htm",
+      "published_at": null,
+      "summary": "Nhận định chứng khoán tuần 12-16/10 sau tuần điều chỉnh thứ 3 liên tiếp của VN-Index.",
+      "why_read": "Cho biết vùng hỗ trợ/cản để đọc tâm lý thị trường trước khi quyết định ngân sách khuyến mãi tuần này."
+    },
+    {
+      "id": "mr-fuel-dantri-0810",
+      "title": "Nguyên nhân giá xăng tăng tới 5.220 đồng/lít chỉ sau hơn một tháng",
+      "publisher": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/nguyen-nhan-gia-xang-tang-toi-5220-donglit-chi-sau-hon-mot-thang-20261008185408150.htm",
+      "published_at": "2026-10-08",
+      "summary": "Giải thích chuỗi 6 kỳ tăng xăng liên tiếp kể từ đầu tháng 9 và tác động của giá dầu thế giới.",
+      "why_read": "Cơ sở để lãnh đạo chốt giả định chi phí giao nhận/lắp đặt quý IV."
+    },
+    {
+      "id": "mr-tiktok-fee-tuoitre",
+      "title": "TikTok Shop thu thêm phí vận hành logistics đến 65.000 đồng/kiện",
+      "publisher": "Tuổi Trẻ Online",
+      "url": "https://tuoitre.vn/tiktok-shop-sap-thu-them-phi-van-hanh-logistics-cao-nhat-den-65000-dong-kien-100260923172052795.htm",
+      "published_at": "2026-09-23",
+      "summary": "Mức phí, bậc cân nặng và cách tính phí logistics mới của TikTok Shop có hiệu lực từ 12/10.",
+      "why_read": "Căn cứ để rà biên combo camera nặng trên TikTok Shop ngay hôm nay."
+    },
+    {
+      "id": "mr-qcvn11-luatvietnam",
+      "title": "QCVN 11:2026/BCA Thiết bị camera giám sát - Yêu cầu an ninh mạng",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/an-ninh-quoc-gia/qcvn-112026-bca-thiet-bi-camera-giam-sat-yeu-cau-an-ninh-mang-434447-d3.html",
+      "published_at": null,
+      "summary": "Yêu cầu an ninh mạng, bảo vệ dữ liệu cá nhân và lưu trữ dữ liệu tại Việt Nam với camera IP, hiệu lực 1/7/2026.",
+      "why_read": "Căn cứ pháp lý cho định vị bảo mật/quyền riêng tư của FPT Camera so với đối thủ."
+    },
+    {
+      "id": "mr-metric-camera-share",
+      "title": "Phân tích thị phần cạnh tranh và Top thương hiệu ở nhóm hàng Camera an ninh không dây trên sàn TMĐT",
+      "publisher": "Metric.vn",
+      "url": "https://metric.vn/ereport/thi-phan-camera-an-ninh-khong-day",
+      "published_at": null,
+      "summary": "Báo cáo thị phần camera an ninh không dây trên sàn TMĐT; tóm tắt cho thấy Shopee chiếm phần áp đảo doanh số.",
+      "why_read": "Dữ liệu duy nhất về cơ cấu kênh camera trên sàn, cần đọc bản gốc để xác nhận kỳ dữ liệu trước khi phân bổ ngân sách kênh."
+    }
+  ],
+  "events_next_24h": [
+    {
+      "id": "ev-tiktok-fee-1210",
+      "event": "Phí logistics mới của TikTok Shop có hiệu lực với đơn tạo từ 0h 12/10",
+      "scheduled_at": "2026-10-12T00:00:00+07:00",
+      "category": "Thương mại điện tử",
+      "importance": "high",
+      "why_it_matters": "Người bán chịu 3.000-65.000 đ/kiện cho kiện trên 10kg, ảnh hưởng biên combo camera nặng.",
+      "watch_for": "Khoản khấu trừ trong mục Chờ quyết toán so với phí tạm tính; số combo âm biên.",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd"
+      ]
+    },
+    {
+      "id": "ev-monday-open-1210",
+      "event": "Phiên thứ Hai 12/10: NHNN công bố tỷ giá trung tâm, chứng khoán và dầu giao dịch tuần mới",
+      "scheduled_at": "2026-10-12",
+      "category": "Tỷ giá / Chứng khoán",
+      "importance": "medium",
+      "why_it_matters": "Phiên đầu tuần cho biết VN-Index có giữ vùng hỗ trợ 1.715-1.730 sau tuần điều chỉnh thứ 3 hay không.",
+      "watch_for": "VN-Index so với 1.735,09 và 1.715; khối ngoại; tỷ giá trung tâm so với 25.629.",
+      "source_ids": [
+        "x12-vni-vietstock",
+        "x12-vni-vov",
+        "x12-vni-index",
+        "x12-fx-dnhn"
+      ]
+    },
+    {
+      "id": "ev-oil-fuel-1210",
+      "event": "Brent ~104 USD đầu tuần; kỳ giá xăng dầu dự kiến 15/10 (chưa có thông báo chính thức)",
+      "scheduled_at": "2026-10-15",
+      "category": "Năng lượng",
+      "importance": "high",
+      "why_it_matters": "Quyết định giả định chi phí giao nhận/lắp đặt quý IV sau 6 kỳ xăng tăng liên tiếp.",
+      "watch_for": "Brent so với mốc 100 và 105 USD; thông báo liên Bộ Công Thương - Tài chính.",
+      "source_ids": [
+        "x12-oil-baolaocai",
+        "x12-oil-thuongtruong",
+        "x12-oil-vietnamnet"
+      ]
+    },
+    {
+      "id": "ev-uscpi-1410",
+      "event": "CPI Mỹ tháng 9 (dự kiến 14/10, theo nguồn thứ cấp)",
+      "scheduled_at": "2026-10-14",
+      "category": "Vĩ mô quốc tế",
+      "importance": "medium",
+      "why_it_matters": "Ảnh hưởng kỳ vọng lãi suất Fed và USD, từ đó ảnh hưởng tỷ giá và giá vốn hàng nhập khẩu.",
+      "watch_for": "CPI tháng so với dự báo +0,58% (Barclays qua nguồn thứ cấp); phản ứng của DXY quanh mức 102.",
+      "source_ids": [
+        "x12-uscpi-kucoin",
+        "x12-fx-tbtc"
+      ]
+    },
+    {
+      "id": "ev-fcc-apple-1310",
+      "event": "Mốc 13/10: FCC Mỹ mở rộng hạn chế thiết bị Hikvision/Dahua; tin đồn Apple ra thiết bị nhà thông minh (chưa xác nhận từ Apple)",
+      "scheduled_at": "2026-10-13",
+      "category": "Camera / smart home",
+      "importance": "low",
+      "why_it_matters": "Chưa có bằng chứng tác động tới Việt Nam; chỉ theo dõi thông báo từ nhà phân phối và thông tin chính thức của Apple.",
+      "watch_for": "Thông báo điều chỉnh giá/nguồn cung của nhà phân phối Imou/EZVIZ/Hikvision/Dahua tại Việt Nam.",
+      "source_ids": [
+        "u9-cam-fcc-ictally",
+        "u9-cam-hik-fcc",
+        "v10-apple-vnexpress",
+        "v10-apple-baomoi"
+      ]
+    }
+  ],
+  "decisions_today": [
+    {
+      "id": "dec-combo-1210",
+      "decision": "Chốt giá sàn và thông điệp combo camera giai đoạn hậu sale 10.10",
+      "context": "Sale 10.10 đã kết thúc; chưa có số liệu giá/doanh số thực trên sàn; giá trang bán lẻ camera Wifi 2K ở 375.000-590.000 đ (không rõ ngày cập nhật); FPT có lợi thế combo Internet + Cloud nếu điều kiện được xác nhận. Phí logistics TikTok Shop có hiệu lực hôm nay.",
+      "options": [
+        "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng (Cloud + lắp đặt)",
+        "Khuyến mãi có điều kiện cho một số SKU Wifi cơ bản",
+        "Chờ số liệu nội bộ 3 ngày sale rồi mới điều chỉnh"
+      ],
+      "recommended_option": "Giữ giá thiết bị và nhấn tổng chi phí 12 tháng; chỉ điều chỉnh khi có số liệu nội bộ 3 ngày sale",
+      "owner": "Giám đốc Kinh doanh online / Marketing",
+      "deadline": "2026-10-12",
+      "urgency": "high",
+      "source_ids": [
+        "u9-cam-phongvu-wifi",
+        "u9-cam-songphuong",
+        "u9-cam-fpt-promo",
+        "u9-cam-fpt-mangfpt",
+        "n5-cam-fpt-price",
+        "n5-cam-fpt-combo"
+      ]
+    },
+    {
+      "id": "dec-tiktok-fee-1210",
+      "decision": "Chọn cách xử lý combo camera nặng trên TikTok Shop sau khi phí logistics có hiệu lực",
+      "context": "Phí 3.000-65.000 đ/kiện cho kiện trên 10kg áp dụng đơn tạo từ 0h 12/10, người bán chịu. Chưa có dữ liệu nội bộ về số combo thuộc ngưỡng và biên sau phí.",
+      "options": [
+        "Giữ giá, chấp nhận giảm biên ở combo nặng",
+        "Điều chỉnh giá hoặc quà tặng chỉ ở combo âm biên sau phí",
+        "Tách combo thành kiện nhỏ hơn hoặc chuyển combo nặng sang kênh khác"
+      ],
+      "recommended_option": "Rà biên theo trọng lượng tính phí rồi điều chỉnh chỉ ở combo âm biên; chưa chọn phương án nào khi chưa có số liệu SKU",
+      "owner": "Giám đốc Kinh doanh online",
+      "deadline": "2026-10-12",
+      "urgency": "high",
+      "source_ids": [
+        "x12-tiktok-fee-thuonggia",
+        "x12-tiktok-fee-tuoitre",
+        "x12-tiktok-fee-sksd"
+      ]
+    },
+    {
+      "id": "dec-cost-1210",
+      "decision": "Chốt giả định chi phí giao nhận/lắp đặt quý IV theo kịch bản giá xăng",
+      "context": "Xăng tăng 6 kỳ liên tiếp (E10 28.250 đ/lít) trong khi diesel giảm ~590 đ/lít; Brent ~104 USD sáng 12/10 và kỳ giá dự kiến 15/10 chưa có thông báo.",
+      "options": [
+        "Giữ giả định hiện tại",
+        "Dùng kịch bản Brent giữ >100 USD làm cơ sở",
+        "Xây hai kịch bản và xem lại sau kỳ giá 15/10"
+      ],
+      "recommended_option": "Xây hai kịch bản và xem lại sau kỳ giá 15/10; chưa đổi giá bán",
+      "owner": "Giám đốc Vận hành / Tài chính",
+      "deadline": "2026-10-14",
+      "urgency": "medium",
+      "source_ids": [
+        "u9-fuel-baogialai",
+        "u9-fuel-24h",
+        "u9-fuel-dantri",
+        "u9-fuel-techz",
+        "u9-brent-voh",
+        "u9-brent-dantri"
+      ]
+    }
+  ],
+  "camera_market_watch": {
+    "summary": "Sáng 12/10, giá camera Wifi trong nhà tại chuỗi bán lẻ vẫn ở mặt bằng thấp (Imou IPC-A32EP 3MP 380.000 đ, Imou IPC-A22EP 375.000 đ, EZVIZ H6C Pro 2K 445.000 đ, Tapo C200 369.000 đ) nhưng chưa xác minh được giá thực trên sàn sau sale 10.10. FPT Shop niêm yết camera FPT ở 499.000-599.000 đ (ngày cập nhật trang không rõ). Phí logistics TikTok Shop cho kiện trên 10kg có hiệu lực hôm nay; báo cáo Metric (qua tóm tắt) cho thấy doanh số camera không dây trên sàn tập trung ở Shopee. Không có sản phẩm hay chính sách mới của Imou/EZVIZ/Dahua/Hikvision tại Việt Nam được xác minh trong 24 giờ qua; hạn chế của FCC Mỹ với Hikvision/Dahua và tin Apple/LG chưa có bằng chứng tác động tại Việt Nam.",
+    "market_status": "mixed",
+    "key_metrics": [
+      {
+        "id": "camera-wifi-price-floor",
+        "label": "Giá camera Wifi trong nhà thấp nhất quan sát được trên chuỗi/đại lý",
+        "category": "camera",
+        "value": 370000,
+        "unit": "VND",
+        "change": null,
+        "change_unit": null,
+        "direction": "flat",
+        "period": "10/2026",
+        "as_of": "2026-10-03",
+        "note": "Số từ tiêu đề trang danh mục CellphoneS ('từ 370k', 10/2026) quan sát 3/10, chưa xác minh trên sàn; ngày 7/10 Imou IPC-A22EP 2MP 1080p được ghi 375.000 đồng (-46%) trên trang bán lẻ trong kết quả tìm kiếm, cùng mặt bằng. Kiểm tra 12/10: CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP 380.000 đ, cùng mặt bằng giá.",
+        "source_ids": [
+          "n-cam-cellphones-an-ninh",
+          "t7-cam-phongvu",
+          "t7-cam-songphuong",
+          "x12-cam-cellphones-imou"
+        ]
+      }
+    ],
+    "signals": [
+      {
+        "id": "sig-sale1010-price-0710",
+        "signal": "Giá camera 2K trong nhà giảm sâu trên các trang bán lẻ trong cao điểm sale 10.10",
+        "detail": "Sự kiện: kết quả tìm kiếm các trang Phong Vũ/Song Phương ghi Imou IPC-A22EP 375.000 đ (-46%), EZVIZ CS-C6N Pro 2K 449.000 đ (-54,65%), Tapo C212 2K 590.000 đ (-25%). Diễn giải nguồn: các trang là bán lẻ, không rõ mẫu thuộc cửa hàng nào, chưa phải xác nhận từ sàn hoặc hãng. Phân tích của bản tin: mức 375.000-590.000 đ thiết lập mặt bằng giá rất thấp cho camera Wifi trong nhà; mức giảm % so với giá gốc do cửa hàng tự công bố.",
+        "theme": "camera",
+        "signal_type": "market",
+        "segment": "home",
+        "direction": "down",
+        "strength": "moderate",
+        "source_ids": [
+          "t7-cam-phongvu",
+          "t7-cam-phongvu-wifi",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "sig-ezviz-mira-309pm",
+        "signal": "EZVIZ giới thiệu nền tảng MIRA kết nối khóa cửa và camera tại VIBE 2026",
+        "detail": "MỚI (chiều 30/9): theo GenK/CafeF, EZVIZ MIRA đặt trong hệ sinh thái nhà thông minh gồm khóa, camera và thiết bị kết nối, để khách trải nghiệm nhận diện, liên kết và bảo vệ dữ liệu; camera ngoài trời 4G/WiFi công nghệ ColorFULL, ghi liên tục 24/7 chế độ AOV, độ phân giải 2K/4K/6K. Không có giá bán tại Việt Nam trong các nguồn tìm thấy (theo tổng hợp tìm kiếm, chưa đọc toàn văn).",
+        "theme": "smart_home",
+        "signal_type": "technology",
+        "segment": "home",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "s-ezviz-mira-genk-309",
+          "s-ezviz-mira-cafef-309"
+        ]
+      },
+      {
+        "id": "sig-qd502-1001",
+        "signal": "Quyết định 502/QĐ-TTg: kết nối dữ liệu camera giám sát với CSDL quốc gia về dân cư",
+        "detail": "Sự kiện: Quyết định ngày 28/3/2026 phê duyệt phương án kết nối, chia sẻ dữ liệu giữa các hệ thống camera giám sát an ninh, trật tự, xử lý vi phạm và quản lý giao thông với CSDL quốc gia về dân cư; năm 2026-2027 thí điểm/triển khai với hệ thống do cơ quan nhà nước quản lý, đầu tư; kết nối với camera của cá nhân, tổ chức bắt đầu từ 1/1/2028; công an cấp xã khảo sát vị trí và góc quét, chỉ khai thác vùng công cộng (theo các nguồn pháp luật/công an địa phương). Diễn giải nguồn: đây là kế hoạch dài hạn, chưa bắt buộc với camera gia đình trong 2026. Phân tích của bản tin: tạo cơ hội truyền thông về quyền riêng tư/dữ liệu và rủi ro hiểu nhầm của người dùng; chưa có bằng chứng về tác động lên nhu cầu mua.",
+        "theme": "regulation",
+        "signal_type": "regulation",
+        "segment": "all",
+        "direction": null,
+        "strength": "moderate",
+        "source_ids": [
+          "s-cam-qd502-luatvietnam",
+          "s-cam-qd502-lamdong",
+          "s-cam-qd502-tvpl"
+        ]
+      },
+      {
+        "id": "sig-decree330-no-enforcement-289",
+        "signal": "Nghị định 330/2026/NĐ-CP về xử phạt vi phạm camera giám sát vẫn chưa ghi nhận án lệ xử phạt thực tế",
+        "detail": "Không có thông tin mới trong kỳ này về việc thực thi Nghị định 330/2026/NĐ-CP (mức phạt 10-50 triệu đồng cho vi phạm liên quan camera giám sát công cộng, hiệu lực từ 19/8/2026). Khoảng trống thực thi này tiếp tục là cơ hội truyền thông tuân thủ cho FPT Camera nếu muốn chủ động trước khi có án lệ đầu tiên.",
+        "theme": "regulation",
+        "signal_type": "regulation",
+        "segment": "all",
+        "direction": null,
+        "strength": "moderate",
+        "source_ids": [
+          "src-decree330-camera-genk",
+          "src-decree330-camera-vnexpress"
+        ]
+      },
+      {
+        "id": "sig-qcvn11-0510",
+        "signal": "QCVN 11:2026/BCA về an ninh mạng camera giám sát có hiệu lực từ 1/7/2026",
+        "detail": "Theo LuatVietnam/Dân Trí: yêu cầu bảo vệ dữ liệu người dùng, quản lý tài khoản, cập nhật phần mềm, cho phép xóa dữ liệu cá nhân và thiết lập lưu trữ dữ liệu tại Việt Nam. Diễn giải của nguồn: bảo vệ dữ liệu trở thành tiêu chí mới khi chọn camera. Phân tích của bản tin: cơ hội truyền thông về tuân thủ nếu pháp chế xác nhận sản phẩm FPT Camera đáp ứng.",
+        "theme": "regulation",
+        "signal_type": "regulation",
+        "segment": "home",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "n5-cam-qcvn11",
+          "n5-cam-dantri-privacy"
+        ]
+      },
+      {
+        "id": "sig-fcc-hik-dahua-0910",
+        "signal": "Mỹ siết hạn chế thiết bị Hikvision/Dahua; nguồn thứ cấp nói hai hãng tăng giá",
+        "detail": "ICTAlly (cập nhật 6/10) cho biết hạn chế nhập khẩu/tiếp thị thiết bị Hikvision/Dahua đã áp dụng từ 16/7/2026 và sẽ mở rộng cho cơ sở hạ tầng trọng yếu từ 13/10; Hikvision cho rằng thông báo của FCC không phải lệnh cấm toàn diện. Vikylin (nguồn thứ cấp, chưa rõ ngày) ghi Hikvision tăng giá 8-15%, Dahua 3-8%. Diễn giải của bản tin: đây là thị trường Mỹ, chưa có bằng chứng tác động giá hay nguồn cung tại Việt Nam.",
+        "theme": "regulation",
+        "signal_type": "supply",
+        "segment": "all",
+        "direction": "up",
+        "strength": "weak",
+        "source_ids": [
+          "u9-cam-fcc-ictally",
+          "u9-cam-hik-fcc",
+          "u9-cam-hik-price"
+        ]
+      },
+      {
+        "id": "sig-apple-smarthome-1010",
+        "signal": "Apple được cho là sắp ra thiết bị nhà thông minh (camera, chuông cửa, khóa) cùng LG",
+        "detail": "Quan sát: Bloomberg (qua Baomoi) nói Apple hợp tác LG phát triển camera an ninh, chuông cửa, bộ điều nhiệt, khóa thông minh; VnExpress có tiêu đề nêu ngày 13/10 nhưng chưa xác nhận từ Apple và chưa có giá hay thông tin phân phối tại Việt Nam. Suy luận của bản tin: tín hiệu tin đồn, chỉ đáng theo dõi vì có thể thay đổi kỳ vọng về hệ sinh thái nhà thông minh.",
+        "theme": "smart_home",
+        "signal_type": "technology",
+        "segment": "home",
+        "direction": "up",
+        "strength": "weak",
+        "source_ids": [
+          "v10-apple-baomoi",
+          "v10-apple-vnexpress"
+        ]
+      }
+    ],
+    "pricing_watch": [
+      {
+        "id": "pw-imou-a22ep-0710",
+        "brand": "Imou",
+        "product": "Camera IP Wifi Imou IPC-A22EP 2MP 1080p",
+        "segment": "home",
+        "channel": "Trang bán lẻ trong kết quả tìm kiếm (Phong Vũ/Song Phương)",
+        "price": 375000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": -46.0,
+        "promo": "Giảm 46% theo trang bán lẻ; chưa rõ giá gốc và thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-phongvu-wifi",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "pw-imou-2mat6mp-0710",
+        "brand": "Imou",
+        "product": "Camera IP Wifi Imou 2 mắt 6MP",
+        "segment": "home",
+        "channel": "Trang bán lẻ trong kết quả tìm kiếm",
+        "price": 1490000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": -15.0,
+        "promo": "Giảm 15% theo trang bán lẻ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-phongvu",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "pw-ezviz-c6npro-0710",
+        "brand": "EZVIZ",
+        "product": "Camera Wifi quay quét trong nhà EZVIZ CS-C6N Pro 2K",
+        "segment": "home",
+        "channel": "Trang bán lẻ trong kết quả tìm kiếm",
+        "price": 449000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": -54.65,
+        "promo": "Giảm 54,65% theo trang bán lẻ; chưa rõ giá gốc và thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-phongvu",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "pw-ezviz-cb2-0710",
+        "brand": "EZVIZ",
+        "product": "Camera 4G EZVIZ CB2 2K 3MP",
+        "segment": "home",
+        "channel": "Trang bán lẻ trong kết quả tìm kiếm",
+        "price": 1850000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": -46.0,
+        "promo": "Giảm 46% theo trang bán lẻ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-phongvu",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "pw-tapo-c212-0710",
+        "brand": "TP-Link Tapo",
+        "product": "Camera IP WiFi TP-Link Tapo C212 2K",
+        "segment": "home",
+        "channel": "Trang bán lẻ trong kết quả tìm kiếm",
+        "price": 590000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": -25.0,
+        "promo": "Giảm 25% theo trang bán lẻ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-phongvu",
+          "t7-cam-songphuong"
+        ]
+      },
+      {
+        "id": "pw-fpt-iq4s-0510",
+        "brand": "FPT Camera",
+        "product": "Camera IQ 4S (giá khuyến mãi)",
+        "segment": "home",
+        "channel": "fpt.vn / mangfpt.vn (theo tóm tắt tìm kiếm)",
+        "price": 400000,
+        "previous_price": 1000000,
+        "currency": "VND",
+        "change_pct": -60.0,
+        "promo": "Giảm từ 1.000.000 đ xuống 400.000 đ; Play 4 400.000 đ, Play 3 600.000 đ, IQ 3S 700.000 đ; chưa rõ điều kiện/thời hạn (theo tóm tắt tìm kiếm)",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-05",
+        "source_ids": [
+          "n5-cam-fpt-price",
+          "n5-cam-fpt-mangfpt"
+        ]
+      },
+      {
+        "id": "pw-fpt-combo3-0510",
+        "brand": "FPT Camera",
+        "product": "Combo 3 camera (\"1 Triệu 3 Cam\", từ 1.500.000 đ) và tặng 1 camera khi trả trước Internet từ 3 tháng",
+        "segment": "home",
+        "channel": "fpt.vn / mangfpt.vn",
+        "price": 1500000,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": null,
+        "promo": "Combo 3 camera từ 1,5 triệu đ; tặng 1 camera khi mua gói Internet trả trước từ 3 tháng (theo tóm tắt tìm kiếm; chưa rõ thời hạn)",
+        "promo_type": "bundle",
+        "valid_until": null,
+        "observed_at": "2026-10-05",
+        "source_ids": [
+          "n5-cam-fpt-combo",
+          "n5-cam-fpt-mangfpt"
+        ]
+      },
+      {
+        "id": "pw-fpt-free-cam-cloud-0710",
+        "brand": "FPT Camera",
+        "product": "Tặng camera + 12 tháng Cloud khi đăng ký Internet FPT trả trước 3 tháng; Combo Meta V.VIP 339.000 đ/tháng",
+        "segment": "home",
+        "channel": "mangfpt.vn / fpt.vn (theo tóm tắt tìm kiếm)",
+        "price": null,
+        "previous_price": null,
+        "currency": "VND",
+        "change_pct": null,
+        "promo": "Đăng ký Internet FPT hoặc Combo Internet - Truyền hình trả trước 3 tháng được tặng camera và 12 tháng Cloud; Combo Meta V.VIP 339.000 đ/tháng kèm camera + 12 tháng Cloud (tháng 10/2026, theo tóm tắt tìm kiếm; điều kiện/thời hạn chưa kiểm chứng)",
+        "promo_type": "free_cloud",
+        "valid_until": null,
+        "observed_at": "2026-10-07",
+        "source_ids": [
+          "t7-cam-fpt-internet",
+          "t7-cam-fpt-combo"
+        ]
+      },
+      {
+        "id": "pw-tapo-c200-0910",
+        "brand": "TP-Link Tapo",
+        "product": "Camera Wifi Tapo C200",
+        "segment": "home",
+        "channel": "Phong Vũ (trang danh mục trong kết quả tìm kiếm)",
+        "price": 369000,
+        "previous_price": 599000,
+        "currency": "VND",
+        "change_pct": -38.4,
+        "promo": "Giảm so với giá gốc niêm yết 599.000 đ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-09",
+        "source_ids": [
+          "u9-cam-phongvu-wifi"
+        ]
+      },
+      {
+        "id": "pw-imou-ranger-dual-0910",
+        "brand": "Imou",
+        "product": "Imou Ranger Dual Pro IPC-S2XEP-10M0S (5MP+5MP, WiFi 6)",
+        "segment": "home",
+        "channel": "Phong Vũ (trang danh mục trong kết quả tìm kiếm)",
+        "price": 990000,
+        "previous_price": 1690000,
+        "currency": "VND",
+        "change_pct": -41.4,
+        "promo": "Giảm 41% so với giá niêm yết 1.690.000 đ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-09",
+        "source_ids": [
+          "u9-cam-phongvu-wifi"
+        ]
+      },
+      {
+        "id": "pw-fpt-se3-1010",
+        "brand": "FPT",
+        "product": "Camera IP 3MP FPT SE 3 (360 độ)",
+        "segment": "home",
+        "channel": "FPT Shop (trang sản phẩm)",
+        "price": 599000,
+        "previous_price": 1050000,
+        "currency": "VND",
+        "change_pct": -43.0,
+        "promo": "Giá niêm yết giảm so với giá gốc trên trang sản phẩm; ngày cập nhật trang không rõ, chưa xác minh trên sàn TMĐT.",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-10",
+        "source_ids": [
+          "v10-cam-fptshop-se3"
+        ]
+      },
+      {
+        "id": "pw-fpt-se2-1010",
+        "brand": "FPT",
+        "product": "Camera IP 3MP FPT SE 2",
+        "segment": "home",
+        "channel": "FPT Shop (trang sản phẩm)",
+        "price": 499000,
+        "previous_price": 990000,
+        "currency": "VND",
+        "change_pct": -49.6,
+        "promo": "Giá niêm yết giảm so với giá gốc trên trang sản phẩm; ngày cập nhật trang không rõ, chưa xác minh trên sàn TMĐT.",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-10",
+        "source_ids": [
+          "v10-cam-fptshop-se2"
+        ]
+      },
+      {
+        "id": "pw-fptshop-memcard-1010",
+        "brand": "FPT Shop",
+        "product": "Thẻ nhớ mua kèm camera an ninh",
+        "segment": "home",
+        "channel": "FPT Shop",
+        "price": null,
+        "previous_price": null,
+        "currency": null,
+        "change_pct": null,
+        "promo": "Giảm thêm 5% giá thẻ nhớ khi mua kèm camera an ninh, áp dụng 8/9 đến hết 30/9/2026 — đã hết hạn.",
+        "promo_type": "bundle",
+        "valid_until": "2026-09-30",
+        "observed_at": "2026-10-10",
+        "source_ids": [
+          "v10-cam-fptshop-mem"
+        ]
+      },
+      {
+        "id": "pw-imou-a32ep-1210",
+        "brand": "Imou",
+        "product": "Camera Imou IPC-A32EP 3MP",
+        "segment": "home",
+        "channel": "CellphoneS (trang danh mục camera Imou, 10/2026)",
+        "price": 380000,
+        "previous_price": 700000,
+        "currency": "VND",
+        "change_pct": -46.0,
+        "promo": "Giảm 46% từ giá niêm yết 700.000 đ theo trang bán lẻ; chưa rõ thời hạn",
+        "promo_type": "discount",
+        "valid_until": null,
+        "observed_at": "2026-10-12",
+        "source_ids": [
+          "x12-cam-cellphones-imou"
+        ]
+      }
+    ],
+    "channel_watch": [
+      {
+        "id": "ch-tiktok-fee-1210",
+        "channel": "TikTok Shop",
+        "channel_type": "social_commerce",
+        "development": "Phí vận hành logistics cho kiện trên 10kg (3.000-65.000 đ/kiện, tối đa từ 20,5kg) áp dụng đơn tạo từ 0h 12/10; người bán chịu, trừ vào tiền quyết toán, không hoàn khi đơn hoàn tiền.",
+        "direction": "down",
+        "implication_for_fpt_camera": "Combo camera nặng bán trên TikTok Shop có thể giảm biên; mức độ phụ thuộc số SKU trên 10kg và kích thước khai báo, chưa có dữ liệu nội bộ để kết luận.",
+        "source_ids": [
+          "x12-tiktok-fee-thuonggia",
+          "x12-tiktok-fee-tuoitre",
+          "x12-tiktok-fee-sksd"
+        ]
+      },
+      {
+        "id": "ch-1010-sale-ecommerce-289",
+        "channel": "Shopee / TikTok Shop / Lazada (sau sale 10.10)",
+        "channel_type": "ecommerce",
+        "development": "Sale đôi 10.10 (cao điểm thứ Bảy 10/10) đã kết thúc; chưa có số liệu kết quả công khai. Theo trang tổng hợp bên thứ ba, TikTok Shop chạy chiến dịch từ 7/10 và Shopee có Siêu Sale 10.10; các trang bán lẻ ghi Imou/EZVIZ/Tapo giảm 25-55% (chưa xác minh trên sàn).",
+        "direction": "flat",
+        "implication_for_fpt_camera": "Chưa có giá thực hậu sale trên sàn; cần chụp giá hằng ngày và theo dõi biên sau phí logistics TikTok Shop (có hiệu lực 12/10) trước khi điều chỉnh khuyến mãi.",
+        "source_ids": [
+          "t7-tiktok-1010",
+          "src-shopee-1010-promo",
+          "t7-cam-phongvu",
+          "t7-cam-songphuong",
+          "u9-sale-viettablet",
+          "u9-sale-shopee-cal"
+        ]
+      },
+      {
+        "id": "ch-cellphones-ezviz-0310",
+        "channel": "CellphoneS (chuỗi bán lẻ)",
+        "channel_type": "retail_chain",
+        "development": "Trang danh mục camera EZVIZ của CellphoneS (10/2026) nêu 'bao test' và 'giao nhanh 2h' - đề xuất dịch vụ giao hàng/kiểm tra tại chuỗi bán lẻ (theo tiêu đề trang, chưa đọc toàn văn).",
+        "direction": null,
+        "implication_for_fpt_camera": "Chuỗi bán lẻ cạnh tranh bằng tốc độ giao và kiểm tra sản phẩm; FPT Camera cần so sánh trải nghiệm mua/lắp đặt, chưa đủ dữ liệu để kết luận về mức độ ảnh hưởng.",
+        "source_ids": [
+          "n-cam-cellphones-ezviz"
+        ]
+      },
+      {
+        "id": "ch-fpt-internet-bundle-0710",
+        "channel": "FPT Telecom (bán kèm Internet)",
+        "channel_type": "telco",
+        "development": "Ưu đãi tháng 10/2026: đăng ký Internet FPT trả trước 3 tháng được tặng camera và 12 tháng Cloud (theo tóm tắt tìm kiếm trang mangfpt.vn/fpt.vn; điều kiện chưa kiểm chứng).",
+        "direction": null,
+        "implication_for_fpt_camera": "Kênh nhà mạng là lợi thế phân phối của FPT mà camera lẻ Imou/EZVIZ/Tapo không có; cần truyền thông rõ tổng chi phí 12 tháng thay vì cạnh tranh giá thiết bị lẻ.",
+        "source_ids": [
+          "t7-cam-fpt-internet",
+          "t7-cam-fpt-combo"
+        ]
+      },
+      {
+        "id": "ch-fptshop-1010",
+        "channel": "FPT Shop (chuỗi bán lẻ)",
+        "channel_type": "retail_chain",
+        "development": "Niêm yết camera FPT SE 3/SE 2/Play 3 ở 499.000-599.000 đ (giảm 43-50% so với giá gốc trên trang) và đã có ưu đãi thẻ nhớ mua kèm đến 30/9; chưa thấy chương trình riêng cho tháng 10 trong kết quả tìm kiếm.",
+        "direction": "flat",
+        "implication_for_fpt_camera": "Giá thiết bị FPT trên kênh bán lẻ gần mặt bằng đối thủ (369.000-590.000 đ); chưa thấy ưu đãi tháng 10 công khai nên cần xác nhận nội bộ chương trình sale 10.10 trước khi truyền thông.",
+        "source_ids": [
+          "v10-cam-fptshop-se3",
+          "v10-cam-fptshop-se2",
+          "v10-cam-fptshop-mem"
+        ]
+      },
+      {
+        "id": "ch-metric-shopee-share",
+        "channel": "Shopee (camera an ninh không dây trên sàn TMĐT)",
+        "channel_type": "ecommerce",
+        "development": "Quan sát: tóm tắt báo cáo Metric.vn ghi Shopee chiếm ~94,7% doanh số và ~92,1% sản lượng camera an ninh không dây, TikTok ~1,8%; kỳ dữ liệu theo tóm tắt là 1-12/2025 trong khi trang ghi cập nhật 6/2026, số tuyệt đối bị ẩn. Diễn giải: cơ cấu kênh camera khác xa cơ cấu TMĐT chung (Shopee ~55%, TikTok Shop ~41-44% theo các báo cáo khác).",
+        "direction": null,
+        "implication_for_fpt_camera": "Nếu số liệu còn đúng, phí mới của TikTok Shop ảnh hưởng ít tới camera hơn kỳ vọng, còn Shopee là kênh quyết định doanh số; cần đọc báo cáo gốc và đối chiếu số nội bộ trước khi phân bổ ngân sách.",
+        "source_ids": [
+          "x12-cam-metric"
+        ]
+      }
+    ],
+    "demand_watch": [
+      {
+        "id": "dw-1010-sale-signal-289",
+        "indicator": "Sale 10.10 đã kết thúc: chưa có chỉ báo nhu cầu camera định lượng",
+        "detail": "Chưa tìm được số liệu công khai về doanh số/lượt xem camera trong sale 10.10; cần dữ liệu nội bộ của FPT Camera trên từng kênh để thay nhận định định tính.",
+        "segment": "all",
+        "value": null,
+        "unit": null,
+        "period": "10/2026",
+        "direction": null,
+        "strength": null,
+        "source_ids": [
+          "t7-tiktok-1010",
+          "src-shopee-1010-promo",
+          "u9-sale-viettablet"
+        ]
+      },
+      {
+        "id": "dw-ecom-retail-9m-0310",
+        "indicator": "TMĐT bán lẻ 9 tháng 2026 tăng mạnh (chỉ báo vĩ mô, không riêng camera)",
+        "detail": "Tổng hợp tìm kiếm từ infographic Báo Công Thương: TMĐT bán lẻ +19,5% svck trong 9 tháng. Phân tích của bản tin: nền kênh online thuận lợi cho camera Wifi mua online nhưng không phải chỉ báo nhu cầu camera. Cập nhật chiều: bán lẻ chung 9 tháng +13,4% (thực +7,8%) đã được công bố chính thức.",
+        "segment": "all",
+        "value": 19.5,
+        "unit": "% svck",
+        "period": "9 tháng 2026",
+        "direction": "up",
+        "strength": "moderate",
+        "source_ids": [
+          "n-retail-congthuong-9m",
+          "a-retail-vietnamplus"
+        ]
+      }
+    ],
+    "fpt_camera_impact": {
+      "overall": "mixed",
+      "summary": "Nền vĩ mô thuận lợi cho cầu (bán lẻ thực +7,8%, xuất nhập khẩu 9 tháng +30,4%) nhưng chi phí giao nhận/lắp đặt chịu áp lực (xăng tăng 6 kỳ liên tiếp, Brent 104 USD) và giá thiết bị camera Wifi trên trang bán lẻ ở mức thấp (369.000-590.000 đ) sau cao điểm sale 10.10. Lợi thế của FPT nằm ở combo Internet + Cloud và định vị tuân thủ an ninh dữ liệu (QCVN 11:2026/BCA) nếu điều kiện được xác nhận; chưa có bằng chứng về động thái mới của Dahua/Hikvision/Imou/EZVIZ tại Việt Nam. Cập nhật 12/10: phí logistics TikTok Shop có hiệu lực hôm nay; thị phần camera trên sàn (theo tóm tắt Metric) tập trung ở Shopee.",
+      "opportunities": [
+        "Bảng so sánh tổng chi phí 12 tháng (thiết bị + Cloud + lắp đặt) cho nội dung sale, dùng ưu đãi tặng camera + 12 tháng Cloud khi điều kiện đã xác nhận.",
+        "Thu thập giá thực trên sàn ngày 7/10 để thiết kế combo 10.10 có cơ sở.",
+        "Định vị tuân thủ QCVN 11:2026/BCA và lưu trữ dữ liệu tại Việt Nam trong nội dung bán hàng, sau khi pháp chế xác nhận.",
+        "Dùng sale 10.10 làm điểm đo nhu cầu camera nội bộ.",
+        "Đọc báo cáo gốc Metric để xác nhận vai trò chi phối của Shopee với camera không dây, từ đó ưu tiên đo lường và ngân sách theo kênh."
+      ],
+      "risks": [
+        "Phí logistics TikTok Shop (có hiệu lực 12/10) giảm biên combo camera nặng trên 10kg.",
+        "Mặt bằng giá camera 2K 375.000-590.000 đ trên trang bán lẻ có thể kéo kỳ vọng giá khách xuống (chưa xác minh trên sàn).",
+        "EZVIZ MIRA/AI on-device có thể đổi kỳ vọng về cloud nếu được phân phối tại Việt Nam (chưa có giá).",
+        "Chi phí giao nhận/lắp đặt tăng do xăng tăng 6 kỳ liên tiếp (E10 28.254 đ/lít) nếu Brent giữ trên 100 USD.",
+        "Tin đồn Apple/LG vào thị trường camera nhà thông minh chưa có giá hay kế hoạch Việt Nam, chỉ theo dõi."
+      ],
+      "source_ids": [
+        "t7-cam-phongvu",
+        "t7-cam-songphuong",
+        "t7-cam-fpt-internet",
+        "t7-oil-danviet",
+        "a-retail-vietnamplus",
+        "n5-cam-qcvn11",
+        "u9-fuel-baogialai",
+        "u9-cam-phongvu-wifi",
+        "u9-cam-fpt-promo",
+        "v10-cam-fptshop-se3",
+        "v10-cam-fptshop-se2",
+        "v10-apple-baomoi",
+        "x12-tiktok-fee-thuonggia",
+        "x12-cam-metric",
+        "x12-cam-cellphones-imou"
+      ]
+    }
+  },
+  "competitor_watch": [
+    {
+      "id": "cw-imou-promo-0310",
+      "competitor": "Imou",
+      "development": "Trang bán lẻ ghi Imou IPC-A22EP 2MP 375.000 đ (-46%) và camera 2 mắt 6MP 1.490.000 đ (-15%) ngày 7/10; CellphoneS (10/2026) ghi giá từ 370.000 đồng, giảm tới ~49% (theo tóm tắt tìm kiếm, chưa xác minh trên Shopee/TikTok Shop).",
+      "development_type": "promotion",
+      "channel": "CellphoneS / Shopee Mall (theo trang đại lý)",
+      "pricing_or_promo": "IPC-A22EP 375.000 đ (-46%); 2 mắt 6MP 1.490.000 đ (-15%); giá từ ~370.000 đ (theo tóm tắt tìm kiếm, chưa xác minh)",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Nếu mức giá được xác nhận trên sàn, Imou định giá camera Wifi cơ bản dưới 400.000 đ trong sale; FPT khó cạnh tranh bằng giá lẻ ở phân khúc này, cần xác minh mẫu cụ thể và thời hạn.",
+      "suggested_response": "Đối chiếu giá thực trên sàn hôm nay; cân nhắc nhấn Cloud/bảo hành/lắp đặt thay vì giảm giá thiết bị.",
+      "observed_at": "2026-10-07",
+      "source_ids": [
+        "t7-cam-phongvu-wifi",
+        "t7-cam-songphuong",
+        "n-cam-cellphones-imou",
+        "n-cam-minhquang-deal"
+      ]
+    },
+    {
+      "id": "cw-ezviz-dealer-discount-0510",
+      "competitor": "EZVIZ",
+      "development": "EZVIZ CS-C6N Pro 2K 449.000 đ (-54,65%) và CB2 4G 2K 1.850.000 đ (-46%) ngày 7/10 trên trang bán lẻ; đại lý trước đó ghi giảm 20-52% (Vũ Hoàng Telecom), tới 40% (DigiOne), 27-43% (CellphoneS). Chưa xác minh trên sàn.",
+      "development_type": "promotion",
+      "channel": "Đại lý camera / CellphoneS",
+      "pricing_or_promo": "CS-C6N Pro 2K 449.000 đ (-54,65%); CB2 4G 2K 1.850.000 đ (-46%); các đại lý ghi giảm 20-52% (chưa xác minh)",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Mặt bằng giá EZVIZ trước sale 10.10 có thể kéo kỳ vọng giá của khách; dữ liệu chỉ từ trang đại lý, chưa xác minh trên Shopee/TikTok Shop nên chưa kết luận về chiến lược của hãng.",
+      "suggested_response": "Đối chiếu giá thực trên sàn trong ngày 7/10 rồi mới quyết mức ưu đãi combo.",
+      "observed_at": "2026-10-07",
+      "source_ids": [
+        "t7-cam-phongvu",
+        "t7-cam-songphuong",
+        "n5-cam-ezviz-vuhoang",
+        "n5-cam-ezviz-digione",
+        "n4-cam-cellphones-ezviz"
+      ]
+    },
+    {
+      "id": "cw-tapo-c212-0710",
+      "competitor": "TP-Link Tapo",
+      "development": "Camera IP WiFi Tapo C212 2K xuất hiện ở mức 590.000 đ (-25%) trên trang bán lẻ trong khảo sát giá camera 7/10; chưa xác minh trên sàn và chưa có thông tin chiến dịch của hãng.",
+      "development_type": "promotion",
+      "channel": "Trang bán lẻ (Phong Vũ/Song Phương, kết quả tìm kiếm)",
+      "pricing_or_promo": "Tapo C212 2K 590.000 đ (-25%), theo trang bán lẻ, chưa xác minh",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Tapo 2K ở ~590.000 đ định vị gần các mẫu 2K trong nhà của FPT (IQ 4S 400.000 đ khuyến mãi); chưa có dữ liệu cloud/bảo hành nên chưa đánh giá được mức cạnh tranh tổng thể.",
+      "suggested_response": "Thêm Tapo vào bảng giá thực trên sàn trước khi chốt combo 10.10.",
+      "observed_at": "2026-10-07",
+      "source_ids": [
+        "t7-cam-phongvu-wifi",
+        "t7-cam-songphuong"
+      ]
+    },
+    {
+      "id": "cw-ezviz-mira-vibe-0310",
+      "competitor": "EZVIZ",
+      "development": "Trưng bày nền tảng MIRA cùng khóa thông minh và camera ngoài trời 4G/WiFi (độ phân giải 2K/4K/6K theo GenK/CafeF) tại VIBE 2026 (30/9-3/10); chưa có giá bán và chính sách phân phối tại VN trong nguồn công khai.",
+      "development_type": "product_launch",
+      "channel": "Triển lãm VIBE 2026 (SECC TP.HCM)",
+      "pricing_or_promo": null,
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Định vị AI on-device/hệ sinh thái nhà thông minh có thể thay đổi kỳ vọng của người dùng về tính năng và thuê bao cloud; chưa có giá nên chưa thể đánh giá mức cạnh tranh trực tiếp.",
+      "suggested_response": "Ghi nhận giá, cloud, bảo hành tại gian hàng trong ngày 3/10 rồi đánh giá lại.",
+      "observed_at": "2026-10-03",
+      "source_ids": [
+        "src-ezviz-vibe2026-vietnamnet",
+        "s-ezviz-mira-genk-309",
+        "s-ezviz-mira-cafef-309",
+        "src-ezviz-ifa-prnewswire"
+      ]
+    },
+    {
+      "id": "cw-ezviz-cellphones-0310",
+      "competitor": "EZVIZ",
+      "development": "Danh mục camera EZVIZ tại CellphoneS (10/2026) nêu 'bao test' và 'giao nhanh 2h' (theo tiêu đề trang); chuỗi bán lẻ đang là kênh bán EZVIZ cạnh tranh về tốc độ giao. Chiều 3/10: theo tóm tắt tìm kiếm, H6C Pro 2K 445.000đ (giảm 43%) và H8C Pro 2K ngoài trời 795.000đ (giảm 34%) tại CellphoneS; chưa đọc toàn văn.",
+      "development_type": "channel",
+      "channel": "CellphoneS (chuỗi bán lẻ)",
+      "pricing_or_promo": "H6C Pro 2K 445.000đ (giảm 43%); H8C Pro 2K ngoài trời 795.000đ (giảm 34%) - theo tóm tắt tìm kiếm, chưa xác minh trên sàn",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Mức giá dưới 1 triệu đồng của EZVIZ 2K tại chuỗi bán lẻ cho thấy mặt bằng giá camera Wifi cạnh tranh trước sale 10.10; cần so sánh với giá thực tế sản phẩm FPT Camera cùng phân khúc.",
+      "suggested_response": "Đối chiếu giá/khuyến mãi các mẫu 2K cùng phân khúc của FPT Camera với mức này trước khi chốt combo 10.10 (hạn 6/10).",
+      "observed_at": "2026-10-03",
+      "source_ids": [
+        "n-cam-cellphones-ezviz",
+        "n-cam-cellphones-an-ninh"
+      ]
+    },
+    {
+      "id": "cw-hik-dahua-fcc-0910",
+      "competitor": "Hikvision / Dahua (công ty mẹ của EZVIZ / Imou)",
+      "development": "Hạn chế của FCC Mỹ với thiết bị Hikvision/Dahua được siết thêm từ 13/10 (cơ sở hạ tầng trọng yếu); nguồn thứ cấp ghi hai hãng tăng giá 8-15% (Hikvision) và 3-8% (Dahua), chưa rõ ngày. Hikvision cho rằng đây không phải lệnh cấm toàn diện.",
+      "development_type": "other",
+      "channel": "Thị trường Mỹ / toàn cầu (không phải kênh Việt Nam)",
+      "pricing_or_promo": null,
+      "threat_level": "low",
+      "implication_for_fpt_camera": "Chưa có bằng chứng ảnh hưởng đến giá hay nguồn cung tại Việt Nam; chỉ cần theo dõi nếu nhà phân phối Imou/EZVIZ/Hikvision/Dahua tại Việt Nam thông báo điều chỉnh giá. Có thể trở thành điểm nhấn thông tin cho khách quan tâm nguồn gốc/quyền riêng tư, nhưng cần pháp chế và nguồn chính thức trước khi dùng.",
+      "suggested_response": "Chưa cần phản ứng; theo dõi thông báo của nhà phân phối tại Việt Nam.",
+      "observed_at": "2026-10-09",
+      "source_ids": [
+        "u9-cam-fcc-ictally",
+        "u9-cam-hik-fcc",
+        "u9-cam-hik-price"
+      ]
+    },
+    {
+      "id": "cw-imou-a32ep-1210",
+      "competitor": "Imou",
+      "development": "CellphoneS (10/2026) ghi Imou IPC-A32EP 3MP giá 380.000 đ, giảm 46% từ 700.000 đ (theo tóm tắt tìm kiếm trang danh mục, chưa xác minh trên sàn, không rõ thời hạn).",
+      "development_type": "promotion",
+      "channel": "CellphoneS (chuỗi bán lẻ)",
+      "pricing_or_promo": "IPC-A32EP 3MP 380.000 đ (từ 700.000 đ, -46%)",
+      "threat_level": "medium",
+      "implication_for_fpt_camera": "Bổ sung bằng chứng rằng camera Imou 2-3MP ở phân khúc dưới 400.000 đ được bán rộng rãi tại chuỗi bán lẻ; chưa rõ mức giá này kéo dài hay chỉ trong sale, nên chưa kết luận về chiến lược của hãng.",
+      "suggested_response": "Đưa mẫu A32EP vào nhóm SKU chụp giá hằng ngày trên sàn.",
+      "observed_at": "2026-10-12",
+      "source_ids": [
+        "x12-cam-cellphones-imou"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "n-nfp-cnbc",
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "published_at": "2026-10-02",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-nfp-bls",
+      "title": "Employment Situation Summary - 2026 M09 Results",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "published_at": "2026-10-02",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-gdp-dnhn-0310",
+      "title": "GDP Việt Nam 9 tháng tăng 9,01%, công nghiệp và xây dựng tiếp tục là động lực chính",
+      "publisher": "Doanh nghiệp & Hội nhập",
+      "url": "https://doanhnghiephoinhap.vn/gdp-viet-nam-9-thang-tang-901-cong-nghiep-va-xay-dung-tiep-tuc-la-dong-luc-chinh-150575.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-retail-congthuong-9m",
+      "title": "Infographic: Thị trường nội địa và thương mại điện tử 9 tháng năm 2026",
+      "publisher": "Báo Công Thương",
+      "url": "https://congthuong.vn/infographic-thi-truong-noi-dia-va-thuong-mai-dien-tu-9-thang-nam-2026-475053.html",
+      "published_at": null,
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-cam-cellphones-an-ninh",
+      "title": "Camera giám sát 360 độ, không dây Wifi giá rẻ từ 370k - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh.html",
+      "published_at": null,
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-cam-cellphones-ezviz",
+      "title": "Camera Ezviz Wifi Chính Hãng Bao Test Giao Nhanh 2h - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/ezviz.html",
+      "published_at": null,
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-cam-minhquang-deal",
+      "title": "Deal Camera Giám Sát Shopee Đầu Tháng 10",
+      "publisher": "Minh Quang (trang đại lý)",
+      "url": "https://minhquangdaklak.com/deal-camera-giam-sat-shopee.html",
+      "published_at": null,
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n-cam-cellphones-imou",
+      "title": "Camera IMou",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/imou.html",
+      "published_at": null,
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "src-ecommerce-theinvestor",
+      "title": "TikTok Shop narrows gap with Shopee as Vietnam e-commerce becomes duopoly",
+      "publisher": "The Investor",
+      "url": "https://theinvestor.vn/tiktok-shop-narrows-gap-with-shopee-as-vietnam-e-commerce-becomes-duopoly-d19240.html",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-vov-marketshare-98pct",
+      "title": "Chiếm 98% thị phần, TikTok Shop và Shopee tăng phí, siết lợi nhuận người bán",
+      "publisher": "VOV",
+      "url": "https://vov.vn/kinh-te/chiem-98-thi-phan-tiktok-shop-va-shopee-tang-phi-siet-loi-nhuan-nguoi-ban-post1288742.vov",
+      "published_at": "2026-05-04",
+      "accessed_at": "2026-09-26"
+    },
+    {
+      "id": "src-deposit-rate-vietnamnet",
+      "title": "Lãi suất ngân hàng hôm nay 9/9/2026: Lãi suất ngân hàng Big4 lên đến 8%/năm",
+      "publisher": "VietnamNet",
+      "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-9-9-2026-lai-suat-ngan-hang-big4-len-den-8-nam-2553329.html",
+      "published_at": "2026-09-09",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-deposit-rate-vnexpress",
+      "title": "Thêm nhiều ngân hàng trả lãi tiết kiệm trên 9%",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/them-nhieu-ngan-hang-tra-lai-tiet-kiem-tren-9-5123534.html",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-cashless-h1-taichinh",
+      "title": "Thanh toán không dùng tiền mặt đạt hơn 15 tỷ giao dịch, tăng 34,2%",
+      "publisher": "Tài chính Doanh nghiệp",
+      "url": "https://taichinhdoanhnghiep.net.vn/thanh-toan-khong-dung-tien-mat-dat-hon-15-ty-giao-dich-tang-342-d68920.html",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-cashless-h1-baoxaydung",
+      "title": "Giá trị thanh toán không dùng tiền mặt gấp khoảng 28 lần GDP",
+      "publisher": "Báo Xây dựng",
+      "url": "https://baoxaydung.vn/gia-tri-thanh-toan-khong-dung-tien-mat-gap-khoang-28-lan-gdp-192260505155030296.htm",
+      "published_at": "2026-05-05",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-tiktok-fee-expert-kenh14",
+      "title": "TikTok Shop thu phí logistics hàng cồng kềnh tối 65.000 đồng: Chuyên gia nói người bán tăng giá 20.000 đồng chưa chắc bù được chi phí",
+      "publisher": "Kenh14",
+      "url": "https://kenh14.vn/tiktok-shop-thu-phi-logistics-hang-cong-kenh-toi-65000-dong-chuyen-gia-noi-nguoi-ban-tang-gia-20000-dong-chua-chac-bu-duoc-chi-phi-215260925145055752.chn",
+      "published_at": "2026-09-25",
+      "accessed_at": "2026-09-26"
+    },
+    {
+      "id": "src-tiktokshop-fee-dantri",
+      "title": "TikTok Shop thu thêm phí mới, cao nhất 65.000 đồng: Người bán giật mình",
+      "publisher": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/tiktok-shop-thu-them-phi-moi-cao-nhat-65000-dong-nguoi-ban-giat-minh-20260924100517719.htm",
+      "published_at": "2026-09-24",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-china-tourist-qr-cafef",
+      "title": "Giao dịch thanh toán QR của du khách Trung Quốc tại Việt Nam tăng mạnh",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/giao-dich-thanh-toan-qr-cua-du-khach-trung-quoc-tai-viet-nam-tang-manh-188260925164807163.chn",
+      "published_at": "2026-09-25",
+      "accessed_at": "2026-09-26"
+    },
+    {
+      "id": "src-nationalsale-baochinhphu",
+      "title": "Tổ chức Chương trình khuyến mại tập trung quốc gia từ 1/12",
+      "publisher": "Báo Chính phủ",
+      "url": "https://baochinhphu.vn/to-chuc-chuong-trinh-khuyen-mai-tap-trung-quoc-gia-tu-1-12-102260911103853265.htm",
+      "published_at": "2026-09-11",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-nationalsale-congthuong-2210",
+      "title": "Khởi động Chương trình khuyến mại tập trung quốc gia lần 2 năm 2026",
+      "publisher": "Công Thương",
+      "url": "https://congthuong.vn/khoi-dong-chuong-trinh-khuyen-mai-tap-trung-quoc-gia-lan-2-nam-2026-472460.html",
+      "accessed_at": "2026-09-25"
+    },
+    {
+      "id": "src-ezviz-ifa-prnewswire",
+      "title": "EZVIZ Reveals the Next Direction Towards Boundless, Ultra-Flexible Smart Home Security With Its Dual- and Triple-Lens Battery Cameras and AI Innovations at IFA 2026",
+      "publisher": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/ezviz-reveals-the-next-direction-towards-boundless-ultra-flexible-smart-home-security-with-its-dual--and-triple-lens-battery-cameras-and-ai-innovations-at-ifa-2026-302870880.html",
+      "published_at": "2026-09-04",
+      "accessed_at": "2026-09-26"
+    },
+    {
+      "id": "src-tiktok-vecom-response-thanhnien",
+      "title": "Bán hàng online lại lo tăng phí",
+      "publisher": "Thanh Niên",
+      "url": "https://thanhnien.vn/ban-hang-online-lai-lo-tang-phi-185260924195905043.htm",
+      "published_at": "2026-09-24",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "src-china-tourist-qr-dantri",
+      "title": "Du khách ồ ạt quét mã QR tại Việt Nam, giao dịch tăng vọt",
+      "publisher": "Dân Trí",
+      "url": "https://dantri.com.vn/kinh-doanh/du-khach-o-at-quet-ma-qr-tai-viet-nam-giao-dich-tang-vot-20260925201732148.htm",
+      "published_at": "2026-09-25",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "src-shopee-1010-promo",
+      "title": "Shopee Siêu Sale 10.10: Shopee tung loạt voucher sớm",
+      "publisher": "AdPia",
+      "url": "https://adpia.vn/shopee-sieu-sale-10-10-shopee-tung-loat-voucher-som.html",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "src-ezviz-vibe2026-vietnamnet",
+      "title": "EZVIZ tạo trải nghiệm sống động với khóa cửa và camera tại VIBE 2026",
+      "publisher": "VietnamNet",
+      "url": "https://vietnamnet.vn/ezviz-tao-trai-nghiem-song-dong-voi-khoa-cua-va-camera-tai-vibe-2026-2557983.html",
+      "published_at": "2026-09-26",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "src-decree330-camera-genk",
+      "title": "Tất cả những ai đang lắp camera cần lưu ý quy định mới vừa được áp dụng, vi phạm có thể bị phạt tiền lên đến 50 triệu đồng",
+      "publisher": "GenK",
+      "url": "https://genk.vn/tat-ca-nhung-ai-dang-lap-camera-can-luu-y-quy-dinh-moi-vua-duoc-ap-dung-vi-pham-co-the-bi-phat-tien-len-den-50-trieu-dong-165260830083156816.chn",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "src-decree330-camera-vnexpress",
+      "title": "Lắp camera nơi công cộng không cảnh báo có thể bị phạt 20 triệu đồng",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/lap-camera-noi-cong-cong-khong-canh-bao-co-the-bi-phat-20-trieu-dong-5114221.html",
+      "accessed_at": "2026-09-27"
+    },
+    {
+      "id": "s-gdp-stanchart-vietstock",
+      "title": "Standard Chartered: Tăng trưởng GDP quý 3 của Việt Nam nhiều khả năng duy trì vững chắc",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/09/standard-chartered-tang-truong-gdp-quy-3-cua-viet-nam-nhieu-kha-nang-duy-tri-vung-chac-761-1496847.htm",
+      "published_at": "2026-09-29",
+      "accessed_at": "2026-09-30"
+    },
+    {
+      "id": "s-ezviz-mira-genk-309",
+      "title": "EZVIZ MIRA kết nối khóa cửa, camera tại VIBE 2026",
+      "publisher": "GenK",
+      "url": "https://genk.vn/ezviz-mira-ket-noi-khoa-cua-camera-tai-vibe-2026-165260930114045157.chn",
+      "published_at": "2026-09-30",
+      "accessed_at": "2026-09-30"
+    },
+    {
+      "id": "s-ezviz-mira-cafef-309",
+      "title": "EZVIZ MIRA kết nối khóa cửa, camera tại VIBE 2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/ezviz-mira-ket-noi-khoa-cua-camera-tai-vibe-2026-18826093011355995.chn",
+      "published_at": "2026-09-30",
+      "accessed_at": "2026-09-30"
+    },
+    {
+      "id": "s-tax-baochinhphu-3009",
+      "title": "Kéo dài thời hạn áp dụng thuế nhập khẩu ưu đãi, thuế BVMT, thuế GTGT đối với xăng, dầu đến hết năm 2026",
+      "publisher": "Báo Chính phủ",
+      "url": "https://baochinhphu.vn/keo-dai-thoi-han-ap-dung-thue-nhap-khau-uu-dai-thue-bvmt-thue-gtgt-doi-voi-xang-dau-den-het-2026-102260930231914727.htm",
+      "published_at": "2026-09-30",
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-tax-congthuong-3009",
+      "title": "Kéo dài thời hạn áp dụng ưu đãi thuế xăng dầu đến hết năm 2026",
+      "publisher": "Báo Công Thương",
+      "url": "https://congthuong.vn/keo-dai-thoi-han-ap-dung-uu-dai-thue-xang-dau-den-het-nam-2026-475121.html",
+      "published_at": "2026-09-30",
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-tax-vtv-3009",
+      "title": "Tiếp tục giảm thuế xăng dầu đến hết năm 2026",
+      "publisher": "VTV",
+      "url": "https://vtv.vn/tiep-tuc-giam-thue-xang-dau-den-het-nam-2026-100260930224632898.htm",
+      "published_at": "2026-09-30",
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-cam-qd502-luatvietnam",
+      "title": "Quyết định 502/QĐ-TTg 2026 phê duyệt kết nối chia sẻ dữ liệu camera giám sát an ninh",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/an-ninh-trat-tu/quyet-dinh-502-qd-ttg-2026-phe-duyet-ket-noi-chia-se-du-lieu-camera-giam-sat-an-ninh-430162-d1.html",
+      "published_at": null,
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-cam-qd502-lamdong",
+      "title": "Kết nối dữ liệu camera theo Quyết định số 502/QĐ-TTg: Vì an ninh, trật tự và bảo đảm quyền riêng tư",
+      "publisher": "Công an tỉnh Lâm Đồng",
+      "url": "https://congan.lamdong.gov.vn/ket-noi-du-lieu-camera-theo-quyet-dinh-so-502qdttg-vi-an-ninh-trat-tu-va-bao-dam-quyen-rieng-tu-N8077.aspx",
+      "published_at": null,
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-cam-qd502-tvpl",
+      "title": "Camera của cá nhân, tổ chức sẽ được kết nối với Trung tâm camera giám sát Công an cấp xã (Quyết định 502/QĐ-TTg)",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/108601/camera-cua-ca-nhan-to-chuc-se-duoc-ket-noi-voi-trung-tam-camera-giam-sat-cong-an-cap-xa-quyet-dinh-502-qd-ttg",
+      "published_at": null,
+      "accessed_at": "2026-10-01"
+    },
+    {
+      "id": "s-fuel-nhandan-0110",
+      "title": "Giá xăng E5RON92, E10RON95-III tăng từ 15 giờ ngày 1/10",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/gia-xang-e5ron92-e10ron95-iii-tang-tu-15-gio-ngay-110-post992328.html",
+      "published_at": "2026-10-01",
+      "accessed_at": "2026-10-02"
+    },
+    {
+      "id": "a-cpi-nguoiquansat",
+      "title": "CPI tháng 9 tăng 5,08%: 3 nhóm hàng nào đang kéo mặt bằng giá lên mạnh nhất?",
+      "publisher": "Người Quan Sát",
+      "url": "https://nguoiquansat.vn/cpi-thang-9-tang-5-08-3-nhom-hang-nao-dang-keo-mat-bang-gia-len-manh-nhat-319932.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-cpi-vietnamplus",
+      "title": "Chỉ số giá tiêu dùng tháng 9 tăng 0,62% so với tháng trước",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/chi-so-gia-tieu-dung-thang-9-tang-062-so-voi-thang-truoc-post1139820.vnp",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-cpi-vietstock",
+      "title": "CPI tăng 4,52%, lạm phát cơ bản tăng 4,26% trong 9 tháng đầu năm 2026",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/cpi-tang-452-lam-phat-co-ban-tang-426-trong-9-thang-dau-nam-2026-761-1498647.htm",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-cpi-vov",
+      "title": "CPI 9 tháng tăng 4,52%, áp lực lạm phát vẫn hiện hữu",
+      "publisher": "VOV",
+      "url": "http://vov.vn/kinh-te/cpi-9-thang-tang-452-ap-luc-lam-phat-van-hien-huu-post1338154.vov",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-retail-vietnamplus",
+      "title": "Người tiêu dùng Việt mạnh tay chi tiêu hơn 5.925 nghìn tỷ đồng trong 9 tháng",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/nguoi-tieu-dung-viet-manh-tay-chi-tieu-hon-5925-nghin-ty-dong-trong-9-thang-post1139808.vnp",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-retail-congthuong",
+      "title": "9 tháng, bán lẻ hàng hoá và dịch vụ tiêu dùng đạt 5.925,7 nghìn tỷ đồng",
+      "publisher": "Báo Công Thương",
+      "url": "https://congthuong.vn/9-thang-ban-le-hang-hoa-va-dich-vu-tieu-dung-dat-5-925-7-nghin-ty-dong-475461.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-retail-thuongtruong",
+      "title": "Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng tăng 13,4% sau 9 tháng",
+      "publisher": "Thương Trường",
+      "url": "https://thuongtruong.com.vn/news/tong-muc-ban-le-hang-hoa-va-doanh-thu-dich-vu-tieu-dung-tang-134-sau-9-thang-170276.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-gdp-hanoimoi",
+      "title": "GDP quý III tăng 9,95%, lạm phát cơ bản tăng 4,26%",
+      "publisher": "Hà Nội Mới",
+      "url": "https://hanoimoi.vn/gdp-quy-iii-tang-9-95-lam-phat-co-ban-tang-4-26-1759320.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-gdp-baoquocte",
+      "title": "Kinh tế Việt Nam tăng trưởng 9,01% trong 9 tháng năm 2026",
+      "publisher": "Báo Quốc tế",
+      "url": "https://baoquocte.vn/kinh-te-viet-nam-tang-truong-9-01-trong-9-thang-nam-2026-451377.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "a-gdp-sggp",
+      "title": "GDP quý 3-2026 tăng 9,95%",
+      "publisher": "Đầu tư Tài chính (SGGP)",
+      "url": "https://dttc.sggp.org.vn/gdp-quy-3-2026-tang-995-post138062.html",
+      "published_at": "2026-10-03",
+      "accessed_at": "2026-10-03"
+    },
+    {
+      "id": "n4-vni-cafef-week",
+      "title": "Tuần tới VN-Index có lấy lại được ngưỡng 1.800 điểm?",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/tuan-toi-vn-index-co-lay-lai-duoc-nguong-1800-diem-188260927192308192.chn",
+      "published_at": "2026-09-27",
+      "accessed_at": "2026-10-04"
+    },
+    {
+      "id": "n4-week-fxstreet",
+      "title": "Dự báo tuần tới: Trọng tâm chuyển sang Biên bản cuộc họp của FOMC",
+      "publisher": "FXStreet Việt Nam",
+      "url": "https://www.fxstreet-vn.com/analysis/du-bao-tuan-toi-trong-tam-chuyen-sang-bien-ban-cuoc-hop-cua-fomc-202610021803",
+      "published_at": "2026-10-02",
+      "accessed_at": "2026-10-04"
+    },
+    {
+      "id": "n4-cam-cellphones-ezviz",
+      "title": "Camera Ezviz Wifi Chính Hãng Bao Test Giao Nhanh 2h - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/ezviz.html",
+      "published_at": "2026-10-04",
+      "accessed_at": "2026-10-04"
+    },
+    {
+      "id": "n4-sale-viettablet",
+      "title": "Săn sale ngày đôi Shopee và TikTok Shop",
+      "publisher": "Viettablet",
+      "url": "https://www.viettablet.com/san-sale-ngay-doi-shopee-tiktok",
+      "published_at": "2026-10-04",
+      "accessed_at": "2026-10-04"
+    },
+    {
+      "id": "n5-fx-tcvn",
+      "title": "Tỷ giá USD hôm nay (5/10): DXY áp sát 102 điểm, tâm điểm chuyển sang biên bản họp của Fed",
+      "publisher": "Thời báo Tài chính Việt Nam",
+      "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-5-10-dxy-ap-sat-102-diem-tam-diem-chuyen-sang-bien-ban-hop-cua-fed-204838.html",
+      "published_at": "2026-10-05",
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-week-giavang",
+      "title": "Dự báo thị trường vàng tuần 5–9/10: Phe bán chiếm ưu thế sau tuần trượt dốc mạnh",
+      "publisher": "GiaVang.Net",
+      "url": "https://giavang.net/du-bao-thi-truong-vang-tuan-5-9-10-phe-ban-chiem-uu-the-sau-tuan-truot-doc-manh/",
+      "published_at": "2026-10-05",
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-week-tradingkey",
+      "title": "Tâm điểm tuần tới: Biên bản cuộc họp tháng 9 của Fed, kết quả kinh doanh của PepsiCo và Delta",
+      "publisher": "TradingKey",
+      "url": "https://tradingkey.com/vn/analysis/stocks/chung-khoan-my/262199042-weekly-preview-fed-september-minutes-pepsi-delta-earnings-tradingkey",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-fpt-price",
+      "title": "Bảng giá camera FPT cập nhật mới nhất 2026",
+      "publisher": "FPT Telecom (fpt.vn)",
+      "url": "https://fpt.vn/tin-tuc/gia-camera-10509.html",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-fpt-combo",
+      "title": "\"1 Triệu 3 Cam\" của FPT trở lại: Giải pháp camera an ninh thông minh với chi phí tối ưu",
+      "publisher": "FPT Telecom (fpt.vn)",
+      "url": "https://fpt.vn/tin-tuc/1-trieu-3-cam-cua-fpt-tro-lai-giai-phap-camera-an-ninh-thong-minh-voi-chi-phi-toi-uu-14054.html",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-fpt-mangfpt",
+      "title": "Bảng giá Camera FPT khuyến mãi 2026",
+      "publisher": "mangfpt.vn (trang đại lý FPT)",
+      "url": "https://mangfpt.vn/bang-gia-camera-fpt/",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-ezviz-vuhoang",
+      "title": "Camera Ezviz chính hãng chất lượng vượt trội, ưu đãi giá 50%",
+      "publisher": "Vũ Hoàng Telecom",
+      "url": "https://vuhoangtelecom.vn/camera-ip-khong-day-ezviz/",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-ezviz-digione",
+      "title": "Camera Ezviz Trong Nhà Mới Nhất (2026) - Miễn Phí Lắp Đặt Tại Nhà",
+      "publisher": "DigiOne",
+      "url": "https://digione.vn/camera-ezviz-trong-nha/",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-qcvn11",
+      "title": "QCVN 11:2026/BCA Thiết bị camera giám sát - Yêu cầu an ninh mạng",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/an-ninh-quoc-gia/qcvn-112026-bca-thiet-bi-camera-giam-sat-yeu-cau-an-ninh-mang-434447-d3.html",
+      "published_at": null,
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "n5-cam-dantri-privacy",
+      "title": "Khi bảo vệ dữ liệu trở thành tiêu chí mới của thị trường camera",
+      "publisher": "Dân Trí",
+      "url": "https://dantri.com.vn/cong-nghe/khi-bao-ve-du-lieu-tro-thanh-tieu-chi-moi-cua-thi-truong-camera-20260612140319479.htm",
+      "published_at": "2026-06-12",
+      "accessed_at": "2026-10-05"
+    },
+    {
+      "id": "t7-fx-qdnd",
+      "title": "Tỷ giá USD hôm nay (7-10): Đồng USD hạ nhiệt",
+      "publisher": "Báo Quân đội Nhân dân",
+      "url": "https://www.qdnd.vn/kinh-te/tin-tuc/ty-gia-usd-hom-nay-7-10-dong-usd-ha-nhiet-1059662",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-fx-nguoiquansat",
+      "title": "Tỷ giá hôm nay 6/10: Tỷ giá trung tâm tiếp tục tăng, USD ngân hàng bật mạnh",
+      "publisher": "Người Quan Sát",
+      "url": "https://nguoiquansat.vn/ty-gia-hom-nay-6-10-ty-gia-trung-tam-tiep-tuc-tang-usd-ngan-hang-bat-manh-320435.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-fx-suckhoedoisong",
+      "title": "Tỷ giá USD hôm nay 6/10: Đồng Đô La Mỹ 'chợ đen' bán ra trên 26.000 đồng",
+      "publisher": "Sức khỏe & Đời sống",
+      "url": "https://giadinh.suckhoedoisong.vn/ty-gia-usd-hom-nay-6-10-dong-do-la-my-cho-den-ban-ra-tren-26000-dong-172261006095659083.htm",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-bnews-diemtin",
+      "title": "Điểm tin kinh tế Việt Nam nổi bật ngày 6/10/2026",
+      "publisher": "Bnews (TTXVN)",
+      "url": "https://bnews.vn/diem-tin-kinh-te-viet-nam-noi-bat-ngay-6-10-2026/439564.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-gold-vietnamnet",
+      "title": "Giá vàng hôm nay 7/10: Vàng thế giới tăng, chờ tín hiệu mới từ Fed",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/gia-vang-hom-nay-7-10-vang-the-gioi-tang-cho-tin-hieu-moi-tu-fed-2562388.html",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-gold-baodanang",
+      "title": "Giá vàng hôm nay 7/10/2026: Vàng miếng SJC, nhẫn trơn 9999 BTMC và vàng thế giới",
+      "publisher": "Báo Đà Nẵng",
+      "url": "https://baodanang.vn/gia-vang-hom-nay-7-10-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi-3354328.html",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-oil-vietnamnet",
+      "title": "Giá xăng dầu hôm nay 7/10: Thế giới ít biến động, trong nước mai điều chỉnh",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-7-10-the-gioi-it-bien-dong-trong-nuoc-mai-dieu-chinh-2562408.html",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-oil-danviet",
+      "title": "Giá xăng dầu hôm nay 7/10: Dầu thô bật tăng trở lại, giá xăng dầu ngày mai sẽ tăng?",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/gia-xang-dau-hom-nay-7-10-dau-tho-bat-tang-tro-lai-gia-xang-dau-ngay-mai-se-tang-d1465244.html",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-oil-qdnd",
+      "title": "Giá xăng dầu hôm nay (7-10): Giá dầu thế giới đi ngang khi nguồn cung Trung Đông phục hồi",
+      "publisher": "Báo Quân đội Nhân dân",
+      "url": "https://qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-7-10-gia-dau-the-gioi-di-ngang-khi-nguon-cung-trung-dong-phuc-hoi-1059681",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-vni-dnse",
+      "title": "Chứng khoán ngày 6/10: VN-Index tiến gần 1.760 điểm",
+      "publisher": "DNSE",
+      "url": "https://www.dnse.com.vn/senses/tin-tuc/chung-khoan-ngay-610-vn-index-tien-gan-1760-diem-35287893",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-vni-dantri",
+      "title": "Chứng khoán đảo chiều cuối phiên, khối ngoại vẫn bán ròng hơn 2.500 tỷ đồng",
+      "publisher": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-dao-chieu-cuoi-phien-khoi-ngoai-van-ban-rong-hon-2500-ty-dong-20261006150644752.htm",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-vni-nhandan",
+      "title": "Chứng khoán ngày 6/10: VN-Index tăng điểm, khối ngoại tiếp tục bán ròng hơn 2.500 tỷ đồng",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/chung-khoan-ngay-610-vn-index-tang-diem-khoi-ngoai-tiep-tuc-ban-rong-hon-2500-ty-dong-post993234.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-vni-nhipsong",
+      "title": "VN-Index tăng gần 6 điểm, khối ngoại bán ròng hơn 2.700 tỷ đồng",
+      "publisher": "Nhịp sống nhà đất",
+      "url": "https://nhipsongnhadat.vn/vn-index-tang-gan-6-diem-khoi-ngoai-ban-rong-hon-2-700-ty-dong.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-htv-batsong",
+      "title": "Bắt sóng thị trường 7/10: VN-Index tiếp đà hồi phục, Phố Wall lập đỉnh kỷ lục",
+      "publisher": "HTV / NewzMoney",
+      "url": "https://htv.vn/bat-song-thi-truong-7-10-vn-index-tiep-da-hoi-phuc-pho-wall-lap-dinh-ky-luc-newzmoney-22226100707204991.htm",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t5-cafef-foreign-9m",
+      "title": "Khối ngoại bán ròng tháng thứ 9 liên tiếp, tiền vào chứng khoán xuống thấp nhất hơn một năm rưỡi",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/khoi-ngoai-ban-rong-thang-thu-9-lien-tiep-tien-vao-chung-khoan-xuong-thap-nhat-hon-mot-nam-ruoi-188261005220735644.chn",
+      "published_at": "2026-10-05",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t5-cnbc-stocks",
+      "title": "S&P 500 posts first close above 7,800, boosted by tech gains and cooler yields",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
+      "published_at": "2026-10-05",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-cnbc-futures",
+      "title": "Stock futures are little changed after S&P 500 hits fresh record: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-sggp-ai",
+      "title": "Cổ phiếu AI trở lại, Phố Wall lập đỉnh mới",
+      "publisher": "Đầu tư Tài chính (SGGP)",
+      "url": "https://dttc.sggp.org.vn/co-phieu-ai-tro-lai-pho-wall-lap-dinh-moi-post138157.html",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t6-interbank-nguoiquansat",
+      "title": "Phiên 6/10: Ngân hàng Nhà nước hút ròng 11.555 tỷ đồng, lãi suất qua đêm neo mức 2%",
+      "publisher": "Người Quan Sát",
+      "url": "https://nguoiquansat.vn/phien-6-10-ngan-hang-nha-nuoc-hut-rong-11-555-ty-dong-lai-suat-qua-dem-neo-muc-2-320585.html",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t5-interbank-investing",
+      "title": "Lãi suất liên ngân hàng hạ nhiệt sau cú tăng gần 7%, NHNN hút ròng 53.000 tỷ đồng",
+      "publisher": "Investing.com Việt Nam",
+      "url": "https://vn.investing.com/news/economy-news/lai-suat-lien-ngan-hang-ha-nhiet-sau-cu-tang-gan-7-nhnn-hut-rong-53000-ty-dong-2727790",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-tiktok-1010",
+      "title": "TikTok Shop 10.10 2026 — Siêu Sale Ngày Đôi: Voucher Live, Deal 0Đ & Freeship",
+      "publisher": "Khuyến mãi đặc biệt (trang tổng hợp bên thứ ba)",
+      "url": "https://khuyenmaidacbiet.com/landing-page/tiktok-shop-10-10-sale",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-cam-phongvu",
+      "title": "Camera an ninh",
+      "publisher": "Phong Vũ",
+      "url": "https://phongvu.vn/c/camera-an-ninh",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-cam-phongvu-wifi",
+      "title": "Camera wifi",
+      "publisher": "Phong Vũ",
+      "url": "https://phongvu.vn/c/camera-wifi",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-cam-songphuong",
+      "title": "Camera An Ninh",
+      "publisher": "Song Phương",
+      "url": "https://songphuong.vn/camera-giam-sat",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-cam-fpt-internet",
+      "title": "Bảng giá cước Internet FPT tháng 10/2026 - Gói WiFi 6,7 mới nhất",
+      "publisher": "mangfpt.vn (trang đại lý FPT)",
+      "url": "https://mangfpt.vn/bang-gia-cuoc-internet-fpt/",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "t7-cam-fpt-combo",
+      "title": "Bảng giá Camera FPT khuyến mãi 2026",
+      "publisher": "mangfpt.vn (trang đại lý FPT)",
+      "url": "https://mangfpt.vn/bang-gia-camera-fpt/",
+      "published_at": null,
+      "accessed_at": "2026-10-07"
+    },
+    {
+      "id": "u9-vni-dnse",
+      "title": "Chứng khoán ngày 8/10: VN-Index lùi về dưới ngưỡng 1.740 điểm",
+      "publisher": "DNSE",
+      "url": "https://dnse.com.vn/senses/tin-tuc/chung-khoan-ngay-810-vn-index-lui-ve-duoi-nguong-1740-diem-35288023",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-vni-vietstock",
+      "title": "Nhịp đập Thị trường 08/10: Áp lực gia tăng, VN-Index lùi về dưới mốc 1.740 điểm",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-0810-ap-luc-gia-tang-vn-index-lui-ve-duoi-moc-1740-diem-1636-1500026.htm",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-vni-danviet",
+      "title": "Từng tăng gần 10 điểm, VN-Index bất ngờ quay xe giảm 14 điểm",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/tung-tang-gan-10-diem-vn-index-bat-ngo-quay-xe-giam-14-diem-d1465660.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fx-qdnd",
+      "title": "Tỷ giá USD hôm nay (9-10): Đồng đô la Mỹ (USD) giảm nhẹ",
+      "publisher": "Báo Quân đội Nhân dân",
+      "url": "https://www.qdnd.vn/kinh-te/tin-tuc/ty-gia-usd-hom-nay-9-10-dong-usd-giam-nhe-1059921",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fx-vietbao",
+      "title": "Tỷ giá USD hôm nay 9/10: Giá bán USD tại nhiều ngân hàng lớn giảm",
+      "publisher": "Vietbao",
+      "url": "https://vietbao.vn/ty-gia-usd-hom-nay-910-gia-ban-usd-tai-nhieu-ngan-hang-lon-giam-610548.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fx-tbnh",
+      "title": "Sáng 8/10: Tỷ giá trung tâm giảm 4 đồng",
+      "publisher": "Thời báo Ngân hàng",
+      "url": "https://thoibaonganhang.vn/sang-810-ty-gia-trung-tam-giam-4-dong-188672.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-gold-baodanang",
+      "title": "Giá vàng hôm nay 9/10/2026: Vàng miếng SJC, nhẫn trơn 9999 BTMC và vàng thế giới",
+      "publisher": "Báo Đà Nẵng",
+      "url": "https://baodanang.vn/gia-vang-hom-nay-9-10-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi-3354526.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-gold-24h",
+      "title": "Giá vàng hôm nay 9/10: Thế giới hồi phục, trong nước đi ngang",
+      "publisher": "24h.com.vn",
+      "url": "https://www.24h.com.vn/kinh-doanh/gia-vang-hom-nay-9-10-the-gioi-hoi-phuc-trong-nuoc-di-ngang-c161a1801228.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-gold-baovanhoa",
+      "title": "Giá vàng hôm nay 9.10: Quốc tế hồi mạnh, thị trường trong nước vẫn phân hóa",
+      "publisher": "Báo Văn Hóa",
+      "url": "https://baovanhoa.vn/kinh-te/gia-vang-hom-nay-910-quoc-te-hoi-manh-thi-truong-trong-nuoc-van-phan-hoa-272691.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fuel-baogialai",
+      "title": "Chiều 8-10, giá xăng tăng hơn 1.000 đồng/lít, dầu diesel giảm",
+      "publisher": "Báo Gia Lai",
+      "url": "https://baogialai.com.vn/chieu-8-10-gia-xang-tang-hon-1000-dong-lit-dau-diesel-giam-post601456.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fuel-24h",
+      "title": "Giá xăng E10 tăng hơn 1.000 đồng/lít, dầu diesel giảm",
+      "publisher": "24h.com.vn",
+      "url": "https://www.24h.com.vn/thi-truong-tieu-dung/gia-xang-e10-tang-hon-1000-dong-lit-dau-diesel-giam-c52a1801121.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fuel-dantri",
+      "title": "Nguyên nhân giá xăng tăng tới 5.220 đồng/lít chỉ sau hơn một tháng",
+      "publisher": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/nguyen-nhan-gia-xang-tang-toi-5220-donglit-chi-sau-hon-mot-thang-20261008185408150.htm",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fuel-techz",
+      "title": "Giá xăng dầu hôm nay tối 8/10: Xăng E10 lên 28.254 đồng/lít, vẫn thấp hơn nhiều nước láng giềng",
+      "publisher": "Techz",
+      "url": "https://www.techz.vn/210-1026-4-gia-xang-dau-hom-nay-toi-8-10-xang-e10-len-28254-dong-lit-van-thap-hon-nhieu-nuoc-lang-gieng-ylt712559.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-brent-voh",
+      "title": "Hàng loạt vụ nổ lớn xảy ra ở eo biển Hormuz, giá dầu Brent vượt 104 USD/thùng",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/the-gioi/hang-loat-vu-no-lon-xay-ra-o-eo-bien-hormuz-gia-dau-brent-vuot-104-usd-thung-672500.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-brent-dantri",
+      "title": "Giá dầu giảm sau khi ông Trump có phát biểu mới về xung đột Trung Đông",
+      "publisher": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-dau-giam-sau-khi-ong-trump-co-phat-bieu-moi-ve-xung-dot-trung-dong-20261009073925774.htm",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-us-yahoo",
+      "title": "Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-us-thestreet",
+      "title": "Stock Market Today (Oct. 8): Nasdaq, Russell 2000 suffer on higher oil, Treasurys",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-08-2026",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-us-cnbc",
+      "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "published_at": "2026-10-07",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-rate-kenh14",
+      "title": "Thông tin mới về lãi suất ngân hàng",
+      "publisher": "Kênh14",
+      "url": "https://kenh14.vn/thong-tin-moi-ve-lai-suat-ngan-hang-215261008063907101.chn",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-trade-vietnamplus",
+      "title": "9 tháng năm 2026: Kim ngạch xuất, nhập khẩu tăng 30,4%",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/9-thang-nam-2026-kim-ngach-xuat-nhap-khau-tang-304-post1140062.vnp",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-trade-investing",
+      "title": "9 tháng đầu năm 2026, tổng kim ngạch xuất, nhập khẩu hàng hóa đạt 888,02 tỷ USD",
+      "publisher": "Investing.com (Vietstock)",
+      "url": "https://vn.investing.com/news/economy-news/9-thang-dau-nam-2026-tong-kim-ngach-xuat-nhap-khau-hang-hoa-dat-88802-ty-usd-2726528",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-fdi-ttctt",
+      "title": "9 tháng năm 2026: FDI thực hiện đạt 21,07 tỷ USD, cao nhất 5 năm",
+      "publisher": "Thị trường Tài chính Tiền tệ",
+      "url": "https://thitruongtaichinhtiente.vn/9-thang-nam-2026-fdi-thuc-hien-dat-21-07-ty-usd-cao-nhat-5-nam-86014.html",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-sale-viettablet",
+      "title": "Cập nhật các ngày sale lớn 2026 của TikTok Shop",
+      "publisher": "Viettablet (trang tổng hợp bên thứ ba)",
+      "url": "https://www.viettablet.com/cac-ngay-sale-lon-2026-tiktok-shop",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-sale-shopee-cal",
+      "title": "Lịch Sale Shopee Tháng 10/2026",
+      "publisher": "Khuyến mãi đặc biệt (trang tổng hợp bên thứ ba)",
+      "url": "https://khuyenmaidacbiet.com/landing-page/lich-sale-shopee-thang-10-2026",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-phongvu-wifi",
+      "title": "Camera wifi",
+      "publisher": "Phong Vũ",
+      "url": "https://phongvu.vn/c/camera-wifi",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-songphuong",
+      "title": "Camera Cửa hàng/Shop",
+      "publisher": "Song Phương",
+      "url": "https://songphuong.vn/cam-shop",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-imou-cellphones",
+      "title": "Camera Imou WiFi chính hãng - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/imou.html",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-imou-vn",
+      "title": "Imou Vietnam - Products",
+      "publisher": "Imou (website hãng)",
+      "url": "https://www.imou.com/vn/products",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-fcc-ictally",
+      "title": "FCC Camera Ban 2026: Hikvision, Dahua & Hanwha Status",
+      "publisher": "ICTAlly",
+      "url": "https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville",
+      "published_at": "2026-10-06",
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-hik-fcc",
+      "title": "Understanding the FCC’s Regulatory Updates",
+      "publisher": "Hikvision (newsroom)",
+      "url": "https://www.hikvision.com/us-en/newsroom/latest-news/2026/understanding-the-fcc-s-regulatory-updates/",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-hik-price",
+      "title": "2026 Security Industry Alert: Hikvision, Dahua & Uniview Raise Prices",
+      "publisher": "Vikylin (nguồn thứ cấp)",
+      "url": "https://vikylin.com/hikvision-dahua-price-hike/",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-fpt-promo",
+      "title": "Khuyến mãi FPT mới nhất 2026: Internet, truyền hình, camera",
+      "publisher": "FPT Telecom",
+      "url": "https://fpt.vn/tin-tuc/khuyen-mai",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "u9-cam-fpt-mangfpt",
+      "title": "Bảng giá cước Internet FPT tháng 10/2026",
+      "publisher": "mangfpt.vn (đại lý)",
+      "url": "https://mangfpt.vn/bang-gia-cuoc-internet-fpt/",
+      "published_at": null,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "id": "v10-fx-dnhn",
+      "title": "Tỷ giá USD hôm nay 10/10/2026: Đồng USD đảo chiều tăng",
+      "publisher": "Doanh nghiệp & Hội nhập",
+      "url": "https://doanhnghiephoinhap.vn/ty-gia-usd-hom-nay-1010-2026-dong-usd-dao-chieu-tang-151190.html",
+      "published_at": "2026-10-10",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-vni-nhandan",
+      "title": "Chứng khoán ngày 9/10: Khối ngoại bán ròng hơn 9.700 tỷ đồng, VN-Index mất gần 4 điểm",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/chung-khoan-ngay-910-khoi-ngoai-ban-rong-hon-9700-ty-dong-vn-index-mat-gan-4-diem-post994070.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-vni-baomoi",
+      "title": "Chứng khoán 09/10: VN-Index giảm gần 4 điểm, tiền vẫn tìm cơ hội",
+      "publisher": "Tạp chí Điện tử & Ứng dụng (qua Baomoi)",
+      "url": "https://baomoi.com/chung-khoan-09-10-vn-index-giam-gan-4-diem-tien-van-tim-co-hoi-c56235659.epi",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-gold-vov",
+      "title": "Giá vàng hôm nay 10/10: Vàng SJC giao dịch ở mức 144,8 triệu đồng/lượng",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/gia-vang/gia-vang-hom-nay-1010-vang-sjc-giao-dich-o-muc-1448-trieu-dongluong-post1339899.vov",
+      "published_at": "2026-10-10",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-gold-vietbao",
+      "title": "Giá vàng hôm nay 10/10: Vàng SJC giao dịch ở mức 144,8 triệu đồng/lượng",
+      "publisher": "Vietbao",
+      "url": "https://vietbao.vn/gia-vang-hom-nay-1010-vang-sjc-giao-dich-o-muc-1448-trieu-dongluong-610727.html",
+      "published_at": "2026-10-10",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-gold-kenh14",
+      "title": "Giá vàng hôm nay 10/10: Trong nước và thế giới tăng mạnh",
+      "publisher": "Kênh14",
+      "url": "https://kenh14.vn/gia-vang-hom-nay-10-10-trong-nuoc-va-the-gioi-tang-manh-215261010080056716.chn",
+      "published_at": "2026-10-10",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-us-thestreet",
+      "title": "Stock Market Today (Oct. 9, 2026): Dow, S&P 500 end week higher as market rallies into earnings season",
+      "publisher": "TheStreet",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-us-yahoo",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rally to cap volatile week as earnings season nears",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+      "published_at": "2026-10-09",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-cam-fptshop-se3",
+      "title": "Camera IP 3MP FPT SE 3 (360 độ)",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/camera/camera-giam-sat-ip-3mp-fpt-se-3",
+      "published_at": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-cam-fptshop-se2",
+      "title": "Camera IP 3MP FPT SE 2",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/camera/camera-giam-sat-ip-3mp-fpt-se-2",
+      "published_at": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-cam-fptshop-mem",
+      "title": "Giảm thêm 5% giá thẻ nhớ khi mua kèm camera an ninh tại FPT Shop",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/tin-khuyen-mai/giam-them-5percent-gia-the-nho-khi-mua-kem-camera-an-ninh-tai-fpt-shop-212836",
+      "published_at": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-apple-baomoi",
+      "title": "Apple bắt tay LG làm thiết bị nhà thông minh",
+      "publisher": "Tạp chí Điện tử & Ứng dụng (qua Baomoi)",
+      "url": "https://baomoi.com/apple-bat-tay-lg-lam-thiet-bi-nha-thong-minh-c56224016.epi",
+      "published_at": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "v10-apple-vnexpress",
+      "title": "Apple ra loạt thiết bị nhà thông minh ngày 13/10",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/apple-ra-loat-thiet-bi-nha-thong-minh-ngay-13-10-5130213.html",
+      "published_at": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "id": "w11-gold-baovanhoa",
+      "title": "Giá vàng hôm nay 11/10: Vàng thế giới phục hồi mạnh, giá SJC không đổi",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/kinh-te/gia-vang-hom-nay-1110-vang-the-gioi-phuc-hoi-manh-gia-sjc-khong-doi-273463.html",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "w11-gold-qdnd",
+      "title": "Giá vàng hôm nay (11-10): Đồng loạt đi ngang",
+      "publisher": "Báo Quân đội nhân dân",
+      "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-vang-hom-nay-11-10-dong-loat-di-ngang-1060193",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "w11-gold-vov",
+      "title": "Giá vàng hôm nay 11/10: Chênh lệch mua bán vàng trong nước 3 triệu đồng/lượng",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-1110-chenh-lech-mua-ban-vang-trong-nuoc-3-trieu-dongluong-post1340142.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-11"
+    },
+    {
+      "id": "x12-fx-vov",
+      "title": "Tỷ giá USD hôm nay 12/10: Tỷ giá trung tâm vẫn giữ ổn định ở mức 25.626 đồng/USD",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/ty-gia-usd-hom-nay-1210-ty-gia-trung-tam-van-giu-on-dinh-o-muc-25626-dongusd-post1340134.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-thanhnien",
+      "title": "Giá USD hôm nay 12.10.2026: Đứng yên dù euro và yen Nhật tiếp tục đi lùi",
+      "publisher": "Thanh Niên",
+      "url": "https://thanhnien.vn/gia-usd-hom-nay-12102026-dung-yen-du-euro-va-yen-nhat-tiep-tuc-di-lui-185261012073737422.htm",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-dnhn",
+      "title": "Tỷ giá USD hôm nay 12/10/2026: Đồng USD chờ cú hích từ lạm phát Mỹ",
+      "publisher": "Doanh nghiệp & Hội nhập",
+      "url": "https://doanhnghiephoinhap.vn/ty-gia-usd-hom-nay-1210-2026-dong-usd-cho-cu-hich-tu-lam-phat-my-151308.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-fx-tbtc",
+      "title": "Tỷ giá USD hôm nay (12/10): DXY giữ trên 102 điểm, thị trường chờ tín hiệu lãi suất Fed từ dữ liệu lạm phát Mỹ",
+      "publisher": "Thời báo Tài chính Việt Nam",
+      "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-12-10-dxy-giu-tren-102-diem-thi-truong-cho-tin-hieu-lai-suat-fed-tu-du-lieu-lam-phat-my-205193.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-danviet",
+      "title": "Giá vàng hôm nay (12/10): Tiếp tục bất động, nhà đầu tư có nên xuống tiền?",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/gia-vang-hom-nay-12-10-tiep-tuc-bat-dong-nha-dau-tu-co-nen-xuong-tien-d1466483.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-cafef",
+      "title": "Giá vàng nhẫn trơn, vàng miếng sáng 12/10 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-12-10-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261012071152107.chn",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-gold-baoquocte",
+      "title": "Giá vàng hôm nay 12/10/2026 còn dư địa tăng, lực bán suy yếu, nhà đầu tư chờ thêm tín hiệu từ lợi suất trái phiếu Mỹ",
+      "publisher": "Báo Quốc tế",
+      "url": "https://baoquocte.vn/gia-vang-hom-nay-12-10-2026-con-du-dia-tang-luc-ban-suy-yeu-nha-dau-tu-cho-them-tin-hieu-tu-loi-suat-trai-phieu-my-455013.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-baolaocai",
+      "title": "Giá xăng dầu hôm nay 12/10/2026: Dầu thế giới biến động nhẹ đầu tuần",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-12102026-dau-the-gioi-bien-dong-nhe-dau-tuan-post911693.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-thuongtruong",
+      "title": "Giá xăng dầu hôm nay 12/10: Dầu Brent vượt 105 USD/thùng, nguồn cung chịu sức ép",
+      "publisher": "Thương Trường",
+      "url": "https://thuongtruong.com.vn/news/gia-xang-dau-hom-nay-1210-dau-brent-vuot-105-usdthung-nguon-cung-chiu-suc-ep-170596.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-oil-vietnamnet",
+      "title": "Giá xăng dầu hôm nay 12/10: Thế giới xu hướng giảm, xăng hơn 28.000 đồng/lít",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-12-10-the-gioi-xu-huong-giam-xang-trong-nuoc-tang-2563886.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-vietstock",
+      "title": "Vietstock Weekly 12-16/10/2026: Đà giảm chưa dừng?",
+      "publisher": "Vietstock",
+      "url": "https://vietstock.vn/2026/10/vietstock-weekly-12-16102026-da-giam-chua-dung-1636-1501166.htm",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-vov",
+      "title": "Nhận định chứng khoán 12-16/10: VN-Index chưa thoát xu hướng điều chỉnh",
+      "publisher": "VOV",
+      "url": "http://vov.vn/thi-truong/nhan-dinh-chung-khoan-12-1610-vn-index-chua-thoat-xu-huong-dieu-chinh-post1339818.vov",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-baodautu",
+      "title": "Góc nhìn TTCK tuần 12/10 - 16/10: Lực cầu dần quay lại",
+      "publisher": "Báo Đầu tư",
+      "url": "https://baodautu.vn/goc-nhin-ttck-tuan-1210---1610-luc-cau-dan-quay-lai-d719877.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-vni-index",
+      "title": "VN-Index tuần 12–16/10: Vùng 1.700–1.730 điểm được kiểm định",
+      "publisher": "Index.vn",
+      "url": "https://index.vn/tin-tuc/vn-index-tuan-12-16-10-vung-1-700-1-730-diem-duoc-kiem-dinh",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-uscpi-kucoin",
+      "title": "Dự báo lạm phát của Mỹ sẽ tăng lên 3,7% trước quyết định của Fed ngày 28 tháng 10",
+      "publisher": "KuCoin News (flash)",
+      "url": "https://kucoin.com/vi/news/flash/u-s-inflation-forecast-to-rise-to-3-7-before-october-28-fed-decision",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-thuonggia",
+      "title": "TikTok Shop áp dụng phí vận hành logistics mới cho kiện hàng trên 10kg từ 12/10",
+      "publisher": "Thương gia Online",
+      "url": "https://thuonggiaonline.vn/tiktok-shop-sap-thu-them-phi-len-den-65000-dongkien-hang-post573088.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-tuoitre",
+      "title": "TikTok Shop thu thêm phí vận hành logistics đến 65.000 đồng/kiện",
+      "publisher": "Tuổi Trẻ Online",
+      "url": "https://tuoitre.vn/tiktok-shop-sap-thu-them-phi-van-hanh-logistics-cao-nhat-den-65000-dong-kien-100260923172052795.htm",
+      "published_at": "2026-09-23",
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-tiktok-fee-sksd",
+      "title": "TikTok Shop áp dụng phí logistics từ 3.000 đến 65.000 đồng cho kiện hàng nặng trên 10 kg",
+      "publisher": "Pháp luật - Sức khỏe & Đời sống",
+      "url": "https://phapluat.suckhoedoisong.vn/tiktok-shop-ap-dung-phi-logistics-tu-3000-den-65000-dong-cho-kien-hang-nang-tren-10-kg-285784.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-cam-metric",
+      "title": "Phân tích thị phần cạnh tranh và Top thương hiệu ở nhóm hàng Camera an ninh không dây trên sàn TMĐT",
+      "publisher": "Metric.vn",
+      "url": "https://metric.vn/ereport/thi-phan-camera-an-ninh-khong-day",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    },
+    {
+      "id": "x12-cam-cellphones-imou",
+      "title": "Camera Imou Wifi chính hãng bao test giao nhanh 2H - 10/2026",
+      "publisher": "CellphoneS",
+      "url": "https://cellphones.com.vn/phu-kien/camera/an-ninh/imou.html",
+      "published_at": null,
+      "accessed_at": "2026-10-12"
+    }
+  ]
+}
